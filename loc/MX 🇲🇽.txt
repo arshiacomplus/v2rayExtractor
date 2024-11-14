@@ -1,0 +1,1 @@
+hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.84.168.166:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%B2%F0%9F%87%BDConfigV2RayNG
