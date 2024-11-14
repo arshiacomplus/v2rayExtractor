@@ -1,2 +1,1 @@
 trojan://xjN4xcuPGg@a.522226.xyz:45101?security=tls&headerType=none&type=tcp#South+Korea+Oracle
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
