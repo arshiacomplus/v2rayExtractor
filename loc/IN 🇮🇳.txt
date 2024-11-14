@@ -1,2 +1,2 @@
-hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B3ConfigV2RayNG
 hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@141.148.208.213:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B3ConfigV2RayNG
+hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B3ConfigV2RayNG
