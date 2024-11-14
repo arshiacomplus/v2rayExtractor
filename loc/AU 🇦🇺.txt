@@ -1,3 +1,3 @@
 hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BAConfigV2RayNG
-hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.164.54:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BAConfigV2RayNG
 vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
+hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.164.54:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BAConfigV2RayNG
