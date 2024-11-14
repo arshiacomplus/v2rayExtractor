@@ -1,14 +1,5 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.17.132:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.17.132:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.17.132:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20980?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+trojan://xjN4xcuPGg@a.522226.xyz:45101?security=tls&headerType=none&type=tcp#South+Korea+Oracle
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.17.132:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.17.132:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.17.132:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@131.186.17.132:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴋᴏʀᴇᴀ,ᴛʜᴇʀᴇᴘᴜʙʟɪᴄᴏғ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#[🏁]t.me/ConfigsHub
