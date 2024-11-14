@@ -1,14 +1,2 @@
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.154.237.13:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.154.46.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.154.237.13:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.154.46.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.154.237.13:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.154.46.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.154.237.13:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.154.237.13:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.154.237.13:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.154.237.13:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.154.46.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.154.46.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.154.46.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.154.46.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B3ConfigV2RayNG
+hysteria2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@141.148.208.213:443?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B3ConfigV2RayNG
