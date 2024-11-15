@@ -1,3 +1,1 @@
-vless://bf391fce-b6fd-43ed-f531-3e5409a82bc9@65.21.186.167:11386?security=reality&flow=xtls-rprx-vision-udp443&sni=microsoft.com&type=tcp&fp=firefox&pbk=6-PmJoMCMYHnCgz3w7Djvxdsv_sxvVZ3_zrDqOC5Rgs#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@65.109.185.229:1001?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://5b00b0cf-354f-4864-a808-a2da64c354ae@65.21.186.167:23367?security=none&type=tcp&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
