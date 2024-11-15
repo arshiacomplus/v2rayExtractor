@@ -1,6 +1,1 @@
-vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
