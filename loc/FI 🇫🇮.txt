@@ -1,2 +1,1 @@
-vless://e0c397c6-9aa0-48f8-aa9a-6fcab7d7b1e2@37.27.221.171:443?security=none&type=grpc&serviceName=yas.mhgy.75656.iryg.ir#@Hope_Net-join-us-on-Telegram
-vless://e0c397c6-9aa0-48f8-aa9a-6fcab7d7b1e2@37.27.221.171:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=yas.mhgy.75656.iryg.ir#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://6c316928-500c-47e1-8851-efc44aa2c66d@65.21.186.167:23367?security=none&type=tcp&host=telewebion.com&headerType=http#@Hope_Net-join-us-on-Telegram
