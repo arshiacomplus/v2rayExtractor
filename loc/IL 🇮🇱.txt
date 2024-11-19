@@ -1,0 +1,1 @@
+vless://a38fbcf4-edb4-4b2b-88dd-5c357c2af4ff@89.221.225.159:2053?security=reality&encryption=none&pbk=Am1Y8Hfk9DWE9SEticU93yF2G2PcC8bmgKpq_V5NuiI&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=e8ebda2f23f6#ConfigV2RayNG
