@@ -1,2 +1,1 @@
-hysteria2://5454c787-fa89-4416-8d3f-0e56d8e0969c@128.204.223.42:28258?security=tls&insecure=1&sni=www.bing.com#%E2%9A%99%EF%B8%8F64%40ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#@Hope_Net
