@@ -1,10 +1,7 @@
-vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.155:8000?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&type=ws&sni=vless.ifx.us.kg#%40V2rayNG3
-vless://3c166ce5-5d64-47cf-9bd5-e08b6e1bca73@2.189.85.250:14490?security=none&type=tcp&host=fast.com&headerType=http#@Hope_Net-join-us-on-Telegram
-vless://3c166ce5-5d64-47cf-9bd5-e08b6e1bca73@2.189.85.250:14492?type=tcp&host=fast.com&headerType=http#@Hope_Net-join-us-on-Telegram
+vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#%40V2rayNG3
-vless://98a3f939-3ec6-42f7-99f5-4c4ca874046c@79.127.70.120:2087?security=none&encryption=none&host=doostihaa.comTelegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN+-Telegram+%3A+%40JOKERRVPN&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=%2F&security=none&encryption=none&type=ws#@V2rayNG3
-vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
 vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG3
+vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=%2F&security=none&encryption=none&type=ws#@V2rayNG3@V2rayNG3@SERVER444
