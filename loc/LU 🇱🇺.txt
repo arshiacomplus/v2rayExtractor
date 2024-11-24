@@ -1,1 +1,2 @@
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.223.84.79:80?security=none&type=ws&host=ipcfusa.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?allowInsecure=0&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=/fp=chromefp=chrome&security=tls#@Hope_Net-join-us-on-Telegram
