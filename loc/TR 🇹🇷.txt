@@ -1,2 +1,1 @@
-vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763?type=tcp#@Hope_Net-join-us-on-Telegram
 vless://8377b431-2239-42b1-abd8-d4d32cf65862@62.60.246.193:21875?type=tcp#@Hope_Net-join-us-on-Telegram
