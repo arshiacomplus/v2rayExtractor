@@ -1,5 +1,5 @@
-vless://de44b044-8f90-4e18-b742-16591667ff96@202.60.191.6:17922?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel-free.pages.dev&fp=randomized&type=ws&sni=edgetunnel-free.pages.dev#%F0%9F%8D%8784%40ConfigV2RayNG%20
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#%F0%9F%8D%9212%40ConfigV2RayNG
+vless://de44b044-8f90-4e18-b742-16591667ff96@202.60.191.6:17922?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgetunnel-free.pages.dev&fp=randomized&type=ws&sni=edgetunnel-free.pages.dev#%F0%9F%8D%8784%40ConfigV2RayNG%20
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
 trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@57.180.26.117:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@57.180.14.90:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
