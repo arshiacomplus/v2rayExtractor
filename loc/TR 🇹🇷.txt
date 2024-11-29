@@ -1,1 +1,2 @@
-vless://8377b431-2239-42b1-abd8-d4d32cf65862@62.60.246.193:21875?type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?security=none&type=tcp&host=uptvs.com&headerType=http#@Hope_Net-join-us-on-Telegram
+trojan://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?security=none&type=tcp&host=uptvs.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
