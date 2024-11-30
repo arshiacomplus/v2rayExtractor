@@ -1,1 +1,1 @@
-trojan://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?security=none&type=tcp&host=uptvs.com&headerType=http#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaUVHQ0w3enIwcE15VHhGVUs5djNU@5.180.45.142:18429#@Hope_Net
