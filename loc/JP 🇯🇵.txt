@@ -1,1 +1,2 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
+trojan://4aa9ee7a-ffee-4ca4-a588-f5fa9e979c38@3.112.5.154:20230?security=tls&sni=jp008.421421.xyz&allowInsecure=1#@Hope_Net-join-us-on-Telegram
