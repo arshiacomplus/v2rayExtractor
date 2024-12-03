@@ -1,1 +1,1 @@
-trojan://bpb-trojan@141.11.203.98:443?allowInsecure=1&sni=bpb.my79801.com#@Hope_Net-join-us-on-Telegram
+vless://c4e32b22-f0ee-47aa-abef-373cf35bc1ba@5.182.38.165:443?security=reality&sni=www.google.com&type=tcp&fp=chrome&pbk=EsvkKogbRPn7YK-U5Rx5G5Q255VDmJMY4TU37KTVN14&sid=1be095b3#@Hope_Net-join-us-on-Telegram
