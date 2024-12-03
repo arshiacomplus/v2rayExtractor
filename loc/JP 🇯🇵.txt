@@ -1,5 +1,5 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@150.230.202.26:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%8D%9003%40ConfigV2RayNG
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
 hysteria2://c9105bd7-17d5-4621-ab12-b8309286855f@23.26.34.209:8080?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%40ConfigV2RayNG
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.51.42:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%8D%9004%40ConfigV2RayNG
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@150.230.202.26:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%8D%9003%40ConfigV2RayNG
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.14.64.185:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%8D%9099%40ConfigV2RayNG
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.51.42:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%8D%9004%40ConfigV2RayNG
