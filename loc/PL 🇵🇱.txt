@@ -1,1 +1,1 @@
-trojan://NISHIKUITAN111@185.193.30.187:443?#@Hope_Net-join-us-on-Telegram
+vless://247d64a5-a9ca-44f3-afe8-af329647cbe3@146.19.170.113:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=EsvkKogbRPn7YK-U5Rx5G5Q255VDmJMY4TU37KTVN14&sid=1be095b3#@Hope_Net-join-us-on-Telegram
