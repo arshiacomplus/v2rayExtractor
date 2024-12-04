@@ -1,1 +1,1 @@
-vless://247d64a5-a9ca-44f3-afe8-af329647cbe3@146.19.170.113:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=EsvkKogbRPn7YK-U5Rx5G5Q255VDmJMY4TU37KTVN14&sid=1be095b3#@Hope_Net-join-us-on-Telegram
+hysteria2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@91.149.203.119:443?security=tls&insecure=1&mport=50000-53000&sni=api.push.apple.com#%F0%9F%8C%B6%EF%B8%8F1%40ConfigV2RayNG
