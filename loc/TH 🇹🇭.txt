@@ -1,0 +1,1 @@
+hysteria2://sysadmin.sysadmin@47.81.8.60:7788?security=tls&insecure=1&sni=tg.sdxlgj001.top#%F0%9F%8C%B6%EF%B8%8F90%40ConfigV2RayNG
