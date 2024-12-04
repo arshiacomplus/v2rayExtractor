@@ -1,1 +1,2 @@
+hysteria2://sysadmin.sysadmin@167.234.249.46:444?security=tls&insecure=1&sni=a.961229.xyz#%F0%9F%A5%A644%40ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbUZsTURKaA%3D%3D@95.164.4.238:8388#Brazil%20Stark
