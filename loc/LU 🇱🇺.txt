@@ -1,1 +1,1 @@
-ss://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=VIrgiNiavPn-nL.pagEs.dEv&type=ws&sni=VIrgiNiavPn-nL.pagEs.dEv#@Hope_Net
+trojan://blue2024@94.242.229.41:443?allowInsecure=0&sni=ta.promote.icu#@Hope_Net-join-us-on-Telegram
