@@ -3,7 +3,7 @@
   
 - vless:
 
-```
+```sh
 https://github.com/arshiacomplus/v2rayExtractor/blob/main/vless.html
 ```
   
@@ -12,7 +12,7 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/vless.html
   
 - vmess:
 
-```
+```sh
 https://github.com/arshiacomplus/v2rayExtractor/blob/main/vmess.html
 ```
   
@@ -21,7 +21,7 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/vmess.html
 
 - trojan:
 
-```
+```sh
 https://github.com/arshiacomplus/v2rayExtractor/blob/main/trojan.html
 ```
   
@@ -30,7 +30,7 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/trojan.html
 
 - ss:
 
-```
+```sh
 https://github.com/arshiacomplus/v2rayExtractor/blob/main/ss.html
 ```
   
@@ -39,7 +39,7 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/ss.html
   
 - hy2:
 
-```
+```sh
 https://github.com/arshiacomplus/v2rayExtractor/blob/main/hy2.html
 ```
 
