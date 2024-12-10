@@ -1,4 +1,4 @@
-##copy a paste this sublink(s) in a clinet:
+## copy a paste this sublink(s) in a clinet:
 <div>
   
 - vless:
