@@ -1,7 +1,7 @@
 ## copy a paste this sublink(s) in a clinet:
 <div>
   
-- vless:
+- vless :
 
 ```sh
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html
@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/v
 </div><hr>
 <div>
   
-- vmess:
+- vmess :
 
 ```sh
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vmess.html
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/v
 </div><hr>
 <div>
 
-- trojan:
+- trojan :
 
 ```sh
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/trojan.html
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/t
 </div><hr>
 <div>
 
-- ss:
+- ss :
 
 ```sh
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/ss.html
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/s
 </div><hr>
 <div>
   
-- hy2:
+- hy2 :
 
 ```sh
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/hy2.html
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/h
 
 <div>
   
-- mix:
+- mix :
 
 ```sh
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
