@@ -4,7 +4,7 @@
 - vless:
 
 ```sh
-https://github.com/arshiacomplus/v2rayExtractor/blob/main/vless.html
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html
 ```
   
 </div><hr>
@@ -13,7 +13,7 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/vless.html
 - vmess:
 
 ```sh
-https://github.com/arshiacomplus/v2rayExtractor/blob/main/vmess.html
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vmess.html
 ```
   
 </div><hr>
@@ -22,7 +22,7 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/vmess.html
 - trojan:
 
 ```sh
-https://github.com/arshiacomplus/v2rayExtractor/blob/main/trojan.html
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/trojan.html
 ```
   
 </div><hr>
@@ -31,7 +31,7 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/trojan.html
 - ss:
 
 ```sh
-https://github.com/arshiacomplus/v2rayExtractor/blob/main/ss.html
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/ss.html
 ```
   
 </div><hr>
@@ -40,7 +40,7 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/ss.html
 - hy2:
 
 ```sh
-https://github.com/arshiacomplus/v2rayExtractor/blob/main/hy2.html
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/hy2.html
 ```
 
 </div><hr>
@@ -50,13 +50,12 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/hy2.html
 - mix:
 
 ```sh
-https://github.com/arshiacomplus/v2rayExtractor/blob/main/mix/sub.html
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
 ```
 
 </div><hr>
 
 ## In ths folder you can see config(s) that seprated by region:
 
-```sh
+
 https://github.com/arshiacomplus/v2rayExtractor/tree/main/loc
-```
