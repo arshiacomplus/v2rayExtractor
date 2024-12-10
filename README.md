@@ -44,3 +44,19 @@ https://github.com/arshiacomplus/v2rayExtractor/blob/main/hy2.html
 ```
 
 </div><hr>
+
+<div>
+  
+- mix:
+
+```sh
+https://github.com/arshiacomplus/v2rayExtractor/blob/main/mix/sub.html
+```
+
+</div><hr>
+
+## In ths folder you can see config(s) that seprated by region:
+
+```sh
+https://github.com/arshiacomplus/v2rayExtractor/tree/main/loc
+```
