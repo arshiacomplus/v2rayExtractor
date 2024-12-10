@@ -1,1 +1,1 @@
-trojan://NISHIKUITAN111@5.10.244.100:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#@Hope_Net-join-us-on-Telegram
+trojan://blue2024@92.60.74.73:443?allowInsecure=0&sni=ta.promote.icu#@Hope_Net-join-us-on-Telegram
