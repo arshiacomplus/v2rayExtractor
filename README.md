@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/m
 
 </div><hr>
 
-## In ths folder you can see config(s) that seprated by region:
+## In this folder you can see config(s) that seprated by region:
 
 
 https://github.com/arshiacomplus/v2rayExtractor/tree/main/loc
