@@ -1,2 +1,2 @@
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:48169?security=tls&sni=hk12.bilibili.com&type=tcp#@Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJ2IjoyLCJwcyI6IvCfh7Hwn4e6X0xVX+WNouajruWgoV8yIiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:48169?security=tls&sni=hk12.bilibili.com&type=tcp#@Hope_Net-join-us-on-Telegram
