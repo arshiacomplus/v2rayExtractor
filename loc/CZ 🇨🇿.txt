@@ -1,1 +1,2 @@
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@188.164.158.7:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMFFCQVNsRUVQdmlyNjdZN0VYbDc0@77.83.246.74:33320#@Hope_Net
