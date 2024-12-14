@@ -1,1 +1,1 @@
-vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@154.83.2.121:8443?path=%2F&security=tls&encryption=none&host=f.ylks.xyz&type=ws&sni=f.ylks.xyz#%F0%9F%8D%9036%40ConfigV2RayNG
+trojan://blue2024@154.197.75.32:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
