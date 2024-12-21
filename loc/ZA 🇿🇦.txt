@@ -1,1 +1,1 @@
-vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@102.177.176.74:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.123.255.42:443?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
