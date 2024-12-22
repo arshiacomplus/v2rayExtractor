@@ -1,1 +1,1 @@
-vless://fb0f7523-be20-4a7c-ad71-9eccd93f960d@146.75.0.88:80?path=%2Fmelo%2Fws%3Fed%3D2048&security=none&encryption=none&host=login.meloammn.com&type=ws#%F0%9F%87%A6%F0%9F%87%B9%40flyv2ray
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE0Ny43OC4xNDAuNTAiLCAicG9ydCI6ICI4NDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2R5YWp2d3MiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJ0bHMiOiAidGxzIn0=
