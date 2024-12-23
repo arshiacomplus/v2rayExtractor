@@ -1,1 +1,1 @@
-vless://71b60539-19bf-4282-b09f-7596ffc3cc8b@195.211.24.109:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=YiRDigHR3yK8jv7iHPS4lSO6Drmw4tiZiKyGQ09tdCQ&sid=42d68CBD#@Hope_Net-join-us-on-Telegram
+vless://71b60539-19bf-4282-b09f-7596ffc3cc8b@195.211.24.243:443?security=reality&flow=xtls-rprx-vision&sni=apple.com&type=tcp&fp=chrome&pbk=-ALxkpd7Wi7WKs1dXND7yqoYQfJW8d4BctjfXIy0L1M&sid=b5ed878b#@Hope_Net-join-us-on-Telegram
