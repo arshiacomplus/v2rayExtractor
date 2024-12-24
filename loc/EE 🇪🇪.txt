@@ -1,2 +1,3 @@
 vless://world@5.181.23.116:7777?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%40V2rayNG3
+vless://d9ecfdf0-0638-4020-a662-13888776499b@147.45.60.193:38537?serviceName=telegram_@v2rayCrow_#@Hope_Net-join-us-on-Telegram
 vless://world@5.181.23.116:7777?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%40V2rayNG3@V2rayNG3@SERVER444
