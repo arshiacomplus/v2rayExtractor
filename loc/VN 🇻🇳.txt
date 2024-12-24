@@ -1,1 +1,1 @@
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@160.30.160.134:443?security=tls&sni=cmc5.5gsieuvip.vn&type=tcp&allowInsecure=1#@Hope_Net-join-us-on-Telegram
