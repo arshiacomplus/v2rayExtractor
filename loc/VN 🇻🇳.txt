@@ -1,3 +1,1 @@
 trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@103.173.66.155:443?security=tls&sni=cmc3.5gsieuvip.vn&type=tcp#@Hope_Net-join-us-on-Telegram
-trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@160.30.160.134:443?security=tls&sni=cmc5.5gsieuvip.vn&type=tcp&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@103.173.66.155:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
