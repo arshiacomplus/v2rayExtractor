@@ -1,1 +1,2 @@
-vless://834ceabf-2853-4059-a167-5ffda883115d@195.85.59.95:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?type=tcp#@Hope_Net-join-us-on-Telegram
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.188:2198?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
