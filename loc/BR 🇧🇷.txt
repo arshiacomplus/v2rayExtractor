@@ -1,1 +1,2 @@
+vless://837ee305-f265-4d16-8e56-0fa79bb9501b@199.232.112.31:443?path=%2FVLESS%3Fed%3D2560&security=tls&encryption=none&host=jOin-E.L.i.V.2.R.A.Y.stOre&type=ws&sni=Elena.io#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbUZsTURKaA%3D%3D@95.164.4.238:8388#Brazil%20Stark
