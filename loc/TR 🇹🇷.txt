@@ -1,4 +1,3 @@
 vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#%40V2rayNG3
-vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?security=tls&sni=tr-s.xor-vpn.ru&type=tcp&encryption=none#https://t.me/ShadowsocksM
 vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?security=tls&sni=tr-s.xor-vpn.ru&type=tcp&encryption=none#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-5840
