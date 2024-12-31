@@ -1,1 +1,2 @@
+vless://8b269721-714f-4bb8-a18e-76038fbec1ec@199.232.112.11:443?path=%2FVLESS%3Fed%3D2560&security=tls&encryption=none&host=jOin-E.L.i.V.2.R.A.Y.stOre&type=ws&sni=Elena.io#%40V2ray1_Ng%20ALLwireguard://eEI%2BScuVXqQSlD0xn5IF%2FXToyfZMWYcXDnczMKTe1Fo%3D@162.159.192.24:891?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8a53%3Ad6cb%3Abbf%3Ace2e%3Ad3e3%2F128&presharedkey=&reserved=138%2C24%2C21&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbUZsTURKaA%3D%3D@95.164.4.238:8388#Brazil%20Stark
