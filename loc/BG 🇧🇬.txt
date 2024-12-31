@@ -1,1 +1,1 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE0Ny43OC4xNDAuNTAiLCAicG9ydCI6ICI4NDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2R5YWp2d3MiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJ0bHMiOiAidGxzIn0=
+vless://0ac5ebf4-efc6-41e6-896f-2fa273feb2af@138.124.54.108:2082?security=none&type=httpupgrade&host=tr-sarhad.saro-net.com&path=%2Fclcprelunch.parspack.com%2Fsaro-net.com%3Fed%3D2082#@Hope_Net-join-us-on-Telegram
