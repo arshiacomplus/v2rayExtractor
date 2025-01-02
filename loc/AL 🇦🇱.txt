@@ -1,3 +1,2 @@
-vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@103.167.234.97:443?security=reality&flow=xtls-rprx-vision&sni=spirako.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#@Hope_Net-join-us-on-Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#%40V2rayNG3
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#%F0%9F%92%9C%20%40PewezaVPN%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#%40V2rayNG3
