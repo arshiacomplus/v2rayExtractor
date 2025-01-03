@@ -1,1 +1,1 @@
-vless://a01634d7-4070-5586-970e-bdd5e4d17b93@45.89.55.188:8880?security=none&type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
+vless://52cba274-2371-453b-b692-9c979399d536@2.56.172.168:443?security=reality&flow=xtls-rprx-vision&sni=cdnjs.com&type=tcp&fp=chrome&pbk=PYuPyiEHoB4PVTAcn329rn0-uXmiVyjxFTxu862lfiw&sid=67a07e2c020e8c94#@Hope_Net-join-us-on-Telegram
