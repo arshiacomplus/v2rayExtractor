@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%F0%9F%8D%92
+vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.94:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=/uxb.vs2024.us.kg#@Hope_Net-join-us-on-Telegram
