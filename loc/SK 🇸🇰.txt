@@ -1,1 +1,1 @@
-vless://c538dafa-4f0d-512a-ae22-c92e2e8b56fe@5.252.23.133:2052?security=none&sni=sk1.vless.sitespeedtest.net&type=ws&host=5.252.23.133.&path=%2Fvless%23%40vpnAndroid2%2C%40vpnAndroid2%2C%40vpnAndroid2&fp=firefox&alpn=h2#@Hope_Net-join-us-on-Telegram
+vless://c538dafa-4f0d-512a-ae22-c92e2e8b56fe@5.252.23.133:2052?security=none&sni=sk1.vless.sitespeedtest.net&type=ws&host=5.252.23.133.&path=/vless#@Hope_Net-join-us-on-Telegram
