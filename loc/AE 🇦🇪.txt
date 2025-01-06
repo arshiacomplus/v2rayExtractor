@@ -1,2 +1,2 @@
-vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@103.249.133.221:443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=randomized&pbk=BX4OkbesvzSH-F17y_isYOn2q5ZTk4himYHqQfJfEjQ#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#https://t.me/ShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.89.209:443#https://t.me/ShadowsocksM
