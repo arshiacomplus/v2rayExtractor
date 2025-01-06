@@ -1,1 +1,2 @@
 vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&path=/Telegram@Linkvws?ed%3D2560&host=xn----pmcnaac0dkn0rb71nda.pages.dev&encryption=none#MCI-@Awlix_ir
+vless://eef5fac1-b0df-437a-bb85-46c3c09d6a1e@45.154.206.101:18971?security=reality&flow=xtls-rprx-vision&sni=google-analytics.com&type=tcp&fp=firefox&pbk=Lm5INx5YMxKHRJIwqRZP9iIHh6Hq6IUX2zJbIkM-NDs&sid=3b79fc#@Hope_Net-join-us-on-Telegram
