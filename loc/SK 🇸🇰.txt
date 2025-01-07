@@ -1,2 +1,1 @@
 vless://f8d38e09-c654-5045-9816-27cf78cc93fa@5.252.23.173:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40IrV2rey
-vless://bca312f3-afc4-540f-a174-ac90596a3bbc@5.252.23.173:80?security=none&type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
