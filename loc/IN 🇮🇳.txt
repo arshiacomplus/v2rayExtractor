@@ -1,6 +1,4 @@
-trojan://SSorg@154.197.64.228:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#https://t.me/ShadowsocksM
-trojan://SSorg@154.197.64.228:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@108.165.152.98:2087?security=tls&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-trojan://SSorg@108.165.152.29:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiIyMC4xOTMuMTMxLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNmYwNTQxZi1hZjcxLTRlMTYtOWNkOC01YTYxMjkzNGI3YTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMjk0IiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://SSorg@108.165.152.59:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://SSorg@154.197.64.228:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#https://t.me/ShadowsocksM
+trojan://SSorg@108.165.152.29:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://SSorg@108.165.152.58:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
