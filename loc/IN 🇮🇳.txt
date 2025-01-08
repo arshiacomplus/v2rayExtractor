@@ -1,4 +1,3 @@
-vmess://eyJhZGQiOiIyMC4xOTMuMTMxLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNmYwNTQxZi1hZjcxLTRlMTYtOWNkOC01YTYxMjkzNGI3YTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMjk0IiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://SSorg@154.197.64.228:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#https://t.me/ShadowsocksM
-trojan://SSorg@108.165.152.29:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vmess://eyJhZGQiOiIyMC4xOTMuMTMxLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNmYwNTQxZi1hZjcxLTRlMTYtOWNkOC01YTYxMjkzNGI3YTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMjk0IiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://SSorg@108.165.152.58:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
