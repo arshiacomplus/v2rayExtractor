@@ -1,2 +1,2 @@
-vless://73159dbd-e01e-4492-a234-e5d7c335b128@217.142.134.1:23258?security=reality&flow=xtls-rprx-vision&sni=microsoft.com&type=tcp&fp=chrome&pbk=p-g7A0RMBXZOUey2V-HjWsI-5j-EpNITj_JVqx_9OnI&sid=545abc6e#https://t.me/ShadowsocksM
 vless://73159dbd-e01e-4492-a234-e5d7c335b128@217.142.143.176:23258?security=reality&flow=xtls-rprx-vision&sni=microsoft.com&type=tcp&fp=chrome&pbk=p-g7A0RMBXZOUey2V-HjWsI-5j-EpNITj_JVqx_9OnI&sid=545abc6e#@Hope_Net-join-us-on-Telegram
+vless://73159dbd-e01e-4492-a234-e5d7c335b128@217.142.134.1:23258?security=reality&flow=xtls-rprx-vision&sni=microsoft.com&type=tcp&fp=chrome&pbk=p-g7A0RMBXZOUey2V-HjWsI-5j-EpNITj_JVqx_9OnI&sid=545abc6e#https://t.me/ShadowsocksM
