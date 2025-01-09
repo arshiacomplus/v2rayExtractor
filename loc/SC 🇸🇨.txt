@@ -1,2 +1,1 @@
-trojan://SSorg@154.197.64.252:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://SSorg@154.197.64.219:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://SSorg@154.197.64.228:2083?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#https://t.me/ShadowsocksM
