@@ -1,1 +1,1 @@
-vless://71b60539-19bf-4282-b09f-7596ffc3cc8b@195.211.24.243:443?security=reality&flow=xtls-rprx-vision&sni=apple.com&type=tcp&fp=chrome&pbk=-ALxkpd7Wi7WKs1dXND7yqoYQfJW8d4BctjfXIy0L1M&sid=b5ed878b#@Hope_Net-join-us-on-Telegram
+vless://76b2f4b0-95de-41cd-e982-0e33e80a1f89@64.176.162.145:8080?type=ws&security=none&path=%2F#telegram🚀DailyV2ry
