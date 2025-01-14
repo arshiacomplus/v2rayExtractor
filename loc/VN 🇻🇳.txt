@@ -1,1 +1,1 @@
-trojan://34ec6bdf-602c-4bbe-933a-5c0823524201@160.30.160.134:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
+vless://acfe23eb-e73f-4678-cfe7-5b88e9fd603f@157.10.53.154:38244?security=reality&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&type=tcp&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2\_vbTYeMD9zn8wnTo02S69QM#@Hope_Net-join-us-on-Telegram
