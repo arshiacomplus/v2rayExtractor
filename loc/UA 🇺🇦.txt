@@ -1,1 +1,1 @@
-vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?security=tls&sni=005188006073.sec1org.com&allowInsecure=0#@Hope_Net-join-us-on-Telegram
+vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?type=tcp#@Hope_Net-join-us-on-Telegram
