@@ -1,9 +1,7 @@
-vless://24ffb13b-fbbc-466e-c2b4-d65b9d37264c@216.238.86.226:8080?security=none&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram
 vless://24ffb13b-fbbc-466e-c2b4-d65b9d37264c@216.238.86.226:8080?type=ws&security=none&path=%2F#telegram🛸DailyV2ry
 vless://ab78d8d1-d18b-407a-aedb-e18174c09734@216.238.88.100:8080?type=ws&security=none&path=%2F#telegram🔮DailyV2ry
-vless://a263cc33-4c2b-48d3-c2e7-6c88252af4c2@216.238.88.246:8080?type=ws&security=none&path=%2F#telegram🌂DailyV2ry
 vless://ab78d8d1-d18b-407a-aedb-e18174c09734@216.238.83.47:8080?type=ws&security=none&path=%2F#telegram🪁DailyV2ry
-vless://d2091172-1e00-46d7-9d91-a93b8b70a179@216.238.67.207:8080?type=ws&security=none&path=%2F#telegram🪁DailyV2ry
-vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkBWMnJheU5HMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://6ea4224c-e441-471d-d25e-7dcc33d4ca3f@216.238.73.183:8080?type=ws&security=none&path=%2F#telegram🦋DailyV2ry
+vless://a263cc33-4c2b-48d3-c2e7-6c88252af4c2@216.238.88.246:8080?type=ws&security=none&path=%2F#telegram🌂DailyV2ry
 vless://24ffb13b-fbbc-466e-c2b4-d65b9d37264c@216.238.69.237:8080?type=ws&security=none&path=%2F#telegram☔DailyV2ry
+vless://cfeaed3d-25b4-4d91-8524-34be88ceac2a@216.238.85.241:8080?type=ws&security=none&path=%2F#telegram🎯DailyV2ry
+vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkBWMnJheU5HMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
