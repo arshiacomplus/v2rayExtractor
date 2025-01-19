@@ -1,3 +1,4 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.18.250.12:80?security=tls&sni=ana-SErVICe.xAbjCDZ.wORkErs.deV&type=ws&path=/1y6mn5dfv8zb82ai?ed%3D2560&host=ana-SErVICe.xAbjCDZ.wORkErs.deV&encryption=none#https://t.me/ShadowsocksM
 vless://009b3eda-d97b-4b32-f389-13dfeb8d8908@208.85.20.107:8080?type=ws&security=none&path=%2F#telegram☂️DailyV2ry
+vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&path=/Telegram@Linkvws?ed%3D2560&host=xn----pmcnaac0dkn0rb71nda.pages.dev&encryption=none#MCI-@Awlix_ir
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.18.250.12:80?security=tls&sni=ana-SErVICe.xAbjCDZ.wORkErs.deV&type=ws&path=/1y6mn5dfv8zb82ai?ed%3D2560&host=ana-SErVICe.xAbjCDZ.wORkErs.deV&encryption=none#https://t.me/ShadowsocksM
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?security=tls&sni=a.mifeng.us.kg&type=ws&path=/?ed%3D2560&host=a.mifeng.us.kg&encryption=none#https://t.me/ShadowsocksM
