@@ -1,1 +1,1 @@
-trojan://SSorg@154.197.64.67:443?allowInsecure=0&sni=sstjj.esslh.filegear-sg.me&ws=1&wspath=%2F#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@154.197.64.166:2053?security=tls&sni=ameqo.esslh.filegear-sg.me&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
