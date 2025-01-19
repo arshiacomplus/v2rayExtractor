@@ -1,1 +1,1 @@
-vless://4d0466d9-90b0-4f95-aef9-ca1c35b31c43@85.237.211.219:8443?security=tls&sni=www.speedtest.net.FreeIranWeb.pages.dev&type=ws&path=/vless/#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2rayNG3
