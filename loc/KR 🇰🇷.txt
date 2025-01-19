@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.12:30778#@Hope_Net
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@121.170.203.148:4563#@Hope_Net
 trojan://Aimer@106.240.1.52:20443?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#https://t.me/ShadowsocksM
