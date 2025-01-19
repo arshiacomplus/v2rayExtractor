@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#https://t.me/ShadowsocksM
 trojan://bpb-trojan@141.11.203.98:443?security=tls&sni=bpb.my79801.com&type=tcp#https://t.me/ShadowsocksM
