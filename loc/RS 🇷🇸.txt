@@ -1,1 +1,2 @@
+vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@45.89.55.188:80?security=none&type=ws&host=rs1.vless.sitespeedtest.net&path=%2Fvless%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 vless://a01634d7-4070-5586-970e-bdd5e4d17b93@45.89.55.188:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#%40V2rayNG3
