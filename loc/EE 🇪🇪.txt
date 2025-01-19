@@ -1,2 +1,2 @@
-vless://world@5.181.23.116:7777?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%40V2rayNG3
-vless://world@5.181.23.116:7777?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%40V2rayNG3@V2rayNG3@SERVER444
+vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?security=reality&encryption=none&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=7554c6ea#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴇsᴛᴏɴɪᴀ(ᴇᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?security=reality&encryption=none&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=7554c6ea#[🏁]t.me/ConfigsHub
