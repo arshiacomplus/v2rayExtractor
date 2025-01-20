@@ -1,7 +1,9 @@
 vless://5d1ebf76-cf1a-428b-de2c-8612941addb1@139.84.197.241:8080?type=ws&security=none&path=%2F#telegram🌈DailyV2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNFlvR0FqVFBCVko2UnYydlNLMW1r@3.27.194.148:443#Australia+AWS
+vmess://eyJhZGQiOiIyMC4yMTMuMjAuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMyMDZlMDIyLTM0YzYtNGZlMy1hMjMyLWI5YzA3YmEzMTY1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTc3MTgiLCJwcyI6IkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://13ad7034-3000-4c92-b925-7baf2ce74a14@45.77.50.247:8080?type=ws&security=none&path=%2F#telegram☂️DailyV2ry
-vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
+vless://527414cf-d425-4b15-c7a8-7dcc72dc5225@139.84.198.16:8080?type=ws&security=none&path=%2F#telegram👽DailyV2ry
 vless://51033b5a-0176-4636-e400-3a041969ac43@67.219.107.153:8080?type=ws&security=none&path=%2F#telegram🪩DailyV2ry
-vless://15445d8f-ac16-4310-c173-fde80ca1fed1@45.77.237.126:8080?type=ws&security=none&path=%2F#telegram☂️DailyV2ry
+vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
 vmess://eyJhZGQiOiIyMC4yMTMuMjAuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMyMDZlMDIyLTM0YzYtNGZlMy1hMjMyLWI5YzA3YmEzMTY1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTc3MTgiLCJwcyI6IkBWMnJheU5HMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://15445d8f-ac16-4310-c173-fde80ca1fed1@45.77.237.126:8080?type=ws&security=none&path=%2F#telegram☂️DailyV2ry
