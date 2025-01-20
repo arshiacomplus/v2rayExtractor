@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@121.170.203.148:4563#@Hope_Net
+vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@152.70.247.6:443?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp&fp=chrome&pbk=RVFY7VhTIdNKrLd31EyjXgIlfxSkVEwNqVVsETClkRg&sid=6ba85179e30d4fc2#@Hope_Net-join-us-on-Telegram
