@@ -1,6 +1,2 @@
-vless://4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=no2.vless.site#[🏁]t.me/ConfigsHub
-vless://4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=no2.vless.site#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɴᴏʀᴡᴀʏ(ɴᴏ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
 vless://4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=no2.vless.site#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNN3gxbUdOT3doUGlSQjlqU3haSk55@51.13.182.236:6870#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMGxneHk0bWI1MkNJSjhVVWNFZ3Rz@51.13.182.231:3089#https://t.me/ShadowsocksM
-vless://4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=no2.vless.site#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#https://t.me/ShadowsocksM
