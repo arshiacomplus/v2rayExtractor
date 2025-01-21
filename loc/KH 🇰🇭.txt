@@ -1,1 +1,1 @@
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@92.243.74.239:8443?security=tls&sni=v.aivpn.filegear-sg.me&type=ws&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&fp=random&alpn=h3#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@92.243.74.23:2096?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
