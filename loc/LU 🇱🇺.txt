@@ -1,2 +1,2 @@
-vless://22717915-d9d6-4bd2-bf81-f5a67f880b79@109.104.154.125:59557?security=reality&flow=xtls-rprx-vision&sni=google-analytics.com&type=tcp&fp=chrome&pbk=PRNmOBcE4_FVD4-Po74sKRnLWSOFupxqZ6GXsnl5A2c&sid=a5a7df#@Hope_Net-join-us-on-Telegram
-trojan://SSorg@45.80.209.25:81?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@109.104.154.146:33333#https://t.me/ShadowsocksM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVWlZakc3azV3bF9WNUN4R0dYaHd3@109.104.154.221:5555#https://t.me/ShadowsocksM
