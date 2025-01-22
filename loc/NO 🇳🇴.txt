@@ -1,1 +1,2 @@
 vless://4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=no2.vless.site#%40V2ray1_Ng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowN0xrRHR4NkF3cm1rTE1iZWhySUFo@51.13.183.76:6454#https://t.me/ShadowsocksM
