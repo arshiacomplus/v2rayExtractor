@@ -1,1 +1,1 @@
-vless://9a45538b-2e7e-55ca-beab-0f7847327335@94.131.8.32:8880?security=none&encryption=none&type=grpc&serviceName=vless-grpc#https://t.me/ShadowsocksM#https://t.me/Shadowsocks
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.218.204:8443?security=tls&sni=ath-gr-01.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#@Hope_Net-join-us-on-Telegram
