@@ -1,3 +1,1 @@
-vless://9a45538b-2e7e-55ca-beab-0f7847327335@94.131.8.32:8880?security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɢʀᴇᴇᴄᴇ(ɢʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://9a45538b-2e7e-55ca-beab-0f7847327335@94.131.8.32:8880?security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
-vless://9a45538b-2e7e-55ca-beab-0f7847327335@94.131.8.32:8880?security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇬🇷Greece
+vless://9a45538b-2e7e-55ca-beab-0f7847327335@94.131.8.32:8880?security=none&encryption=none&type=grpc&serviceName=vless-grpc#https://t.me/ShadowsocksM#https://t.me/Shadowsocks
