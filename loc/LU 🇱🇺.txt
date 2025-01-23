@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@109.104.154.146:33333#https://t.me/ShadowsocksM
+hysteria2://2b3cc655-dd8e-4258-8a05-81e895daad43@meiyou-lu.jiumaojiu.org:443?security=tls&insecure=0&mport=20501-20599&sni=meiyou-lu.jiumaojiu.org#%40V2ray1_Ngwireguard://2Cd3AZEeoz4JA%2Box2hRcjgEpPUqDnVOkMOvKNEB33Hc%3D@162.159.192.15:943?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A863e%3A3ca4%3Ac194%3Ae5f3%3Afcc9%2F128&presharedkey=&reserved=31%2C46%2C24&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%40IrV2rey
