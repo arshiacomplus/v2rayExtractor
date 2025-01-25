@@ -1,17 +1,12 @@
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68610@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Digiv2ray🇩🇪
-vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#🇵🇱🔥 @v2ray_swhil
+vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40V2rayNG3
-vless://ZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#all%20%F0%9F%87%A9%F0%9F%87%AA%20%28%40ZEDMODEON%29%2042
-hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?security=tls&insecure=1&sni=www.bing.com#%40V2rayNG3
-vless://292dd535-7ae8-4129-c110-6e6507d5a089@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&encryption=none&alpn=h2,http/1.1&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
-vless://901506b8-3e2b-4228-908b-2bc0c2d501cf@70.34.250.2:8080?type=ws&security=none&path=%2F#telegram🎲DailyV2ry
+vless://910dba5a-bf48-445a-80d7-da990918f008@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&encryption=none&alpn=h2,http/1.1&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#%F0%9F%87%A9%F0%9F%87%AA%40flyv2ray
 vless://936f6e14-4191-4e59-b205-3f323f93456e@70.34.242.115:8080?type=ws&security=none&path=%2F#telegram👽DailyV2ry
+vless://901506b8-3e2b-4228-908b-2bc0c2d501cf@70.34.250.2:8080?type=ws&security=none&path=%2F#telegram🎲DailyV2ry
+vless://52a3cca1-aaf5-4cc8-c303-d6bb448ea3b7@64.176.67.87:8080?type=ws&security=none&path=%2F#telegram🌈DailyV2ry
+ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@146.19.170.82:47777#%40V2rayNG3
+vless://88487906-b180-4c77-9a10-5915d813ac08@70.34.254.173:8080?type=ws&security=none&path=%2F#telegram👽DailyV2ry
 vless://bd4ceffd-b811-4fab-d586-1fc2ce90316d@70.34.252.26:8080?type=ws&security=none&path=%2F#telegram ☂️ DailyV2ry
 vless://6d43b0da-2de5-54d0-b5d6-d3e090ec0744@94.131.96.137:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌳
-ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@146.19.170.82:47777#%40V2rayNG3
-vless://80ad18fc-a94b-4d38-87ba-80d7b996fdee@70.34.242.237:8080?type=ws&security=none&path=%2F#telegram☔DailyV2ry
-vless://ac67ab7a-1411-4236-9885-c9942d6fd152@64.176.71.129:8080?type=ws&security=none&path=%2F#telegram🔮DailyV2ry
-vless://52a3cca1-aaf5-4cc8-c303-d6bb448ea3b7@64.176.67.87:8080?type=ws&security=none&path=%2F#telegram🌈DailyV2ry
-vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3
-vless://88487906-b180-4c77-9a10-5915d813ac08@70.34.254.173:8080?type=ws&security=none&path=%2F#telegram👽DailyV2ry
 vless://901506b8-3e2b-4228-908b-2bc0c2d501cf@70.34.250.2:8080?type=ws&security=none&path=%2F#telegram🎲DailyV2ryDaily V2ry#VPN
+vless://ac67ab7a-1411-4236-9885-c9942d6fd152@64.176.71.129:8080?type=ws&security=none&path=%2F#telegram🔮DailyV2ry
