@@ -1,1 +1,1 @@
-trojan://Aimer@92.243.74.23:2096?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@92.243.74.239:8443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
