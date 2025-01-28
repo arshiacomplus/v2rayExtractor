@@ -1,6 +1,6 @@
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.255.94.7:443#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTB0SjAyWFdwNUFzZGVNQmdzWlh4@54.251.126.150:443#Singapore+AWS
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.143:443?path=%2F%3Fed%3D2560&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=vs.bgm2024.us.kg&type=ws&sni=vs.bgm2024.us.kg#@mehrosaboran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZDNWc1c5dzdlS1p1V25QY3U3NnhKV3VZVytrbmNkemhpdUkrR0tuYnVRPQ==@178.128.50.186:46086#https://t.me/ShadowsocksM
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.143:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vs.bgm2024.us.kg&type=ws&sni=vs.bgm2024.us.kg#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🦁
 vmess://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWKoOWdoV83IiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.143:443?path=%2F%3Fed%3D2560&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=vs.bgm2024.us.kg&type=ws&sni=vs.bgm2024.us.kg#@mehrosaboran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTB0SjAyWFdwNUFzZGVNQmdzWlh4@54.251.126.150:443#Singapore+AWS
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.143:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vs.bgm2024.us.kg&type=ws&sni=vs.bgm2024.us.kg#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🦁
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZDNWc1c5dzdlS1p1V25QY3U3NnhKV3VZVytrbmNkemhpdUkrR0tuYnVRPQ==@178.128.50.186:46086#https://t.me/ShadowsocksM
