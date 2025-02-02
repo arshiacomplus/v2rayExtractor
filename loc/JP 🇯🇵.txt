@@ -1,13 +1,11 @@
 hysteria2://92dc14c5-e2b0-41bc-9827-1b687295c530@rb2.xiaofeixia.cyou:2052?security=tls&insecure=1&sni=rb2.xiaofeixia.cyou#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریست📌تنها ایدی خرید کانفیگ اختصاصی : 👇@V2rayvlessbot ☑️پشتیبانی:  @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocol🚨تمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید🚨
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.203.145:443#@awlix_ir
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTDJTbldxR2lXdVY4T3BXcUZaMHZK@52.195.175.184:443#Japan+AWS
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.79.218:443#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#configkade%F0%9F%91%89%40proxystore11@proxystore11 💫ری‌اکشن‌فراموش‌نشه❤️
-vless://bc98f5c6-b2f1-425b-bbd4-d76ee3362bb6@45.12.134.120:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.142.200:443#https://t.me/ShadowsocksM
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.203.145:443#@awlix_ir
 vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFjOGUyNmZlLTgxNTAtNGI2MC1hZTY0LTgyZmM3N2ViYTJjZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA2OSIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.142.200:443#@awlix_ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#configkade%F0%9F%91%89%40proxystore11
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.79.218:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.79.218:443#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNmM3NWIzNi02YTRhLTQ0NzEtYjM1Yy1hNjc1MzJlZjE1MzA=@147.45.49.219:30443#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#configkade%F0%9F%91%89%40proxystore11
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.142.200:443#@awlix_ir
