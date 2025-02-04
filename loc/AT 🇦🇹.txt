@@ -1,1 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ==@at1.opensocks.site:8388#[🏁]t.me/ConfigsHub
 vless://66924fa3-47cf-4272-a290-9bd476ebc6cd@178.22.31.18:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=apple.com#%40V2ray1_Ng
