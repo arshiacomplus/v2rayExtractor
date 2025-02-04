@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#%F0%9F%92%9C%20%40PewezaVPN%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+vless://65c670b1-cd08-4928-a038-8eb3a8022426@45.38.139.30:29028?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ngنامحدود تا فردا عصر 🙏@V2ray1_Ng 🇮🇷
