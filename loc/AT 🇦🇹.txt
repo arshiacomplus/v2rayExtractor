@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#https://t.me/ShadowsocksM
+vless://41b01981-7e05-472c-a618-e12b15ff5313@185.106.94.177:443?security=tls&sni=dd9.transitkala.com&type=ws&host=dd9.transitkala.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
