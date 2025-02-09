@@ -1,5 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#https://t.me/ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#https://t.me/ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@5.188.181.201:9000#https://t.me/ShadowsocksM
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080/?type=ws&encryption=none&host=a.mifeng.us.kg&path=%2F&security=tls&sni=a.mifeng.us.kg#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #sᴘᴀɪɴ(ᴇs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#https://t.me/ShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#https://t.me/ShadowsocksM
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#https://t.me/ShadowsocksM
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@5.188.181.201:9054#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5600
+vmess://eyJhZGQiOiIxODUuMjUxLjgzLjI0OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGF4MS5pYmdmdy50b3AiLCJpZCI6IjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmVudndzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwic2N5IjoiYXV0byIsInNuaSI6ImxheDEuaWJnZncudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080/?type=ws&encryption=none&host=a.mifeng.us.kg&path=%2F&security=tls&sni=a.mifeng.us.kg#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#https://t.me/ShadowsocksM
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@5.188.181.201:9027#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5480
