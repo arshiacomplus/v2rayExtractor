@@ -1,2 +1,1 @@
-trojan://Aimer@14.35.59.67:50000?sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://65086520307764900@3.39.67.154:443?security=tls&type=tcp&sni=hopeful-seagull.shiner427.skin#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@152.70.39.37:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
