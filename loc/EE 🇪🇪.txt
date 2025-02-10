@@ -1,1 +1,2 @@
+vless://bbde5a0d-b2fa-5c2f-a642-f6a65976acf3@5.181.23.67:2052?type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#%F0%9F%87%AA%F0%9F%87%AAEE-188.214.36.155-0735
