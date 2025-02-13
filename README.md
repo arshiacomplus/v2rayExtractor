@@ -49,8 +49,8 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/h
 
 ## 🌍 **در این پوشه می‌تونی کانفیگ‌ها رو بر اساس منطقه مشاهده کنی:**
 
-```bash
+
 https://github.com/arshiacomplus/v2rayExtractor/tree/main/loc
-```
+
 
 ---
