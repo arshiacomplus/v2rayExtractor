@@ -1,6 +1,14 @@
 # 🌟 **ساب لینک‌های کانفیگ کالکتور** 🌟
 
 برای استفاده، لینک‌های زیر رو در کلاینت وارد کن:
+---
+
+### 🔹 **mix**:
+```bash
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
+```
+
+---
 
 ---
 
@@ -37,14 +45,7 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/s
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/hy2.html
 ```
 
----
 
-### 🔹 **mix**:
-```bash
-https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
-```
-
----
 
 ## 🌍 **در این پوشه می‌تونی کانفیگ‌ها رو بر اساس منطقه مشاهده کنی:**
 
