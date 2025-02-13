@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SXltcDh0azVrNEhkNDc1UTZrWTVz@194.87.45.189:443#https://t.me/ShadowsocksM
+trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=tcp#https://t.me/ShadowsocksM
