@@ -1,61 +1,55 @@
-## copy a paste this sublink(s) in a clinet:
-<div>
-  
-- vless :
+# 🌟 **ساب لینک‌های کانفیگ کالکتور** 🌟
 
-```sh
+برای استفاده، لینک‌های زیر رو در کلاینت وارد کن:
+
+---
+
+### 🔹 **vless**:
+```bash
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html
 ```
-  
-</div><hr>
-<div>
-  
-- vmess :
 
-```sh
+---
+
+### 🔹 **vmess**:
+```bash
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vmess.html
 ```
-  
-</div><hr>
-<div>
 
-- trojan :
+---
 
-```sh
+### 🔹 **trojan**:
+```bash
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/trojan.html
 ```
-  
-</div><hr>
-<div>
 
-- ss :
+---
 
-```sh
+### 🔹 **ss**:
+```bash
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/ss.html
 ```
-  
-</div><hr>
-<div>
-  
-- hy2 :
 
-```sh
+---
+
+### 🔹 **hy2**:
+```bash
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/hy2.html
 ```
 
-</div><hr>
+---
 
-<div>
-  
-- mix :
-
-```sh
+### 🔹 **mix**:
+```bash
 https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
 ```
 
-</div><hr>
+---
 
-## In this folder you can see config(s) that seprated by region:
+## 🌍 **در این پوشه می‌تونی کانفیگ‌ها رو بر اساس منطقه مشاهده کنی:**
 
-
+```bash
 https://github.com/arshiacomplus/v2rayExtractor/tree/main/loc
+```
+
+---
