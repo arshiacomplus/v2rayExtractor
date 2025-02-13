@@ -1,2 +1,1 @@
-trojan://Aimer@92.243.74.180:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#https://t.me/ShadowsocksM
 trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=%2F#@Hope_Net-join-us-on-Telegram
