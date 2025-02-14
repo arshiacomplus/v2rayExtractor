@@ -1,1 +1,1 @@
-vless://9ce5dc57-bfa3-4e9e-be9b-ca685d826feb@45.131.211.220:80?sni=worker-soft-mouse-6965.hevapey267.workers.Dev&type=ws&host=worker-soft-mouse-6965.hevapey267.workers.Dev&path=Telegram%40WangCai2#@Hope_Net-join-us-on-Telegram
+vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.208.16:80?sni=esetsecuritylicense.roobdi.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#@Hope_Net-join-us-on-Telegram
