@@ -1,1 +1,1 @@
-vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.208.16:80?sni=esetsecuritylicense.roobdi.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#@Hope_Net-join-us-on-Telegram
+vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@45.131.5.58:2086?security=none&type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
