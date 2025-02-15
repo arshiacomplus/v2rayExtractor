@@ -1,29 +1,20 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.8.91:443#https://t.me/ShadowsocksM
-ss://YWVzLTI1Ni1nY206WUpDSjBSNFdZMU5XRlUyWQ==@154.196.244.17:16007#@Hope_Net
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.143.103.137:443#https://t.me/ShadowsocksM
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIwLjIwNS4xNzYuMTY3IiwgInBvcnQiOiAiNTQ1NTAiLCAiaWQiOiAiZTY5NmRmMjctNjJjYy00Y2E3LTlhMzktMDA3YzkzY2RhYTQ2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjExNyIsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@128.199.172.224:8080#https://t.me/ShadowsocksM
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1hHcDEraWhsZktnODI2SA==@64.176.85.73:1866#https://t.me/ShadowsocksM
 trojan://Bw5Mz7QkVp@z-v2-082725.kailib.com:443?security=tls&headerType=none&type=tcp#telegram 🍊 DailyV2ry
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#https://t.me/ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.74.90.75:443#https://t.me/ShadowsocksM
-vmess://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWKoOWdoV83IiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE0MC4yNDUuMzkuMTE0IiwgInBvcnQiOiAiMjM0NTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjMzYWZhYTdkLTA1ZjgtNDJlZi04NTQyLTc5OWEzN2Q4ZjRiMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-vless://55fa1a22-fba6-4bb8-933b-08fef95c0051@173.234.14.211:30186?security=reality&encryption=none&pbk=wXYbrQeqLoc59jh2fO1xIgaGK3anCzxn5WFtt-hdLAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=3f59edac760c3c48#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn46qIERhaWx5VjJyeSIsCiAgImFkZCI6ICI2Mi4xNDYuMjMyLjE1OSIsCiAgInBvcnQiOiAxNDM3MiwKICAiaWQiOiAiZWQxZDdlYTgtYmY0MC00YTRhLThlYWMtOGU1Nzc5OGJhNmY3IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn4yfIERhaWx5VjJyeSIsCiAgImFkZCI6ICI2Mi4xNDYuMjMyLjE1NiIsCiAgInBvcnQiOiAzMzI4MSwKICAiaWQiOiAiMjRlZGEwZWEtYWNmMC00NTM4LWEwMDEtZjc0NmE0ODAyMzdhIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
+vmess://eyJhZGQiOiIyMC4yMDUuMTc2LjE2NyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJlNjk2ZGYyNy02MmNjLTRjYTctOWEzOS0wMDdjOTNjZGFhNDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0NTUwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4e48J+HrCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#https://t.me/ShadowsocksM
+vless://444dae72-ea43-4ff8-a77e-c2786a443bbd@sg09west.whiteemperor.top:15045?security=reality&sni=www.tesla.com&fp=chrome&pbk=wuXed3aPM3LP-nmLtR__st9NdMAg2o0ioJbpEQvx20w&sid=8ae266af&type=tcp&flow=xtls-rprx-vision&encryption=none#https://t.me/ShadowsocksM
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn42KIERhaWx5VjJyeSIsCiAgImFkZCI6ICIxNTQuMjYuMTM3LjQyIiwKICAicG9ydCI6IDQ0MTA0LAogICJpZCI6ICJlOTkzM2E0Yy1lNTZlLTQ1OGMtYmNmNC05Y2IzODc1YmJhNTUiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#@awlix_ir
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#https://t.me/ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.77.248.74:443#https://t.me/ShadowsocksM
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn42KIERhaWx5VjJyeSIsCiAgImFkZCI6ICIxMDkuMTIzLjIzMi43NCIsCiAgInBvcnQiOiA1OTAzMiwKICAiaWQiOiAiOTZhYjdlMWYtYmYwZC00NWNkLThlYmMtYzhiZTJmOGQ0M2NkIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.136.211.144:443#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.229.102:443#@awlix_ir
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.201.205:443#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTB0SjAyWFdwNUFzZGVNQmdzWlh4@54.251.126.150:443#Singapore+AWS
+vmess://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWKoOWdoV83IiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn46qIERhaWx5VjJyeSIsCiAgImFkZCI6ICI2Mi4xNDYuMjMzLjUzIiwKICAicG9ydCI6IDUwNjc4LAogICJpZCI6ICI1ZDFlYzZlNy1mZDU4LTRlODUtOTFjNS02MzM1YTg2ZDI3NzUiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.214.212.139:443#@awlix_ir
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.14.130:443#https://t.me/ShadowsocksM
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn42AIERhaWx5VjJyeSIsCiAgImFkZCI6ICI2Mi4xNDYuMjMzLjE1OSIsCiAgInBvcnQiOiA0Mzc2MywKICAiaWQiOiAiMWRkZjNhZGUtNWI4Yy00MjBjLTg0ZjYtZjk2OTc5ZWMzMDgwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.236:8080#https://t.me/ShadowsocksM
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn46qIERhaWx5VjJyeSIsCiAgImFkZCI6ICI2Mi4xNDYuMjMyLjE1OSIsCiAgInBvcnQiOiAxNDM3MiwKICAiaWQiOiAiZWQxZDdlYTgtYmY0MC00YTRhLThlYWMtOGU1Nzc5OGJhNmY3IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn42KIERhaWx5VjJyeSIsCiAgImFkZCI6ICIxMDkuMTIzLjIzMi43NCIsCiAgInBvcnQiOiA1OTAzMiwKICAiaWQiOiAiOTZhYjdlMWYtYmYwZC00NWNkLThlYmMtYzhiZTJmOGQ0M2NkIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
+vmess://eyJhZGQiOiIxNDAuMjQ1LjM1LjE5NiIsImFpZCI6IjAiLCJob3N0Ijoid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsImlkIjoiNjY1MWFiNjYtYzdhNS00MTEzLWJlYzctNDFmODE0ZGU1MzdmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMzQ1MiIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbPCfk6Hwn4e48J+HrFNpbmdhcG9yZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#https://t.me/ShadowsocksM
+vless://cbf71f34-14f8-4edc-b44c-d7b600133297@146.190.90.10:443?security=tls&sni=facebook.com&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+vless://cbf71f34-14f8-4edc-b44c-d7b600133297@146.190.90.10:443?security=tls&sni=facebook.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&encryption=none#https://t.me/ShadowsocksM
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.229.102:443#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTB0SjAyWFdwNUFzZGVNQmdzWlh4@54.251.126.150:443#Singapore+AWS
+vless://55fa1a22-fba6-4bb8-933b-08fef95c0051@173.234.14.211:30186?security=reality&encryption=none&pbk=wXYbrQeqLoc59jh2fO1xIgaGK3anCzxn5WFtt-hdLAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=3f59edac760c3c48#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.214.212.139:443#@awlix_ir
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn4yfIERhaWx5VjJyeSIsCiAgImFkZCI6ICI2Mi4xNDYuMjMyLjE1NiIsCiAgInBvcnQiOiAzMzI4MSwKICAiaWQiOiAiMjRlZGEwZWEtYWNmMC00NTM4LWEwMDEtZjc0NmE0ODAyMzdhIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.136.211.144:443#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
