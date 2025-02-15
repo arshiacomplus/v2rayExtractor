@@ -1,1 +1,1 @@
-vless://2aef5605-7952-4b71-a854-b9cc821aa133@62.76.239.176:28402?security=none&type=tcp#@Hope_Net-join-us-on-Telegram
+vless://2aef5605-7952-4b71-a854-b9cc821aa133@62.76.239.176:28402?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM
