@@ -1,3 +1,4 @@
 vmess://eyJhZGQiOiIxODUuMjI2LjkyLjEzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmMTk3NGI1Ni02YWQ1LTRiNTQtYjBhNS1kNWYxZTNjOTI4YWMiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyNDM0MSIsInBzIjoiQFYycmF5MV9OZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#%40V2rayNG3
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#%40V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1azBOdUhPcU5MaE1hOGxSU01zc0Q4@5.180.45.142:18429#https://t.me/ShadowsocksM
