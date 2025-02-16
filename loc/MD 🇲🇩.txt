@@ -1,1 +1,1 @@
-vless://91f0aa1a-b302-42cb-a403-36aa5cc21615@213.159.78.23:443?security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&encryption=none#https://t.me/ShadowsocksM
+trojan://631ee965-9b74-4b70-b7c9-6794da1f8d73@185.234.66.155:443?security=tls&sni=tr1.safecdn.site&type=grpc&serviceName=grpc#https://t.me/ShadowsocksM
