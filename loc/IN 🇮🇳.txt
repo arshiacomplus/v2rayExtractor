@@ -1,6 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko%3D@159.65.149.72:51348#India%20Digital%20Ocean
-vless://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?path=%2Folem%2Fws%3Fed%3D64&security=none&encryption=none&host=fatmelo.com&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40flyv2ray
 vmess://eyJhZGQiOiIyMC4xOTMuMTMxLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNmYwNTQxZi1hZjcxLTRlMTYtOWNkOC01YTYxMjkzNGI3YTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzMjk0IiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://5a600992-8db9-4b15-a5fd-dbd77349787f@151.101.158.204:80?security=&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2,http/1.1&fp=chrome&type=ws&path=/olem/ws?ed%3D64&host=fatmelo.com&encryption=none#https://t.me/ShadowsocksM
+vless://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?path=%2Folem%2Fws%3Fed%3D64&security=none&encryption=none&host=fatmelo.com&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40flyv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko%3D@159.65.149.72:51348#India%20Digital%20Ocean
 vless://15ce6637-4b61-4d05-ac41-fd6acc002262@103.180.236.102:15006?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDwn4y6IERhaWx5VjJyeSIsCiAgImFkZCI6ICI0LjI0MC43My41NSIsCiAgInBvcnQiOiAxNDExOCwKICAiaWQiOiAiZDUxM2JmYjItYjdjMi00ZGM2LWEzZjktNTUxNDVmMTk4NzA1IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
