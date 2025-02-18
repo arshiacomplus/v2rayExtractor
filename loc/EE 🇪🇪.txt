@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#@Hope_Net
-vless://09e30204-6e54-5f5c-9fff-73328d9bb927@5.181.23.67:80?security=&type=ws&path=/vless%23@vpnAndroid2,@vpnAndroid2,@vpnAndroid2,@vpnAndroid2&host=EevpnAndroid2.69.mu.&encryption=none#https://t.me/ShadowsocksM
