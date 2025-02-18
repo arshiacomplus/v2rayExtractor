@@ -1,2 +1,2 @@
-vless://9e321fdf-ea8a-4a3a-a81d-38961f40e39f@103.240.6.21:32319?security=&type=grpc&serviceName=@UCIRANIR@U@UCIRANIRCIRANIR@UCIRANIR&encryption=none#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@160.22.16.6:40021#https://t.me/ShadowsocksM
+trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@103.77.247.224:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#@Hope_Net-join-us-on-Telegram
+vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?security=reality&sni=www.icloud.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&flow=xtls-rprx-vision&encryption=none#https://t.me/ShadowsocksM
