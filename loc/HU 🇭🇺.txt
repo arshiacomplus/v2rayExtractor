@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#@Hope_Net
+vless://0b87c849-c41e-514f-a3c6-80fb9d80a073@77.91.72.143:8880?security=&type=grpc&serviceName=vless-grpc&encryption=none#https://t.me/ShadowsocksM
