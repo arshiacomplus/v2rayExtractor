@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@160.22.16.6:40021#https://t.me/ShadowsocksM
 vless://9e321fdf-ea8a-4a3a-a81d-38961f40e39f@103.240.6.21:32319?security=&type=grpc&serviceName=@UCIRANIR@U@UCIRANIRCIRANIR@UCIRANIR&encryption=none#https://t.me/ShadowsocksM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@160.22.16.6:40021#https://t.me/ShadowsocksM
