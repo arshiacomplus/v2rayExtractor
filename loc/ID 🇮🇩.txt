@@ -1,1 +1,1 @@
-trojan://Aimer@46.254.92.191:443?sni=agepw.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@46.254.93.37:8443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
