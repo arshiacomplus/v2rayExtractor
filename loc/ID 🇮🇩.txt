@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@103.28.53.21:40033#@Hope_Net
+trojan://NISHIKUITAN111@46.254.92.27:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#@Hope_Net-join-us-on-Telegram
