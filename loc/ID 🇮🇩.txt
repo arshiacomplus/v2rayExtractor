@@ -1,1 +1,1 @@
-trojan://NISHIKUITAN111@46.254.92.27:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@46.254.92.191:443?sni=agepw.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
