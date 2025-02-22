@@ -1,1 +1,2 @@
+vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.95:2086?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#https://t.me/ShadowsocksM
