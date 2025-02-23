@@ -1,3 +1,2 @@
-trojan://Aimer@185.119.117.146:8443?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ%3D%3D@95.164.36.59:8388#%40V2rayNG3
 trojan://Aimer@185.119.117.146:8443?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#https://t.me/ShadowsocksM
