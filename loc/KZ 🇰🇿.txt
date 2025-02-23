@@ -1,1 +1,1 @@
-trojan://Aimer@31.43.179.27:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed&encryption=none#https://t.me/ShadowsocksM
