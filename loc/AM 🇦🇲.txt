@@ -1,4 +1,2 @@
-vless://280fbbbd-c5cc-4479-a987-c0569d9bcdf2@45.83.143.37:27757?security=reality&encryption=none&pbk=1x2kcyef8RdeKa4yaoCJSDhpVe4MJEWdotv3dVTvCkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f7a6fc#%40V2ray1_Ng
-trojan://Aimer@188.164.159.138:2083?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#https://t.me/ShadowsocksM
 vless://7469b758-e05e-477b-b66c-da51ad913eab@45.83.143.232:8346?security=&sni=www.speedtest.net&type=tcp&encryption=none#https://t.me/ShadowsocksM
-trojan://Aimer@188.164.159.214:2083?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#https://t.me/ShadowsocksM
+vless://280fbbbd-c5cc-4479-a987-c0569d9bcdf2@45.83.143.37:27757?security=reality&encryption=none&pbk=1x2kcyef8RdeKa4yaoCJSDhpVe4MJEWdotv3dVTvCkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f7a6fc#%40V2ray1_Ng
