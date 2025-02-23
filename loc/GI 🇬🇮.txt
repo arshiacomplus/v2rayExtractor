@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@95.164.249.61:54075#https://t.me/ShadowsocksM
+vless://7469b758-e05e-477b-b66c-da51ad913eab@95.164.68.178:6341?security=&sni=www.speedtest.net&type=tcp&encryption=none#https://t.me/ShadowsocksM
