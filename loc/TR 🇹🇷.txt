@@ -1,7 +1,7 @@
-vless://7f7cc64d-657a-4cec-b106-416ee79e92be@194.58.46.199:39917?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM
-ss://YWVzLTEyOC1nY206WkVETU9ERU9OYmlhWkVETU9ERU9OYmlhaW5aRURNT0RFT04%3D@45.144.214.106:11475#all%20%F0%9F%87%B9%F0%9F%87%B7%20%28%40ZEDMODEON%29فقط مناسب همراه اول ، ایرانسل و رایتل 👇
 vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#%40V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMHpjOFY2VWkyWWY4SjlIREdZQ0hI@62.133.63.21:65262#@Hope_Net
+vless://ZEDMODEON--ZEDMODEON@185.226.92.133:21715?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#all%20%F0%9F%87%B9%F0%9F%87%B7%20%28%40ZEDMODEON%29
+ss://YWVzLTEyOC1nY206WkVETU9ERU9OYmlhWkVETU9ERU9OYmlhaW5aRURNT0RFT04%3D@45.144.214.106:11475#all%20%F0%9F%87%B9%F0%9F%87%B7%20%28%40ZEDMODEON%29فقط مناسب همراه اول ، ایرانسل و رایتل 👇
+vless://7f7cc64d-657a-4cec-b106-416ee79e92be@194.58.46.199:39917?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM
 vless://ZEDMODEON--ZEDMODEON@185.226.92.133:21715?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#all%20%F0%9F%87%B9%F0%9F%87%B7%20%28%40ZEDMODEON%29@V2PEDIA
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg%3D%3D@62.60.233.72:33155#%40V2rayNG3
-vless://ZEDMODEON--ZEDMODEON@185.226.92.133:21715?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#all%20%F0%9F%87%B9%F0%9F%87%B7%20%28%40ZEDMODEON%29
+trojan://3747000103274291200@93.114.98.252:443?allowInsecure=0&sni=alive-polecat.treefrog761.one#@Hope_Net-join-us-on-Telegram
