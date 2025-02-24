@@ -1,5 +1,4 @@
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@121.153.45.186:18004?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed&encryption=none#https://t.me/ShadowsocksM
-trojan://Aimer@175.214.237.120:50000?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#https://t.me/ShadowsocksM
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@118.42.188.118:37322?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed&encryption=none#https://t.me/ShadowsocksM
+trojan://Aimer@59.1.59.225:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@121.128.254.108:34522?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@175.215.175.175:50003?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@14.47.103.113:12167?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed&encryption=none#https://t.me/ShadowsocksM
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@121.180.100.129:11210?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed&encryption=none#https://t.me/ShadowsocksM
