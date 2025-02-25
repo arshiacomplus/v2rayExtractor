@@ -1,1 +1,2 @@
-vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@14.47.103.113:12167?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed&encryption=none#https://t.me/ShadowsocksM
+trojan://Aimer@14.35.59.67:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@59.2.75.64:37722?security=tls&type=tcp&sni=agepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
