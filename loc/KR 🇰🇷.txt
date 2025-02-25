@@ -1,7 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.214.76:443#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.214.76:443#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.60.105:443#[🏁]t.me/ConfigsHub
-vless://4de74123-0081-4a83-98ef-a965aadddf0d@13.125.140.64:17846/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.iij.ad.jp&security=reality&pbk=0WkLmthMQa0QtM9kuHsJQsobK1dwqIsn2sAJp7Zyiy0&sid=#[🏁]t.me/ConfigsHub
-vless://4de74123-0081-4a83-98ef-a965aadddf0d@13.125.140.64:17846/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.iij.ad.jp&security=reality&pbk=0WkLmthMQa0QtM9kuHsJQsobK1dwqIsn2sAJp7Zyiy0&sid=#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.60.105:443#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@14.47.103.113:12167?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed&encryption=none#https://t.me/ShadowsocksM
