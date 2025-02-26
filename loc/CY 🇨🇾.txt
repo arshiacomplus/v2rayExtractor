@@ -1,4 +1,1 @@
-trojan://Aimer@45.67.214.41:2083?sni=agepw.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@45.150.115.195:2087?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#https://t.me/ShadowsocksM
-trojan://Aimer@176.53.144.206:8443?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@213.109.205.55:2096?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#https://t.me/ShadowsocksM
+trojan://Aimer@213.109.205.45:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
