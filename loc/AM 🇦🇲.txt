@@ -1,1 +1,1 @@
-trojan://Aimer@188.164.159.45:8443?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vless://7469b758-e05e-477b-b66c-da51ad913eab@amv4-basic.gilandashog.com:8346?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%A6%F0%9F%87%B2%20@vmessprotoco
