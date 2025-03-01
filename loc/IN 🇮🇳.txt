@@ -1,6 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko%3D@159.65.149.72:51348#India%20Digital%20Ocean
-vmess://eyJhZGQiOiI5NC4xMzYuMTg0LjE1NiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyMjA3MzJjYy05ZTQzLTQ0NTMtODNmMS1jOTQzNWJlMjViNWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM4ODcyIiwicHMiOiJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==#https://t.me/ShadowsocksM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#https://t.me/ShadowsocksM
-trojan://Aimer@108.165.152.92:2053?security=tls&type=ws&sni=agept.ambercc.filegear-sg.me&path=/?ed=2560&host=agept.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@108.165.152.1:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#https://t.me/ShadowsocksM
 trojan://Aimer@108.165.152.1:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBYmtaZGQyRjhuRVVwNG82TTNGQTFN@64.227.144.190:50690#https://t.me/ShadowsocksM
