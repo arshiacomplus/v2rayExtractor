@@ -1,1 +1,1 @@
-vless://d724758c-505b-43be-b313-717be1fddc8a@213.159.76.238:2052?security=&type=ws&path=/vless%23telegram@v2ray%5C_alpha&encryption=none#https://t.me/ShadowsocksM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#https://t.me/ShadowsocksM
