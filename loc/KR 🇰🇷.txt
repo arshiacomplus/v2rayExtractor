@@ -1,2 +1,1 @@
-trojan://Aimer@218.152.197.93:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#@awlix_ir
