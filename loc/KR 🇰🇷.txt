@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#@awlix_ir
-vless://d28ba1cd-eabf-4ea6-9655-e5c8fb11fcdf@202.124.251.40:13114?security=reality&encryption=none&pbk=BQH9S8Hg5Z8AqqXb9pNX1Yl-fcQPlKRy1ZWClfvasBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=6ba85179e30d4fc2#%F0%9F%90%B8x4%40ConfigV2RayNG
