@@ -1,2 +1,1 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#[🏁]t.me/ConfigsHubϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ᴘʜɪʟɪᴘᴘɪɴᴇs(ᴘʜ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?security=none&type=ws&host=redw.pooriam.ir&path=/#@Hope_Net-join-us-on-Telegram
