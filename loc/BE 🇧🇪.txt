@@ -1,1 +1,1 @@
-vless://03588a25-b81d-40b1-bda4-7bb7700281ac@95.164.62.158:1152?security=reality&sni=stackoverflow.com&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83&type=tcp&encryption=none#https://t.me/ShadowsocksM
+vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.88:443?security=tls&sni=berlin.isegaro.click&type=ws&host=berlin.isegaro.click&path=%2Fisegaro#@Hope_Net-join-us-on-Telegram
