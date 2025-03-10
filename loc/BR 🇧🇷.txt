@@ -1,1 +1,1 @@
-vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?security=tls&sni=pq-brazil1.09vpn.com&type=ws&path=/vless/#@Hope_Net-join-us-on-Telegram
+vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?security=tls&sni=pq-brazil1.09vpn.com&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F#@Hope_Net-join-us-on-Telegram
