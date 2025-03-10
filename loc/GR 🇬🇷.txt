@@ -1,1 +1,2 @@
-vless://e79c9267-846d-46e2-ad6d-b99a5f899e01@46.20.109.108:14961?security=reality&encryption=none&pbk=wbQjriu3XACnc8brsd6FoVP1Jva3B4dn0GWXU9Cyqg4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=1b2462f9#34%F0%9F%8E%A8%40ConfigV2RayNG
+vless://1b12594c-6f7a-4282-a9e5-69979762ab93@31.22.116.185:443?security=tls&sni=usb.kobtty.me&type=ws&path=/bing&encryption=none#[🏁]t.me/ConfigsHub
+vless://1b12594c-6f7a-4282-a9e5-69979762ab93@31.22.116.185:443?security=tls&sni=usb.kobtty.me&type=ws&path=/bing&encryption=none#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɢʀᴇᴇᴄᴇ(ɢʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
