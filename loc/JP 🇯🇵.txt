@@ -1,11 +1,10 @@
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#@awlix_ir
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@74.226.136.204:443?security=tls&sni=sg02.trojanyyds.xyz&type=tcp&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.82.97:443#@awlix_ir
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.243.205:443#@awlix_ir
-trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@43.206.209.194:20230?security=tls&sni=jp007.421421.xyz&allowInsecure=1#@Hope_Net-join-us-on-Telegram
-vmess://eyJhZGQiOiI0NS4xNTkuNTEuMTE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ4MDE5IiwicHMiOiJAYXdsaXhfaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#@awlix_ir
 trojan://3747000103274291200@94.177.131.199:443?security=tls&sni=open-maggot.pigeon031.one&type=tcp&fp=chrome#telegram 🌟 DailyV2ry
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?type=ws&host=redw.pooriam.ir&path=%2FTM-ShadowProxy66%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
+vmess://eyJhZGQiOiI0NS4xNTkuNTEuMTE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ4MDE5IiwicHMiOiJAYXdsaXhfaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFjOGUyNmZlLTgxNTAtNGI2MC1hZTY0LTgyZmM3N2ViYTJjZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA2OSIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.243.205:443#@awlix_ir
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?type=ws&host=redw.pooriam.ir&path=%2FTM-ShadowProxy66%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+trojan://2155145a-b1b5-443a-8977-670f6bd10f02@35.72.7.59:50001?security=tls&sni=bgroup.node1.t.nodelist-airport.com&allowInsecure=1#@Hope_Net-join-us-on-Telegram
