@@ -1,1 +1,2 @@
 vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.161:2082?security=&type=ws&path=/?ed%3D2560&host=0210.uous1wog.workers.dev&encryption=none#https://t.me/ShadowsocksM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Vk1WbzZJNnZ3VEI2aGxiblc4SWk1@5.180.45.142:18429#@Hope_Net
