@@ -1,1 +1,1 @@
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@185.193.30.172:443?security=tls&sni=powerpow.wfft.ir&type=ws&host=powerpow.wfft.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@185.193.30.172:443?security=tls&sni=powerpow.wfft.ir&type=ws&host=powerpow.wfft.ir&path=/&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
