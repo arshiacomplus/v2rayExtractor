@@ -1,2 +1,3 @@
 vmess://eyJhZGQiOiI5NC4xMzEuOTcuMTI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRkMTE1NGIxLWQ1ZmEtNWU1Mi1hMTA4LTc1ZTU2OGM0YWQwNiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI4ODgwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+trojan://Aimer@188.164.159.234:2083?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&path=%2F#@Hope_Net-join-us-on-Telegram
 vless://ZEDMODEON--ZEDMODEON@194.182.87.111:28698?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#all%20%F0%9F%87%B3%F0%9F%87%B1%20%28%40ZEDMODEON%29%20111
