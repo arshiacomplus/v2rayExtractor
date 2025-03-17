@@ -1,1 +1,1 @@
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=/vless/#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTjJKb1poRG9kTVg1d1BmcjB4YlQ1@45.8.98.163:52839#https://t.me/ShadowsocksM
