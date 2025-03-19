@@ -1,1 +1,1 @@
-vless://0f9f0500-01a2-49a6-b67b-d1b38913ba2c@46.254.93.124:8080?security=none&type=ws&host=sNaPp.MaStErSrV.ir.#@Hope_Net-join-us-on-Telegram
+vless://0f9f0500-01a2-49a6-b67b-d1b38913ba2c@46.254.93.124:8080?security=none&sni=sNaPp.MaStErSrV.ir.&type=ws#@Hope_Net-join-us-on-Telegram
