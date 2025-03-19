@@ -1,8 +1,11 @@
-trojan://607a2b12-058d-4fb8-826f-2489df00d062@45.146.232.173:27102?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#@Hope_Net-join-us-on-Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@216.250.97.118:443#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#Hong%20Kong%20GCS
-ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@216.250.97.118:443#%40V2rayNG3
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&host=EVAY_VPNJoinBadeChannel@EVAY_VPN&fp=randomized&alpn=h2#@Hope_Net-join-us-on-Telegram
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@52.229.164.27:443?security=tls&sni=jp01.trojanyyds.xyz&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#@awlix_ir
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
-ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw%3D%3D@154.196.244.12:16002#Singapore%20Velo
+vmess://eyJhZGQiOiAiMjEyLjE5Mi4xMy42OCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2Q4MGI3YTgtMTllMi00YjQyLTg4ODEtMzc1MGM2MGRmMTUxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIzMDE4LCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@awlix_ir
+ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw%3D%3D@154.196.244.12:16002#Singapore%20Velo
 vmess://eyJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJ2IjoyLCJwcyI6IvCfh7Hwn4e6X0xVX+WNouajruWgoV8yIiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
