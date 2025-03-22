@@ -1,1 +1,1 @@
-vless://03588a25-b81d-40b1-bda4-7bb7700281ac@91.225.217.208:1142?security=reality&sni=stackoverflow.com&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83&type=tcp&encryption=none#https://t.me/ShadowsocksM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN05Eb1Z6M01lcGtXZVp6NGVzNlQxWHN1SEJ5akIybTRDVUJZZVdpZzZ3anhxejVBeVpaVUF0SDd4UEtEY2I4QVllSzNnYzlBUzRCTjRwTWJQRTZGTGVISDdTaWRCVjE@mx2.drawnrisha.one:55988#%F0%9F%92%9C%20%40PewezaVPN%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7@vmess_iran
