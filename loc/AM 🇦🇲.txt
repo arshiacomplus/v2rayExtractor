@@ -1,1 +1,1 @@
-trojan://Aimer@188.164.159.22:2096?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@188.164.159.138:2083?allowInsecure=0&sni=agepm.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
