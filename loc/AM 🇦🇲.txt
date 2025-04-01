@@ -1,1 +1,1 @@
-trojan://Aimer@188.164.159.138:2083?allowInsecure=0&sni=agepm.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+vless://77c17da1-513b-4fe6-8ab9-a7bd670d2b0a@178.160.211.127:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&spx=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY&type=tcp&sni=app.hubspot.com&sid=fd1dff03520d8f56#🇩🇪ELiV2RAY
