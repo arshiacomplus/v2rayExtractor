@@ -1,1 +1,1 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE1NC4xOTcuNzUuODEiLCAicG9ydCI6ICI4NDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxOTFiYWJjNS0yYWFmLTRmZTUtYTU2My1mMTQyNDRhZWZiNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3hyZW52d3MiLCAiaG9zdCI6ICJsYXgxLmliZ2Z3LnRvcCIsICJ0bHMiOiAidGxzIn0=
+vless://d6691625-5650-59da-b243-6a6011a37b7d@45.141.58.22:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=nl.v2vless.site#[🇳🇱]t.me/ConfigsHub
