@@ -1,1 +1,1 @@
-trojan://Aimer@92.243.74.2:8443?sni=agepl.ambercc.filegear-sg.me&allowInsecure=0#@Hope_Net-join-us-on-Telegram
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
