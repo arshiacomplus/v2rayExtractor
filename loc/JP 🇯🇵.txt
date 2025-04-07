@@ -1,14 +1,13 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.181.170.89:443#https://t.me/ShadowsocksM
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
-vless://374e925e-7f93-4d82-8d03-fd713bebfa24@54.249.203.211:10002?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=firefox&pbk=xnzUvDQZ4B45lUi40lFKOLWiJdPQW8LzhGsGandvvlc&sid=ad081079#@Hope_Net-join-us-on-Telegram
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#@awlix_ir
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2048#telegram 🌈 DailyV2ry
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.234:80?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
-vmess://eyJhZGQiOiI0NS4xNTkuNTEuMTE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ4MDE5IiwicHMiOiJAYXdsaXhfaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-ss://YWVzLTI1Ni1nY206MkRGVUs1OERXTEdVNkVRSA==@156.231.104.15:18005#https://t.me/ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.82.97:443#@awlix_ir
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.135:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#telegram 🎪 DailyV2ry
-vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFjOGUyNmZlLTgxNTAtNGI2MC1hZTY0LTgyZmM3N2ViYTJjZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA2OSIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://a53d8305-4394-49ff-ac49-00a93be232c6@45.192.243.53:33040?security=reality&flow=xtls-rprx-vision&sni=aws.amazon.com&type=tcp&fp=chrome&pbk=48XapWp__ToHoLMmQrO5fn7wnDmvqkdROtxPnjALoH4#@Hope_Net-join-us-on-Telegram
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.181.170.89:443#https://t.me/ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.243.205:443#@awlix_ir
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2048#telegram 🌈 DailyV2ry
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.135:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#telegram 🎪 DailyV2ry
+vless://a53d8305-4394-49ff-ac49-00a93be232c6@45.192.243.53:33040?security=reality&flow=xtls-rprx-vision&sni=aws.amazon.com&type=tcp&fp=chrome&pbk=48XapWp__ToHoLMmQrO5fn7wnDmvqkdROtxPnjALoH4#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.234:80?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
+vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFjOGUyNmZlLTgxNTAtNGI2MC1hZTY0LTgyZmM3N2ViYTJjZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA2OSIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTI1Ni1nY206MkRGVUs1OERXTEdVNkVRSA==@156.231.104.15:18005#https://t.me/ShadowsocksM
+vmess://eyJhZGQiOiI0NS4xNTkuNTEuMTE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ4MDE5IiwicHMiOiJAYXdsaXhfaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
