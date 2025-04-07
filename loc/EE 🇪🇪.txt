@@ -1,3 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#https://t.me/ShadowsocksM
 vless://4c95eeb9-905f-5a27-a5db-2d6787b0b15e@5.181.23.67:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Free%2012%20%28%40Outline_Vpn%29
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#https://t.me/ShadowsocksM
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.36.155:989#https://t.me/ShadowsocksM
