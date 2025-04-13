@@ -1,1 +1,1 @@
-vless://571398d8-e99f-4678-bb8c-24079fd65650@185.239.48.109:443?security=tls&flow=xtls-rprx-vision&sni=tel5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+vless://3bf06e05-7b54-4c13-9b0b-660bd3e9d67f@64.176.166.98:8080?type=ws&security=none&path=%2F#telegram 🚀 DailyV2ry
