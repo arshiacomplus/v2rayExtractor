@@ -1,2 +1,2 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#[🏁]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#[🏁]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ɢʀᴇᴇᴄᴇ(ɢʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=%2FTelegram%40V2ray_Alpha#telegram 🎪 DailyV2ry
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?type=ws&host=redfree8.pooriashop.ir&path=%2FTelegram%40V2ray_Alpha#@Hope_Net-join-us-on-Telegram
