@@ -1,1 +1,1 @@
-vless://d6691625-5650-59da-b243-6a6011a37b7d@45.141.58.22:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=nl.v2vless.site#[🇳🇱]t.me/ConfigsHub
+trojan://Aimer@154.197.64.248:8443?allowInsecure=0&sni=epccu.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
