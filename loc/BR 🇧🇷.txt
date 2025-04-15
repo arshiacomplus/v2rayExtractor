@@ -1,1 +1,1 @@
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.217:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#👉🆔@v2ray_configs_pool📡🇧🇷®️Brazil©️Casa Verde🅿️ping:14.21ms
+vless://46db85a1-9d97-46f8-9b7a-ff9704510e5e@85.209.156.7:8880?security=none&type=grpc&serviceName=vless-grpc#@Hope_Net-join-us-on-Telegram
