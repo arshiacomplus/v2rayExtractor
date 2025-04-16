@@ -1,5 +1,2 @@
-ss://cmM0LW1kNTpEMG9FR0Y@hk30.ctg.wtf:28192#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Changzhou (Tianning Qu)🅿️ping:267.39ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjVlZDY5NmMxLXN1dGo0MC10OTA3Y3ItMWMxbXIuY201LnA1cHYuY29tIiwgInBvcnQiOiAiMTcyMzMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImExMjY0MGQwLWUyYWQtMTFlZi04ZjViLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjVlZDY5NmMxLXN1dGo0MC10OTA3Y3ItMWMxbXIuY201LnA1cHYuY29tIiwgInRscyI6ICIifQ==
 vmess://eyJhZGQiOiIxMjUuMTI0LjI1NC41IiwidiI6MiwicHMiOiLwn4eo8J+HsyBDTiDkuK3lm70gMiIsInBvcnQiOiIxMDgwIiwiaWQiOiI0NmNmY2ZlMS1lNDUwLTQ1OWQtYTNhYi05NDA2MDExYWIzZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@116.162.25.43:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&fp=chrome#@Hope_Net-join-us-on-Telegram
-ss://cmM0LW1kNTpEMG9FR0Y@118.184.136.62:28192#👉🆔@v2ray_configs_pool📡🇨🇳®️China©️Changzhou (Tianning Qu)🅿️ping:241.86ms
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&fp=chrome#@Hope_Net-join-us-on-Telegram
