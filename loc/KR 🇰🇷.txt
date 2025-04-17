@@ -1,5 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.46.140:443#@Hope_Net
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.209.80.72:443#@awlix_ir
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@138.2.125.147:443?security=tls&sni=cr777.medicaldream.ir&type=ws&host=cr777.medicaldream.ir&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
-vless://d09bc91d-b7e6-449f-ba3f-401312648b3a@3.34.191.59:32449?security=reality&flow=xtls-rprx-vision&sni=s0.awsstatic.com&type=tcp&fp=firefox&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#@awlix_ir
