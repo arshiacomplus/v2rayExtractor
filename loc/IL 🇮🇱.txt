@@ -1,2 +1,1 @@
-vless://286c910c-c40b-4adb-ac0b-ad5b14877a6b@64.176.171.247:33047?type=tcp&security=none#telegram 🎪 DailyV2ry
 vless://3e49baab-c3f3-43ee-a8ac-1589da9bca97@64.176.166.124:8080?type=ws&security=none&path=%2F#telegram 🍊 DailyV2ry
