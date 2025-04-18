@@ -1,1 +1,1 @@
-ss://4088e698-69fd-4d15-98bc-f1fe4c071642@154.92.9.2:443?path=%2FTelegram%40V2ray_Alpha&security=tls&encryption=none&host=digitalscientificresearchgroup.ir&type=ws&sni=digitalscientificresearchgroup.ir#[🏁]#@Hope_Net
+vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082?security=none&type=ws&host=0210.uous1wog.workers.dev#@Hope_Net-join-us-on-Telegram
