@@ -1,2 +1,1 @@
 trojan://74260698218909400@202.78.163.140:443?sni=supreme-penguin.shiner427.skin#telegram 🚀 DailyV2ry
-vless://4d54cca5-20ea-4ed7-b7b1-a7956dcc68c6@45.136.117.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40V2ray1_Ng
