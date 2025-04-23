@@ -1,12 +1,11 @@
-trojan://dQUWbcwECl@74.176.59.185:443?allowInsecure=0&sni=automq3-proxy.automq-sg.com#telegram ⚡️ DailyV2ry
 vless://84ef6341-c98c-441c-a71c-76ea87a872be@45.77.182.74:45205?type=tcp&security=none#telegram 🎯 DailyV2ry
+trojan://dQUWbcwECl@74.176.59.185:443?allowInsecure=0&sni=automq3-proxy.automq-sg.com#telegram ⚡️ DailyV2ry
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.82.97:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.82.97:443#@awlix_ir
+trojan://dQUWbcwECl@74.176.59.185:443?security=tls&sni=automq3-proxy.automq-sg.com&allowInsecure=1#telegram 🚀 DailyV2ry
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
+vmess://eyJhZGQiOiI0NS4xNTkuNTEuMTE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ4MDE5IiwicHMiOiJAYXdsaXhfaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.205:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram??+@WangCai2#telegram 🌈 DailyV2ry
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.243.205:443#@awlix_ir
 vless://84ef6341-c98c-441c-a71c-76ea87a872be@45.77.182.74:45205?type=tcp&security=none#telegram 🎯 DailyV2ryDaily V2ry#VPN
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.205:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram??+@WangCai2#telegram 🌈 DailyV2ry
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
-trojan://dQUWbcwECl@74.176.59.185:443?security=tls&sni=automq3-proxy.automq-sg.com&allowInsecure=1#telegram 🚀 DailyV2ry
-vmess://eyJhZGQiOiI0NS4xNTkuNTEuMTE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ4MDE5IiwicHMiOiJAYXdsaXhfaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.191.66:443#@Hope_Net
