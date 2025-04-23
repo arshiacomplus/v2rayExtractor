@@ -1,11 +1,11 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjVmMGY0MmU5LXN2NG40MC10N3VkYzAtMXBxaHAuaGszLnA1cHYuY29tIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImIwMjMyN2FjLWE0OWEtMTFlZi1hNjczLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiNWYwZjQyZTktc3Y0bjQwLXQ3dWRjMC0xcHFocC5oazMucDVwdi5jb20iLCAidGxzIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImQxMmRjYjBlLXN2MnNnMC10OTE3c2EtMTJhY2guaGszLnA1cHYuY29tIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImZjNWJhOTFhLWFjZDctMTFlZi05N2UwLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiZDEyZGNiMGUtc3Yyc2cwLXQ5MTdzYS0xMmFjaC5oazMucDVwdi5jb20iLCAidGxzIjogIiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#Hong%20Kong%20GCS
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@216.250.97.118:443#%40V2rayNG3
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjguMjE4LjIyOC40NSIsICJwb3J0IjogIjUyMDU5IiwgInR5cGUiOiAid2lyZWd1YXJkIiwgImlkIjogIjg4OGNlNWU5LTZlM2EtNGI1Yy1iY2I3LWNlMTEyNWMwMmQ3OSIsICJhaWQiOiAiMCIsICJuZXQiOiAia2NwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#@awlix_ir
 ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#@awlix_ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@awlix_ir
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40V2ray1_Ng
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
-trojan://Aimer@27.50.49.61:2096?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@awlix_ir
+ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#@awlix_ir
 ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw%3D%3D@154.196.244.12:16002#Singapore%20Velo
 vmess://eyJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJ2IjoyLCJwcyI6IvCfh7Hwn4e6X0xVX+WNouajruWgoV8yIiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
