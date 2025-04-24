@@ -1,2 +1,1 @@
 vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Free%2066%20%28%40Outline_Vpn%29
-vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Free%2054%20%28%40Outline_Vpn%29
