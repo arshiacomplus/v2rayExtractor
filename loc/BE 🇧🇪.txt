@@ -1,2 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.85.118.40:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev#@Hope_Net-join-us-on-Telegram
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.85.118.93:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev#@Hope_Net-join-us-on-Telegram
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.12.31.95:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=/&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
