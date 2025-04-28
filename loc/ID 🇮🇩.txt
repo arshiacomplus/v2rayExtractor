@@ -1,1 +1,2 @@
 vless://379a7f53-fddf-460f-8a62-52330c0d9cf5@46.254.93.124:8880?sni=vIhYpErClOuD.aCaDeMiGrOuP.iR.&type=ws&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#telegram ⚡️ DailyV2ry
+trojan://Aimer@46.254.93.134:2087?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
