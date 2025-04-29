@@ -1,1 +1,1 @@
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.12.31.95:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=/&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.12.30.206:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
