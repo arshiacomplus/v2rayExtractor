@@ -1,1 +1,1 @@
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.72:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://fdb9faa8-753a-40e2-ab35-6afc43389100@195.234.63.156:443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.microsoft.com&fp=chrome#@Hope_Net-join-us-on-Telegram
