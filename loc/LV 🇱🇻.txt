@@ -1,1 +1,1 @@
-trojan://3778399737045327872@188.253.22.10:443?security=tls&type=tcp&sni=key-pangolin.treefrog761.one#@Hope_Net-join-us-on-Telegram
+vless://74ff0b00-aa8d-405e-a9cb-dc55a1966c60@213.21.245.83:443?security=reality&encryption=none&pbk=MU_w-1GJgJnJOTH6V8RTct92ar9doPeHcJm58FGAqhM&host=%2FJoin_Bade_Channel%40Nicotine_joker&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40Nicotine_joker&type=tcp&sni=tgju.org&sid=ea#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥎
