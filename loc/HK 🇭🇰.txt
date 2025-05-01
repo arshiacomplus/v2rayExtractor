@@ -1,14 +1,10 @@
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#Free%20125%20%28%40Outline_Vpn%29🤩
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#Free%20125%20%28%40Outline_Vpn%29
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40V2ray1_Ngنامحدود ۲ روزه 👑@NpvV2rayFilter 🌐
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.59:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#Free%20105%20%28%40Outline_Vpn%29
 trojan://fd693f7c-4160-41cc-9065-cbf9df5a12d4@45.146.232.172:27401?sni=q08m.vgraxiw73s.hasyaf.cn#telegram 🎯 DailyV2ry
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#Hong%20Kong%20GCS
 vmess://eyJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJ2IjoyLCJwcyI6IvCfh7Hwn4e6X0xVX+WNouajruWgoV8yIiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
-ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#@awlix_ir
-trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
-ss://YWVzLTI1Ni1nY206WTdZMEVVWEY1WlpLSlRGVQ%3D%3D@154.196.244.24:16014#telegram 🍀 DailyV2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI%3D@103.135.102.151:52612#telegram 🍊 DailyV2ry
-ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw%3D%3D@154.196.244.12:16002#Singapore%20Velo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@awlix_ir
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_irسری کانفیگ های جدید ، حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#Hong%20Kong%20GCS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@216.250.97.118:443#%40V2rayNG3
