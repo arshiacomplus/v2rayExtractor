@@ -1,2 +1,0 @@
-trojan://amclubs@154.83.2.94:2053/?type=ws&host=tran.amclubstest.nyc.mn&security=tls&sni=tran.amclubstest.nyc.mn#[🏁]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ᴘʜɪʟɪᴘᴘɪɴᴇs(ᴘʜ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-trojan://amclubs@154.83.2.94:2053/?type=ws&host=tran.amclubstest.nyc.mn&security=tls&sni=tran.amclubstest.nyc.mn#[🏁]t.me/ConfigsHub

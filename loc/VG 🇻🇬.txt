@@ -1,1 +1,0 @@
-trojan://Aimer@104.234.239.235:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
