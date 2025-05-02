@@ -5,4 +5,3 @@ vmess://eyJhZGQiOiI0NS4xNTkuNTEuMTE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImMwNjc5
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
 trojan://dQUWbcwECl@74.176.59.185:443?security=tls&sni=automq3-proxy.automq-sg.com#telegram 🎯 DailyV2ry
-vless://ef23ddd0-14c5-39c2-9880-af55ce892363@219.94.255.221:443?security=tls&flow=xtls-rprx-vision-udp443&sni=www.lovelive-anime.jp&fp=chrome#@Hope_Net-join-us-on-Telegram
