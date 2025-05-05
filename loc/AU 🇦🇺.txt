@@ -1,3 +1,2 @@
-vless://266e000c-ba2f-43f2-9187-f27caf69f41e@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VIvAcIOUs-cHallenGe.oNeeAT.CO.&type=ws#telegram 🎪 DailyV2ry
-vless://0af48676-03f4-48ff-b1a4-d33f11b12d50@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=blacK-OcCASiON.oNEeat.cO.&type=ws#telegram ⚡️ DailyV2ry
-trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
+vless://7e188271-8c6c-4766-8c26-72dc877ad883@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=RiDiculouS-ELEction.OnEEAt.co.&type=ws#telegram ⚡️ DailyV2ry
+vless://c316fe2f-e1a8-48b5-88fe-492507087303@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ExpeNSiVe-BotTle.ONEeAt.co.&type=ws#telegram 🍊 DailyV2ry
