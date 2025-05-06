@@ -1,5 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70yIHwg4qyH77iPIDQuMU1CL3MiLCJhZGQiOiIxMDQuMTkuMzIuMCIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCJ9
 vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#@V2rayNG3
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70xIHwg4qyH77iPIDIuM01CL3MiLCJhZGQiOiIxNzIuNjcuMTk4LjE4NyIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCJ9
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.124:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
