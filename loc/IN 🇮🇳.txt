@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&type=grpc#@Awlix_irسری کانفیگ های جدید ، حتما همشو تست کنید حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻@awlix_ir
+vless://c0b6943e-3b01-4c39-a678-ae28a100e329@104.17.147.22:2052?security=none&type=ws&host=sPeedtest2.sbs.invl.greenssh.org&path=%2Fvless#@Hope_Net-join-us-on-Telegram
