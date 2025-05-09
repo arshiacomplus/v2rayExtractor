@@ -1,1 +1,1 @@
-vless://70903853-f962-453c-8f5c-1820c8fb2d28@93.127.180.140:443?type=tcp&security=reality&fp=chrome&sni=tgju.org&pbk=PH8vEhKwClGcTEJfczngBHCHu8UpZpo6PWLB6M-fDgE&sid=e1fa45&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[🇦🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40V2rayNG3>>@V2rayNG3
