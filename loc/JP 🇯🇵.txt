@@ -1,1 +1,1 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922?security=tls&sni=edcck.ambercc.filegear-sg.me&type=ws&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#@Hope_Net-join-us-on-Telegram
+vless://16003d11-87d6-4912-91ec-34f82fc28e4d@139.162.108.193:15493?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=bnyccN-N4Yh5Wf7Ir4teJfqC1Pi6h1ORbZTtnxoxGFg&sid=30#@Hope_Net-join-us-on-Telegram
