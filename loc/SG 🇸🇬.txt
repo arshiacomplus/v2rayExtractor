@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#@awlix_ir>>@Awlix_ir
+vless://628a3541-1b2d-43ab-ad4f-82b6406480fe@141.193.213.20:80?encryption=none&security=none&type=ws&host=lk.sahanwickramasinghe.shop&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8>>@v2ray_configs_pool
