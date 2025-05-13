@@ -1,2 +1,1 @@
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions#[🏁]t.me/ConfigsHub>>@configshub2
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions#[🏁]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ᴍᴏʟᴅᴏᴠᴀ(ᴍᴅ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ>>@configshub2
