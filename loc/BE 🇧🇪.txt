@@ -1,1 +1,1 @@
-vless://dd6b9eda-aa91-4aae-863e-1fdc03ae6754@151.101.64.155:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=isvvpn.clod.com.&type=ws#WS-All-%40ISVvpn>>@ISVvpn
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions#[🏁]t.me/ConfigsHub>>@configshub2
