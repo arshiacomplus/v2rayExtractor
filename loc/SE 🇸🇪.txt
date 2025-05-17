@@ -1,4 +1,4 @@
-trojan://telegram-id-directvpn@13.48.244.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#>>@DirectVPN
-trojan://telegram-id-directvpn@13.48.244.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#>>@v2ray_configs_pool
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.244.101:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#>>@VlessConfig
-trojan://telegram-id-privatevpns@13.48.244.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#>>@PrivateVPNs
+trojan://telegram-id-privatevpns@56.228.78.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#>>@PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZmFFYXRHajdpWG5jVnBpaktGQzFl@62.60.231.81:59945#>>@v2ray1_ng
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@56.228.78.101:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#>>@VlessConfig
+trojan://telegram-id-directvpn@56.228.78.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#>>@DirectVPN
