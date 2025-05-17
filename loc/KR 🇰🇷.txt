@@ -1,1 +1,1 @@
-vless://0c561336-b0c7-4b18-96d1-863240a224ab@152.70.232.251:58474?security=tls&sni=chou3.pages.dev&type=ws&host=chou3.pages.dev#@Hope_Net-join-us-on-Telegram>>@hope_net
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8>>@v2ray_configs_pool
