@@ -1,6 +1,13 @@
+trojan://telegram-id-privatevpns@13.61.166.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪t.me/PrivateVPNs>>@PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.166.141:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪🌐 @VlessConfig>>@VlessConfig
+trojan://telegram-id-privatevpns@13.61.166.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs>>@PrivateVPNs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2ray1_Ng>>@v2ray1_ng
 trojan://telegram-id-privatevpns@13.48.244.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs>>@PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.244.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪t.me/PrivateVPNs>>@PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.166.141:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪>>@VlessConfig
 trojan://telegram-id-directvpn@13.48.244.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN>>@DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.244.101:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪>>@VlessConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZmFFYXRHajdpWG5jVnBpaktGQzFl@62.60.231.81:59945#%40V2ray1_Ng>>@v2ray1_ng
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.1.58:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵🌐 @VlessConfig>>@VlessConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG>>@outlinev2rayng
+trojan://telegram-id-directvpn@13.61.166.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN>>@DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.244.101:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪🌐 @VlessConfig>>@VlessConfig
+trojan://telegram-id-directvpn@13.61.166.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️>>@DirectVPN
