@@ -1,1 +1,1 @@
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions#[🏁]t.me/ConfigsHub>>@configshub2
+vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#%40V2ray1_Ngنامحدود تا فردا شب 🙏@V2ray1_Ng 🌟>>@v2ray1_ng
