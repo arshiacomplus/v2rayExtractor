@@ -1,4 +1,4 @@
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_7ee8@www.speedtest.net:80?path=%2Fvless%3Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=fisvchannel.isvpython.onlinE.&type=ws#>>@ISVvpn
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_7ee8@151.101.64.155:80?path=%2Fvless%3Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=telegram.2.isvvpn.com&type=ws#>>@ISVvpn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#>>@free4allVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.242.252:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#>>@VlessConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#>>@outlinev2rayng
