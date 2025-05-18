@@ -1,1 +1,1 @@
-vless://5130522b-1ca5-4435-bf18-ac5b5b3bde56@172.66.168.213:443?security=tls&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=%2Flinkws%3Fed%3D2560#@Hope_Net-join-us-on-Telegram>>@hope_net
+vless://24f3d3ee-064b-4fde-9630-6fbc16ae60da@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeedeeeeee.ir&encryption=none#>>@v2ray_configs_pool
