@@ -1,2 +1,1 @@
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s21.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s21.afaghnegwork.ir&fp=#>>@DailyV2RY
 vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwiaG9zdCI6IiIsInBvcnQiOiIxNzY0NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwcyI6Ij4+QFZtZXNzUHJvdG9jb2wiLCJpZCI6IjgyNzM0NzI0LThjMDYtNGMyZS05Y2ZmLWIzNDc3NmZlMTc1NyIsInR5cGUiOiJub25lIiwic2N5IjoiYXV0byJ9
