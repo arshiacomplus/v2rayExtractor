@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#>>@V2rayNG3
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@15107261728320.CbBONaOvfIHl.esfahan-yar.org:8880?type=grpc&security=none&serviceName=#>>@DailyV2RY
