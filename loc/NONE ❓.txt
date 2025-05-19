@@ -1,6 +1,3 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.93.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#>>@VlessConfig
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.networkpro.net#>>@DailyV2RY
-vmess://eyJ0bHMiOiJ0bHMiLCJwYXRoIjoiL2xpbmt2d3MjVEVMRUdSQU0tTUFSQU1CQVNISV9NQVJBTUJBU0hJP2VkPTUxMiIsInNjeSI6ImF1dG8iLCJwcyI6Ij4+QFZtZXNzUHJvdG9jb2wiLCJhbHBuIjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwiYWRkIjoia2FwZWxsZW5nLmNvbSIsInBvcnQiOiI0NDMiLCJob3N0Ijoia2FwZWxsZW5nLmNvbSIsIm5ldCI6IndzIn0=
+vless://96da118f-49b3-42c9-b966-13165e79f5de@farsidutch.nl:26682?mode=gun&security=none&encryption=none&type=grpc#>>@v2ray_configs_pool
 vless://5614c870-e60a-4a68-9505-6b49a1820a68@Tabriz-Website.thorav.ir:443?mode=gun&security=reality&encryption=none&authority=&pbk=S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8&fp=qq&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=b1417d#>>@flyv2ray
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.networkpro.net#>>@DailyV2RY
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.networkpro.net#>>@DailyV2RY
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#>>@v2ray_configs_pool
