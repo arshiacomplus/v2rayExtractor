@@ -1,2 +1,4 @@
-vless://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@upstream.lonup.org:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#>>@configshub2
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.13.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#>>@VlessConfig
+trojan://telegram-id-directvpn@13.49.13.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#>>@DirectVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none#>>@Awlix_ir
+vless://9ae6a89e-522b-40b2-9ec8-c1dafb78fd60@151.101.66.228:80?security=none&type=ws&host=joinxvproxybedee.ir&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048#>>@hope_net
