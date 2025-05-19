@@ -1,2 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiPj5ARnJlZVYycmF5cyIsImFkZCI6ImhrMi5scnpkeC51ayIsInBvcnQiOjQ0MywiaWQiOiJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImhrMi5scnpkeC51ayIsInBhdGgiOiIvcmVnaXN0ZXIifQ==
-vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.163:443?path=%2Fss.vs2024.us.kg&security=tls&encryption=none&type=ws&sni=cl.bgm2024.dpdns.org#>>@v2ray_configs_pool
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=&type=grpc&encryption=none#>>@Awlix_ir
