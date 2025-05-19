@@ -1,1 +1,1 @@
-vless://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@upstream.lonup.org:55700?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#>>@configshub2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#>>@v2ray_configs_pool
