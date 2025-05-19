@@ -1,2 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoiPj5ARnJlZVYycmF5cyIsImFkZCI6ImhrMi5scnpkeC51ayIsInBvcnQiOjQ0MywiaWQiOiJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImhrMi5scnpkeC51ayIsInBhdGgiOiIvcmVnaXN0ZXIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#>>@outlinev2rayng
+vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.163:443?path=%2Fss.vs2024.us.kg&security=tls&encryption=none&type=ws&sni=cl.bgm2024.dpdns.org#>>@v2ray_configs_pool
