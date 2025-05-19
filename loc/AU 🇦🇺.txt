@@ -1,1 +1,1 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#>>@outlinev2rayng
+vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#>>@Awlix_ir
