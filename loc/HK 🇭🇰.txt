@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#>>@outlinev2rayng
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?security=none&type=grpc#>>@v2ray_configs_pool
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=&type=grpc&encryption=none#>>@Awlix_ir
