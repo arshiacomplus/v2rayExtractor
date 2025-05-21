@@ -1,2 +1,1 @@
-vless://387620fc-e932-4767-abeb-b16953c3b256@Www.speedtest.net:2052?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2048&host=Australia.noVintecC.ORG.#>>@v2ray_configs_pool
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#>>@Awlix_ir
