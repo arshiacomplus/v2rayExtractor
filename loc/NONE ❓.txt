@@ -1,6 +1,8 @@
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.networkpro.net#>>@DailyV2RY
-vless://166e6f53-96a9-4aa4-aaa5-102cc4926381@5.61.37.215:443?security=reality&sni=docker.com&type=tcp&fp=chrome&pbk=RtKJhmCu3KoDNminpbyQN4jRKgSgWzFEreZ2EcXFhzw#>>@hope_net
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqf1v5.fomula1race.shop#>>@DailyV2RY
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.120.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#>>@hope_net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#>>@Awlix_ir
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.networkpro.net#>>@DailyV2RY
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.networkpro.net#>>@DailyV2RY
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2ray1_ng
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&type=grpc&encryption=none#>>@Awlix_ir
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.networkpro.net#>>@DailyV2RY
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.networkpro.net#>>@DailyV2RY
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.209:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#>>@hope_net
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.networkpro.net#>>@DailyV2RY
