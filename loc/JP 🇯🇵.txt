@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?encryption=none&security=none&type=grpc#>>@DailyV2RY
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#>>@free4allVPN
