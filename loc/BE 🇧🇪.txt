@@ -1,2 +1,2 @@
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#>>@v2ray1_ng
+vmess://eyJ2IjoiMiIsInBzIjoiPj5ARnJlZVYycmF5cyIsImFkZCI6ImhrMi5scnpkeC51ayIsInBvcnQiOjQ0MywiaWQiOiJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImhrMi5scnpkeC51ayIsInBhdGgiOiIvcmVnaXN0ZXIifQ==
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#>>@v2ray_configs_pool
