@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZGYzOTNlZi1iNWZhLTRmZmQtOWFmMy03NjEwMzRiZjMzZTM%3D@192.53.172.74:30013#>>@v2ray_configs_pool
-vless://438f9559-1671-45cf-9d2c-338fe6766acf@141.193.213.21:80?sni=14.sahanwickramasinghe.shop&type=ws&host=14.sahanwickramasinghe.shop&path=/&allowInsecure=1#>>@hope_net
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?security=none&type=grpc#>>@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#>>@Awlix_ir
+vless://33fa5663-d6c8-4f91-9426-4c28b252fbd3@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#>>@v2ray_configs_pool
