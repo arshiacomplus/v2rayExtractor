@@ -1,2 +1,2 @@
-vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=Sm0gGVH8qJHECOVhNaN2j52ayfqYcrZggyQMxiQP2Fo&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#>>@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZGYzOTNlZi1iNWZhLTRmZmQtOWFmMy03NjEwMzRiZjMzZTM%3D@192.53.172.74:30013#>>@v2ray_configs_pool
 vless://438f9559-1671-45cf-9d2c-338fe6766acf@141.193.213.21:80?sni=14.sahanwickramasinghe.shop&type=ws&host=14.sahanwickramasinghe.shop&path=/&allowInsecure=1#>>@hope_net
