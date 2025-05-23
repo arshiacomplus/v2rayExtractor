@@ -1,3 +1,3 @@
-vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#>>@V2rayNG3
-vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#>>@configshub2
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir#>>@hope_net
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#>>@v2ray_configs_pool
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#>>@configshub2
