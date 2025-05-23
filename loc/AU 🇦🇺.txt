@@ -1,2 +1,1 @@
-vless://c3379c79-3968-442b-b380-bd653ccd20ac@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#>>@v2ray_configs_pool
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#>>@Awlix_ir
