@@ -2,5 +2,6 @@ vless://2c19a4ac-eeae-575b-ac7e-92a14fb4acde@171.22.124.42:2052?security=none&ty
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#>>@free4allVPN
 vless://2c19a4ac-eeae-575b-ac7e-92a14fb4acde@171.22.124.42:2052?security=none&type=ws&host=mihanwebhost.iri&path=%2Fvless#>>@hope_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#>>@v2ray_configs_pool
-vless://42140e03-1edf-43a3-aeec-4d3a11db50fc@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=none&encryption=none&host=ir-ddos.com.&type=ws#>>@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#>>@configshub2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#>>@outlinev2rayng
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.111.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#>>@VlessConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.35.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=1#>>@v2ray_configs_pool
