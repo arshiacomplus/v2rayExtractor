@@ -1,4 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg%3D@147.45.116.44:443#>>@configshub2
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s26.xyzcloud7.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.xyzcloud7.ir&fp=#>>@DailyV2RY
+vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6Ij4+QFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg%3D@147.45.116.44:443#>>@free4allVPN
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.26.27.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#>>@hope_net
