@@ -1,2 +1,1 @@
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#>>@v2ray1_ng
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s23.hogosvps.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s23.hogosvps.ir&fp=#>>@DailyV2RY
