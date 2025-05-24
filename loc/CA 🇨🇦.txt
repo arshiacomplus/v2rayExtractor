@@ -1,7 +1,6 @@
-vless://2c19a4ac-eeae-575b-ac7e-92a14fb4acde@171.22.124.42:2052?security=none&type=ws&host=mihanwebhost.iri&path=%2Fvless&pbk=%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#>>@hope_net
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#>>@free4allVPN
 vless://2c19a4ac-eeae-575b-ac7e-92a14fb4acde@171.22.124.42:2052?security=none&type=ws&host=mihanwebhost.iri&path=%2Fvless#>>@hope_net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#>>@v2ray_configs_pool
+vless://2c19a4ac-eeae-575b-ac7e-92a14fb4acde@171.22.124.42:2052?security=none&type=ws&host=mihanwebhost.iri&path=%2Fvless&pbk=%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#>>@hope_net
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#>>@free4allVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#>>@outlinev2rayng
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.111.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#>>@VlessConfig
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.35.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=1#>>@v2ray_configs_pool
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#>>@V2rayNG3
