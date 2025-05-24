@@ -1,4 +1,4 @@
 vmess://eyJhZGQiOiIyLjU2LjEyNS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzgwODgiLCJwcyI6Ij4+QFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=none&type=grpc#>>@v2ray_configs_pool
-vless://3ac9b0e2-0708-4a5e-981b-14570b1a984a@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#>>@v2ray_configs_pool
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#>>@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#>>@outline_vpn
+vmess://eyJzY3kiOiJhdXRvIiwicGF0aCI6IiIsInR5cGUiOiJub25lIiwibmV0IjoidGNwIiwiaWQiOiIxMjc1ZWExOC1iYzljLTRiY2ItYjNmZC1mZWU3MDI3MmUxNDMiLCJhZGQiOiIyLjU2LjEyNS4xMDEiLCJwb3J0IjoiMzgwODgiLCJob3N0IjoiIiwicHMiOiI+PkBWbWVzc1Byb3RvY29sIn0=
+vmess://eyJwcyI6Ij4+QFZtZXNzUHJvdG9jb2wiLCJob3N0IjoiIiwiaWQiOiIxMjc1ZWExOC1iYzljLTRiY2ItYjNmZC1mZWU3MDI3MmUxNDMiLCJwb3J0IjoiMzgwODgiLCJ0eXBlIjoibm9uZSIsImFkZCI6IjIuNTYuMTI1LjEwMSIsIm5ldCI6InRjcCIsInNjeSI6ImF1dG8iLCJwYXRoIjoiIn0=
