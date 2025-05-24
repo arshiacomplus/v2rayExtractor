@@ -1,2 +1,1 @@
-vless://254723ba-0ad6-494e-966a-ae86e40eb934@173.245.58.100:2052?security=none&type=httpupgrade&host=Spain.serrjioo.ir&path=%2FGoodLuck%3Fed%3D2560#>>@hope_net
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s25.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s25.afaghnegwork.ir&fp=#>>@DailyV2RY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#>>@v2ray_configs_pool
