@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc%3D@166.1.157.228:55330#>>@v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k%3D@77.91.103.73:443#>>@free4allVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV3dHV1c4UlY0eWt2NXB1dmRpM2d1aXIzU0hFSkQzdG5Ob2d3cDRZS0hBcDJRSlZIbldIMW9WYmR6R1lVR1lxQ1Y1QjFMeERFcm9abTc2NEFyQmhjeVBoY2NRZHJIZE4=@mx2.drawnrisha.one:55988#>>@configshub2
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s02.opingservers.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s02.opingservers.ir&fp=#>>@DailyV2RY
