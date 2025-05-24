@@ -1,1 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoiPj5ARnJlZVYycmF5cyIsImFkZCI6ImhrMi5scnpkeC51ayIsInBvcnQiOjQ0MywiaWQiOiJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImhrMi5scnpkeC51ayIsInBhdGgiOiIvcmVnaXN0ZXIifQ==
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#>>@hope_net
+vless://1ddc1868-9be9-463c-a4c2-93fd7b96adc6@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#>>@v2ray_configs_pool
