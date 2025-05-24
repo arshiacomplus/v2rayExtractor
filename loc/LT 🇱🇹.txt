@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#>>@v2rayng_fast
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#>>@Awlix_ir
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#>>@v2ray_configs_pool
+trojan://telegram-id-privatevpns@13.38.213.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#>>@PrivateVPNs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc#>>@outlinev2rayng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2ray1_ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.215:8880?mode=gun&security=none&encryption=none&type=grpc#>>@outlinev2rayng
@@ -9,10 +9,10 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638829365493323451.qazvin-drc-dcraa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?type=grpc&mode=gun&security=none#>>@VmessProtocol
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?mode=gun&security=none&encryption=none&type=grpc#>>@outlinev2rayng
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=none&type=grpc#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?security=none&type=grpc#>>@v2ray_configs_pool
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=none&type=grpc#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#>>@configshub2
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?security=none&type=grpc#>>@v2ray_configs_pool
+vless://438f9559-1671-45cf-9d2c-338fe6766acf@141.193.213.21:80?sni=14.sahanwickramasinghe.shop&type=ws&host=14.sahanwickramasinghe.shop&path=/&allowInsecure=1#>>@hope_net
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc#>>@hope_net
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#>>@configshub2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#>>@configshub2
@@ -21,11 +21,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=n
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#>>@VmessProtocol
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=&encryption=none&type=grpc#>>@V2rayNG3
-vmess://eyJ2IjoiMiIsInBzIjoiPj5ARnJlZVYycmF5cyIsImFkZCI6ImhrMi5scnpkeC51ayIsInBvcnQiOjQ0MywiaWQiOiJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImhrMi5scnpkeC51ayIsInBhdGgiOiIvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=&type=grpc&encryption=none#>>@Awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?security=none&type=grpc#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2ray_configs_pool
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s29.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s29.afaghnegwork.ir&fp=#>>@DailyV2RY
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=none&encryption=none&type=grpc#>>@VmessProtocol
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#>>@VmessProtocol
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#>>@v2ray_configs_pool
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?mode=gun&security=none&encryption=none&type=grpc#>>@outlinev2rayng
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#>>@outlinev2rayng
