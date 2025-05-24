@@ -1,4 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMGFzZlJhYlBXY1FwS0Z0dGJ3elU5@ams.telegavpn.org:19057#>>@v2ray_configs_pool
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#>>@free4allVPN
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#>>@v2ray1_ng
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=&type=grpc&encryption=none#>>@Awlix_ir
 vmess://eyJhZGQiOiIxODYuMTkwLjIxNS4xOTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiPj5AVm1lc3NQcm90b2NvbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
