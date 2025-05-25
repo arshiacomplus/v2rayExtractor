@@ -1,2 +1,2 @@
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#>>@Awlix_ir
-vless://4d54fc83-3d4f-409f-a255-a3f3bfeec95c@jsogras.webeleven.ir:3114?security=reality&encryption=none&pbk=HmhJeIza6ZLRu38PWEI00aKv-Nqp4SglYXvDZj9rbhM&headerType=none&fp=random&type=tcp&sni=www.sunucun.com.tr&sid=c03adf0e43c6bb75#>>@V2raNG_DA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#>>@configshub2
