@@ -1,1 +1,1 @@
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir#>>@hope_net
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#>>@configshub2
