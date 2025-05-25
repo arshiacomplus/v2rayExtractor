@@ -1,3 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZGYzOTNlZi1iNWZhLTRmZmQtOWFmMy03NjEwMzRiZjMzZTM%3D@192.53.172.74:30013#>>@v2ray_configs_pool
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?encryption=none&security=tls&sni=U3sK98eJnV.sOlIjOnItO.cOm&type=ws&alpn=h3h2&host=U3sK98eJnV.sOlIjOnItO.cOm&path=/#>>@DailyV2RY
 vless://438f9559-1671-45cf-9d2c-338fe6766acf@141.193.213.21:80?sni=14.sahanwickramasinghe.shop&type=ws&host=14.sahanwickramasinghe.shop&path=/&allowInsecure=1#>>@hope_net
+vless://438f9559-1671-45cf-9d2c-338fe6766acf@141.193.213.21:80?security=none&sni=14.sahanwickramasinghe.shop&type=ws&host=14.sahanwickramasinghe.shop&path=%2F#>>@hope_net
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#>>@hope_net
