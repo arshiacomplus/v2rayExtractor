@@ -1,2 +1,1 @@
-vless://99464d7f-8691-41c2-922b-e75a1e182344@62.60.148.14:25756?security=reality&encryption=none&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=61#>>@outlinev2rayng
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#>>@configshub2
+vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru01.abvpn.ru&fp=chrome&type=ws&sni=ru01.abvpn.ru#>>@outlinev2rayng
