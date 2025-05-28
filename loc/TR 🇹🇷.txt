@@ -3,6 +3,6 @@ vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?type=ws&host=lv0
 vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=%2Fwebsocket%3Fed%3D2048-%40ShadowProxy66&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#>>@v2ray_configs_pool
 vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#>>@configshub2
 vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#>>@outlinev2rayng
-vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?type=ws&host=lv01.abvpn.ru&path=/websocket?ed%3D2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=lv01.abvpn.ru#>>@configshub2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:16297#>>@v2ray1_ng
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#>>@prrofile_purple
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#>>@v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#>>@V2rayNG3
