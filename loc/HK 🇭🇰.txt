@@ -1,1 +1,1 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.193.30.20:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#>>@configshub2
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir&fp=#>>@DailyV2RY
