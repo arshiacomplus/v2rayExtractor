@@ -1,3 +1,3 @@
 trojan://dQUWbcwECl@74.176.59.185:443?security=tls&headerType=none&type=tcp&sni=automq3-proxy.automq-sg.com#>>@outlinev2rayng
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#>>@free4allVPN
-ss://YWVzLTI1Ni1nY206dFZQVmxVZ1FoajlpN3ZIT0hpajNkYUNKRVVaeGN0RVE5eG9qMFdUNUE4dz0%3D@139.162.106.142:11359#>>@free4allVPN
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#>>@v2ray_configs_pool
