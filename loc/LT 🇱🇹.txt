@@ -1,14 +1,14 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc#>>@hope_net
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc#>>@outlinev2rayng
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2ray1_ng
+trojan://c6840587-7ac4-40be-aa4b-ae327eb4fa53@172.67.200.117:443?path=%2FogSVyJu0ksqZjqvVUXlLhk95Ad&security=tls&alpn=http%2F1.1&host=ccdfrt6.890634.xyz&fp=chrome&type=ws&sni=ccdfRt6.890634.Xyz#>>@configshub2
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@www.hugedomains.com:443/?type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&security=tls&sni=icecream.955850.xyz&alpn=h3&fp=randomized#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?mode=gun&security=none&encryption=none&type=grpc#>>@prrofile_purple
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?encryption=none&security=none&type=grpc&headertype=none&mode=gun#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638829365493323451.qazvin-drc-dcraag.info:8880?encryption=none&security=&sni=&type=grpc&host=&path=#>>@DailyV2RY
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?type=grpc&mode=gun&security=none#>>@VmessProtocol
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?security=none&sni=pqh36v7.economy36top.shop&type=grpc&host=pqh36v7.economy36top.shop#>>@v2ray_configs_pool
-vless://52a0b1c0-0b8d-4e08-a2ae-89f6f13852b4@45.77.230.57:55311?security=reality&encryption=none&pbk=YUcUHdfvj0h3EbIe2kLT9IM4J3Q1O3Cpb29gKxE2fwM&host=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=2d0fc01b3c72ce#>>@configshub2
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?security=none&type=grpc#>>@v2ray_configs_pool
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?mode=gun&security=none&encryption=none&type=grpc#>>@outlinev2rayng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#>>@configshub2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?security=none&type=grpc#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc#>>@hope_net
@@ -24,3 +24,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?mode=gun&security=n
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&security=none&encryption=none&type=grpc#>>@prrofile_purple
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&type=grpc#>>@v2ray_configs_pool
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=none&encryption=none&type=grpc#>>@VmessProtocol
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?security=none&type=grpc#>>@v2ray_configs_pool
