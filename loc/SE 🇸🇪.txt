@@ -1,1 +1,0 @@
-trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&headerType=none&type=tcp&sni=x1-sweden-ovh-v2.devefun.net#>>@v2ray_configs_pool

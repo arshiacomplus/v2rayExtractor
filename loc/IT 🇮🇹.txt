@@ -1,1 +1,0 @@
-vless://b035f65f-5674-4bf2-b306-8ca985c85e64@ns4.esfahansiman.com:443?path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=WWW.pegAh-Esfahan.De.&fp=chrome&type=ws&sni=WWW.pegAh-Esfahan.De.#>>@v2ray_configs_pool
