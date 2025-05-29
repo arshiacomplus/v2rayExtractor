@@ -1,2 +1,1 @@
-vless://4c511b03-55b2-44df-bdb3-c07a18b2b864@65.109.202.140:443?security=none&encryption=none&headerType=none&type=tcp#>>@v2ray_configs_pool
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.pronetwork.com&type=ws#>>@v2ray_configs_pool
+vless://9f74c887-ccfc-44bb-b084-b10f13a3a354@157.180.113.139:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=firefox&spx=%2FCopy-az-chahnnel-JOKERRVPN&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#%3E%3E%40configshub2%3A%3AFI
