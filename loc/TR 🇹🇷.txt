@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%3E%3E%40V2rayNG3%3A%3ATR
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40configshub2%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%3E%3E%40v2ray_configs_pool%3A%3ATR
