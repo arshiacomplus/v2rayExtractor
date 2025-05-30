@@ -1,1 +1,1 @@
-vless://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@162.159.44.159:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#%3E%3E%40v2ray_configs_pool%3A%3ACA
+hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3ACA
