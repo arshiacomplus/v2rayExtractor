@@ -1,1 +1,1 @@
-hy2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002/?sni=us.10101251.xyz#%3E%3E%40shadowproxy66%3A%3AXX
+vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=ws#%3E%3E%40flyv2ray%3A%3AIR%3A%3AXX
