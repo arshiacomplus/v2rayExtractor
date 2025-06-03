@@ -1,4 +1,2 @@
-trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#%3E%3E%40outlinev2rayng%3A%3ACZ%3A%3ACZ
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%3E%3E%40shadowproxy66%3A%3ACZ
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#%3E%3E%40outlinev2rayng%3A%3ACZ%3A%3ACZ%3A%3ACZ%3A%3ACZ
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#%3E%3E%40outlinev2rayng%3A%3ACZ%3A%3ACZ%3A%3ACZ
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%3E%3E%40shadowproxy66%3A%3ACZ
