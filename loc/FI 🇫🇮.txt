@@ -1,2 +1,2 @@
-vless://CHIK_282191@83.147.252.114:443?type=tcp&security=reality&pbk=jP5khyw0xKq1-GuOB4RApEzC48qE4yyExXqPaPFvezo&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#%3E%3E%40v2ray_configs_pool%3A%3AFI
-vless://CHIK_882213@83.147.252.114:443?type=tcp&security=reality&pbk=jP5khyw0xKq1-GuOB4RApEzC48qE4yyExXqPaPFvezo&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#%3E%3E%40v2ray_configs_pool%3A%3AFI
+vless://CHIK_882213@83.147.252.114:443?type=tcp&security=reality&pbk=jP5khyw0xKq1-GuOB4RApEzC48qE4yyExXqPaPFvezo&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#%3E%3E%40v2ray_configs_pool%3A%3AFI%3A%3AFI
+vless://CHIK_282191@83.147.252.114:443?type=tcp&security=reality&pbk=jP5khyw0xKq1-GuOB4RApEzC48qE4yyExXqPaPFvezo&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#%3E%3E%40v2ray_configs_pool%3A%3AFI%3A%3AFI
