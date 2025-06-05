@@ -1,1 +1,1 @@
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&headerType=none&type=tcp&sni=copy-wifi-twins.stark-industries.solutions#%3E%3E%40shadowproxy66%3A%3ANO%3A%3ANO
+vless://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356?mode=gun&security=reality&encryption=none&pbk=hoyeyIygWaTAIdW2Cw42wBdeXfRkQCWoKq278YyyuU8&fp=chrome&type=grpc&sni=github.com&sid=67dea0af00c9d222#%3E%3E%40shadowproxy66%3A%3ANO
