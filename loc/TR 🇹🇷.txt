@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%3E%3E%40V2rayNG3%3A%3ATR%3A%3ATR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%3E%3E%40V2rayNG3%3A%3ATR
+vless://27073304-b25d-4631-ae25-37171bdecf99@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmad.mmadvip8563.ir&type=httpupgrade#%3E%3E%40v2rayng_fast%3A%3ATR
