@@ -1,4 +1,1 @@
-vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=ws#%3E%3E%40flyv2ray%3A%3AIR%3A%3AXX%3A%3AXX
-vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@172.67.73.163:8080?type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=/?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%3E%3E%40v2ray_configs_pool%3A%3AFR%3A%3AFR%3A%3AXX
-vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#%3E%3E%40configV2rayForFree%3A%3AFR%3A%3AXX
-vmess://eyJhZGQiOiI0My4xNTMuMTA0LjYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk3Y2MwMzIzLWRlNTMtNGE3NS1kNjlkLWM2YWNkYWM1ZmRjNyIsIm5ldCI6IndzIiwicGF0aCI6Ii85N2NjMDMyMyIsInBvcnQiOiI0NTExMyIsInBzIjoiPj5AVm1lc3NQcm90b2NvbDo6VVM6OlVTOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%3E%3E%40free4allVPN%3A%3AXX
