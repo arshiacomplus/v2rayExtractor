@@ -1,1 +1,0 @@
-vless://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%3E%3E%40shadowproxy66%3A%3AES
