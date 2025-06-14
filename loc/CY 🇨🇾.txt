@@ -1,0 +1,1 @@
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&fp=chrome&type=ws&sni=ir.akcovufun.ir#%3E%3E%40v2ray1_ng%3A%3ACY
