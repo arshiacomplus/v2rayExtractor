@@ -1,2 +1,0 @@
-vless://464e755f-27a5-4990-b029-33d3b7a0c154@65.109.209.140:2087?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AFI%3A%3AFI
-vless://Parsashonam-257@104.23.126.162:2052?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=none&encryption=none&host=FinlandLOC.DigiKalA.CyOU.&type=httpupgrade#%3E%3E%40flyv2ray%3A%3AFI
