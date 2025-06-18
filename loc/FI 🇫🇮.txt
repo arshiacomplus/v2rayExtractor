@@ -1,2 +1,0 @@
-vless://b30a6c95-554d-4635-b6ed-7cc429d19ee2@shab.archerreal.ir:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=random&type=grpc&sni=shab.archerreal.ir#%3E%3E%40v2ray1_ng%3A%3AFI%3A%3AFI
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@322300233.webnama.com.tr:2182?security=reality&type=grpc&headerType=&serviceName=chessgame&authority=&mode=gun&sni=chess.com&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&sid=#%3E%3E%40beiten%3A%3AFI
