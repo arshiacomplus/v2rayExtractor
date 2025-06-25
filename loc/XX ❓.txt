@@ -1,1 +1,0 @@
-vless://37faa342-c578-444b-a168-2ce12fb00bd3@food.france-learns.ir:80?path=%2Fdownload&security=none&encryption=none&host=webdade.com&type=ws#%3E%3E%40v2ray_configs_pool%3A%3AXX
