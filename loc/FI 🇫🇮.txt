@@ -1,4 +1,0 @@
-vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?path=%2F&security=none&encryption=none&host=q5.19KAla.co&type=ws#%3E%3E%40Outline_Vpn%3A%3AFI
-vless://fbc96a4a-6aea-4b91-97f5-ef49d41da669@nextgenerationaiplatform.ir:443?path=%2FsafasssfasfasfA%3Fed&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nExtgEnerAtionAIplatform.iR#%3E%3E%40flyv2ray%3A%3AFI
-vless://fbc96a4a-6aea-4b91-97f5-ef49d41da669@nextgenerationaiplatform.ir:443?path=%2FsafasssfasfasfA%3Fed&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nExtgEnerAtionAIplatform.iR#%3E%3E%40v2ray_configs_pool%3A%3AFI
-vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=cbfe#%3E%3E%40outlinev2rayng%3A%3AFI
