@@ -1,1 +1,0 @@
-vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@record.persianmizban.com:443?path=%2F&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#%3E%3E%40V2pedia%3A%3AFR
