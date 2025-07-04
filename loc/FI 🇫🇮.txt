@@ -1,5 +1,0 @@
-vless://ecca8700-af9f-4ebc-8df0-5fd7559a000c@chloe.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=nr5jsvub.musicirans.ir&type=ws&sni=nr5jsvub.musicirans.ir#%3E%3E%40DailyV2RY%3A%3AFI
-vless://af1c70ed-15cb-4f03-95eb-44383d227631@cash.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=1yrcg4nx.shemrons.com&type=ws&sni=1yrcg4nx.shemrons.com#%3E%3E%40DailyV2RY%3A%3AFI
-vless://3bbdc4fa-63fd-4c30-8ff1-a4e08a8c7f47@chloe.ns.cloudflare.com:443?encryption=none&security=tls&sni=hgwbkjp9.musicirans.ir&type=ws&alpn=http/1.1&host=hgwbkjp9.musicirans.ir&path=/wss#%3E%3E%40DailyV2RY%3A%3AFI
-vless://ecca8700-af9f-4ebc-8df0-5fd7559a000c@chloe.ns.cloudflare.com:443?encryption=none&security=tls&sni=nr5jsvub.musicirans.ir&type=ws&alpn=http/1.1&host=nr5jsvub.musicirans.ir&path=/wss#%3E%3E%40DailyV2RY%3A%3AFI
-vless://45348e58-bca3-4a1f-989c-223f0d3cabea@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=dt73qibp.ghasregallery.ir&type=ws&alpn=http/1.1&host=dt73qibp.ghasregallery.ir&path=/wss#%3E%3E%40DailyV2RY%3A%3AFI
