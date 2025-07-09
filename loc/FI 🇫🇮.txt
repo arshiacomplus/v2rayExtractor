@@ -1,0 +1,2 @@
+vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4zMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicTIuMTlrQWxhLmNvIiwiaWQiOiI1Y2NmNmMxMy1mNjBmLTRjMzQtOTFlNC1jZThjZDQ0YjVmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiI+PkBpcF9jZjo6RkkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=&encryption=none&host=q6.19kalA.co&type=ws#%3E%3E%40ip_cf%3A%3AFI
