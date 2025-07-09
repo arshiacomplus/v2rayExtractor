@@ -1,4 +1,0 @@
-vless://af1c70ed-15cb-4f03-95eb-44383d227631@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=1yrcg4nx.shemrons.com&type=ws&alpn=http/1.1&host=1yrcg4nx.shemrons.com&path=/wss#%3E%3E%40DailyV2RY%3A%3AFI
-vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4zMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicTIuMTlrQWxhLmNvIiwiaWQiOiI1Y2NmNmMxMy1mNjBmLTRjMzQtOTFlNC1jZThjZDQ0YjVmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiI+PkBpcF9jZjo6RkkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=&encryption=none&host=q6.19kalA.co&type=ws#%3E%3E%40ip_cf%3A%3AFI
-vless://af1c70ed-15cb-4f03-95eb-44383d227631@108.162.193.81:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=1yrcg4nx.shemrons.com&type=ws&sni=1yrcg4nx.shemrons.com#%3E%3E%40shadowproxy66%3A%3AFI
