@@ -1,0 +1,2 @@
+vless://199ff20d-9bb4-423a-b759-e538392a27b6@FV.samiion73.ir:8080?type=tcp&security=reality&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&fp=chrome&sni=www.chatgpt.com&sid=a3f994823291&spx=%2F#%3E%3E%40DailyV2RY%3A%3AES
+vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@208.85.18.44:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&type=tcp#%3E%3E%40DailyV2RY%3A%3AES
