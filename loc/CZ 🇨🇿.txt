@@ -1,1 +1,0 @@
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#%3E%3E%40ip_cf%3A%3ACZ
