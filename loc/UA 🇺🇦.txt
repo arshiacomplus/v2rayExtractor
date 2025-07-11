@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%3E%3E%40shadowproxy66%3A%3AUA
+vless://e96adc51-70f2-451d-83c5-77094b9d680f@canine.origamimarketings.com:9999?security=reality&encryption=none&type=tcp&sni=tgju.org&sid=42c0b628ba6a42a9&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AUA
