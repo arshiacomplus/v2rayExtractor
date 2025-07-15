@@ -1,8 +1,0 @@
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&alpn=h3h2&host=IyFpLkXk10.jOoLaJoOlA.OrG&path=/#%3E%3E%40DailyV2RY%3A%3AFI
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=IuEqWpPi11.jOoLaJoOlA.OrG&type=ws&alpn=h3h2&host=IuEqWpPi11.jOoLaJoOlA.OrG&path=/#%3E%3E%40DailyV2RY%3A%3AFI
-vless://Parsashonam-282@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=FragmentFi.Rubika.cYoU.&type=ws#%3E%3E%40v2ray_configs_pool%3A%3AFI
-vless://a9c9c197-c626-4667-f219-1575f26715ac@172.66.40.99:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%3E%3E%40v2rayngvpn%3A%3AFI
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=IuEqWpPi9.JoOlAjOoLa.oRg&type=ws&alpn=h3h2&host=IuEqWpPi9.JoOlAjOoLa.oRg&path=/#%3E%3E%40DailyV2RY%3A%3AFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc%3D@93.152.207.167:443#%3E%3E%40v2ray_configs_pool%3A%3AFI
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=IyFpLkXk11.jOoLaJoOlA.OrG&type=ws&alpn=h3h2&host=IyFpLkXk11.jOoLaJoOlA.OrG&path=/#%3E%3E%40DailyV2RY%3A%3AFI
-vless://9a49e608-06ca-49f0-b66d-ccf427d82642@direct.software.dl.01.securemaster.shop:32990?security=&encryption=none&headerType=&type=tcp#%3E%3E%40DailyV2RY%3A%3AFI
