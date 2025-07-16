@@ -1,0 +1,1 @@
+vless://c0750377-2942-4f06-a4ec-0cde8e272ac6@ipe3.alighan.ir:8443?type=ws&path=%2F%3Fed%3D2048&host=s.alighan.ir&security=tls&fp=chrome&alpn=http%2F1.1&sni=ipe4.alighan.ir#%3E%3E%40configV2rayForFree%3A%3ASE
