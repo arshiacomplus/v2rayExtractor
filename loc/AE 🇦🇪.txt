@@ -1,0 +1,1 @@
+vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?path=%2Ftelegram%40FergalVpnMod&security=&encryption=none&host=cloudflare.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AAE
