@@ -1,0 +1,2 @@
+vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&sid=a3&spx=%2F&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3ARU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%3E%3E%40v2ray1_ng%3A%3ARU
