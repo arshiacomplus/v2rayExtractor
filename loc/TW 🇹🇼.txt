@@ -1,0 +1,1 @@
+vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&type=tcp&headerType=none#%3E%3E%40ShadowsocksM%3A%3ATW
