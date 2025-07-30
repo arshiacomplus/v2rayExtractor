@@ -1,3 +1,0 @@
-vless://9c7b6571-bf05-4072-98c3-fc8bec98551b@0.0.0.einetwork.news:8443?encryption=none&security=tls&sni=Mail.EiNetwork.News&fp=randomized&type=ws&host=Mail.EiNetwork.News&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram#%3E%3E%40ShadowsocksM%3A%3ASE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#%3E%3E%40v2rayNG_Matsuri%3A%3ASE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#%3E%3E%40v2rayNG_Matsuri%3A%3ASE
