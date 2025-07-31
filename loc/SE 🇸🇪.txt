@@ -1,8 +1,0 @@
-vless://9c7b6571-bf05-4072-98c3-fc8bec98551b@0.0.0.einetwork.news:8443?encryption=none&security=tls&sni=Mail.EiNetwork.News&fp=randomized&type=ws&host=Mail.EiNetwork.News&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram#%3E%3E%40ShadowsocksM%3A%3ASE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#%3E%3E%40v2rayNG_Matsuri%3A%3ASE
-vless://c0750377-2942-4f06-a4ec-0cde8e272ac6@ipe3.alighan.ir:8443?encryption=none&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=s.alighan.ir&path=%2F%3Fed%3D2048#%3E%3E%40v2ray_configs_pool%3A%3ASE
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3ASE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcTF5NnpFQW1jZkdvQkIwZFJCYlY3@83.147.216.70:64519#%3E%3E%40v2ray_configs_pool%3A%3ASE
-vless://c0750377-2942-4f06-a4ec-0cde8e272ac6@ipe3.alighan.ir:8443?encryption=none&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=s.alighan.ir&path=%2F#%3E%3E%40v2ray_configs_pool%3A%3ASE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%3E%3E%40v2ray_configs_pool%3A%3ASE
-vless://c0750377-2942-4f06-a4ec-0cde8e272ac6@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#%3E%3E%40configV2rayForFree%3A%3ASE
