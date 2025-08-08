@@ -1,7 +1,0 @@
-vless://026ce330-bb63-42fa-fac9-254275728d40@cafearz.com:8080?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#%3E%3E%40flyv2ray%3A%3AFI
-vless://026ce330-bb63-42fa-fac9-254275728d40@chat.openai.com:8080?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#%3E%3E%40flyv2ray%3A%3AFI
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f6.sarasimano.com:2096?path=%2F&security=tls&encryption=none&type=ws#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.192.5:10504?type=ws&security=none#%3E%3E%40V2rayNG3%3A%3AFI
-vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.183.142:10920?type=ws&security=none#%3E%3E%40V2rayNG3%3A%3AFI
-vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
-vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
