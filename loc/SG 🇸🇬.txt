@@ -1,4 +1,0 @@
-hy2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166/?insecure=1#%3E%3E%40shadowproxy66%3A%3ASG
-hy2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
-hy2://5OiuCsPmULZ0lJwts89fegLJE@54.169.224.169:17193/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
-hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@54.255.144.66:22509/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
