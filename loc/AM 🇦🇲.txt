@@ -1,2 +1,0 @@
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#%3E%3E%40v2ray_configs_pool%3A%3AAM
-vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#%3E%3E%40V2rayNG3%3A%3AAM
