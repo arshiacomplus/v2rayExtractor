@@ -1,6 +1,0 @@
-vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#%3E%3E%40vmess_vless_v2rayng%3A%3AFI
-vless://96be492b-3388-4693-be03-9caefe6dfff5@46.62.128.241:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#%3E%3E%40FreakConfig%3A%3AFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphT2J2TEZRQmhUUTE%3D@81.177.214.214:443#%3E%3E%40FreakConfig%3A%3AFI
-vmess://eyJhZGQiOiIxMzUuMTgxLjEwMi42MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmJpbmcuY29tIiwiaWQiOiIyNDY4MmRkYS00MzE4LTRjZTMtYjM3My1mNmI3MjkxMTNmMTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIyNDY4MmRkYS00MzE4LTRjZTMtYjM3My1mNmI3MjkxMTNmMTItdm0iLCJwb3J0IjoiMjA4MiIsInBzIjoiPj5ARnJlYWtDb25maWc6OkZJIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@chat.openai.com:8080?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#%3E%3E%40flyv2ray%3A%3AFI
