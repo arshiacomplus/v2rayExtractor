@@ -1,1 +1,0 @@
-vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?security=reality&encryption=none&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3b6239cf6fd84dd3#%3E%3E%40FreakConfig%3A%3AES
