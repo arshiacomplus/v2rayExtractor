@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%3E%3E%40FreakConfig%3A%3AFI
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
