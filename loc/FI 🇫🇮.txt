@@ -1,0 +1,6 @@
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%3E%3E%40FreakConfig%3A%3AFI
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
+vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=%2Fhjgfdws&security=tls&encryption=none&host=o9.gerlemondns.info&fp=chrome&type=ws&sni=o9.gerlemondns.info#%3E%3E%40FreakConfig%3A%3AFI
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=eee65.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg&fp=firefox&type=ws&sni=eee65.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg#%3E%3E%40FreakConfig%3A%3AFI
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
