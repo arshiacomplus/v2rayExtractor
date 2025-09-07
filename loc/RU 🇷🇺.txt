@@ -1,1 +1,0 @@
-vless://84682a69-c312-4a68-9706-a1acf51ad21b@176.124.222.181:443?security=reality&encryption=none&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&host=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&spx=%2FTELEGRAM_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=sni.dzen-services.com&sid=faca334f84#%3E%3E%40FreakConfig%3A%3ARU
