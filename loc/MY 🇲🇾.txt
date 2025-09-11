@@ -1,0 +1,1 @@
+vless://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@my.1mao.me:31128?security=reality&encryption=none&pbk=nfH7lzsC1Q_OA9Q1AFLKXOs02nJDOXZE0v0lciS-7Ec&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#%3E%3E%40v2ray_configs_pool%3A%3AMY
