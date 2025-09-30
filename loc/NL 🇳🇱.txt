@@ -1,3 +1,0 @@
-vless://turboo-server@turboo-server.aftabz.com:80?path=%2F--ping--www.speedtest.net%3Fed%3D2080&security=none&encryption=none&type=ws#%3E%3E%40v2rayngvpn%3A%3ANL
-vless://7%65410940-0187-4ddf-b64f-3117f1%6512f4f@141.227.130.37:58199?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%3E%3E%40mehrosaboran%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%3E%3E%40V2rayNG3%3A%3ANL
