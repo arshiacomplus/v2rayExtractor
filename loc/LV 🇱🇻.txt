@@ -1,0 +1,1 @@
+vless://01996549-6892-dbf0-0453-f700236936bd@138.124.182.204:443?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#%3E%3E%40configV2rayNG%3A%3ALV
