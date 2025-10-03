@@ -1,3 +1,0 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%3E%3E%40free4allVPN%3A%3AJP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjZuQUxiQnNmWTgycTQxNlFWU0FR@167.253.156.226:8443#%3E%3E%40shadowproxy66%3A%3AJP
-vless://019984df-e8d5-10ee-435f-9143d7beb674@47.79.34.117:10036?path=%2Fsnippets%3Fip%3DProxyIP.Oracle.cmliussss.net&security=tls&encryption=none&host=getsub.saas.classelivre.eu.org&fp=random&type=ws&sni=getsub.saas.classelivre.eu.org#%3E%3E%40configV2rayNG%3A%3AJP
