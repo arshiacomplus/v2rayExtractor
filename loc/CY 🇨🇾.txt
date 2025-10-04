@@ -1,0 +1,9 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40v2ray1_ng%3A%3ACY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937381606723301.brussels-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3ACY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934442807081605.stockholm-drc-tusacae.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3ACY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3ACY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441856326.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3ACY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441854448.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3ACY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378509240.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3ACY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?encryption=none&security=none&type=grpc#%3E%3E%40DailyV2RY%3A%3ACY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431838.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3ACY
