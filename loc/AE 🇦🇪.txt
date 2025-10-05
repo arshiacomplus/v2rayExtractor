@@ -1,1 +1,0 @@
-vless://turboo-server@dubi.fast-turbooserver.com:8443?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40free_v2rayyy%3A%3AAE
