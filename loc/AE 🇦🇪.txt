@@ -1,0 +1,3 @@
+vless://turboo-server@dubi.fast-turbooserver.com:8443?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40free_v2rayyy%3A%3AAE
+vless://turboo-server@dubi.fast-turbooserver.com:8443?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3AAE
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@38.180.27.102:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#%3E%3E%40configV2rayNG%3A%3AAE
