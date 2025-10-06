@@ -1,5 +1,0 @@
-vless://d90%615%65c5-%6525f-4080-9%6177-b%651%61621dfd7%65@141.227.128.48:54214?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%3E%3E%40mehrosaboran%3A%3AES
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AES
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878823466.ahvaz-drc-tusacae.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AES
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441863516.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AES
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AES
