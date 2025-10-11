@@ -1,0 +1,1 @@
+vless://4f9e2051-1996-48b0-92d3-acb27b380e92@krcd-22dm-ncui-294m.51pl.tv:443?security=tls&encryption=none&type=ws&sni=krcd-22dm-ncui-294m.51pl.tv#%3E%3E%40configV2rayNG%3A%3AKR
