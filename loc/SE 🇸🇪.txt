@@ -1,0 +1,2 @@
+vless://d378d3d0-c521-4874-a6f3-21794398cf9c@test.barayekhudam.ir:59697?mode=auto&path=%2F&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=%2F&type=xhttp&sni=bimeh.com&sid=c5a5b0#%3E%3E%40configV2rayForFree%3A%3ASE
+vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#%3E%3E%40configV2rayNG%3A%3ASE
