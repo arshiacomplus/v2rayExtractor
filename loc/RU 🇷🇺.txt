@@ -1,0 +1,2 @@
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsels.huasuan666.top:22160?security=tls&insecure=1&sni=hsels.huasuan666.top#%3E%3E%40configV2rayNG%3A%3ARU
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@45.130.146.158:22160?security=tls&insecure=1&sni=hsels.huasuan666.top#%3E%3E%40configV2rayNG%3A%3ARU
