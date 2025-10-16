@@ -1,2 +1,0 @@
-vless://d378d3d0-c521-4874-a6f3-21794398cf9c@test.barayekhudam.ir:59697?mode=auto&path=%2F&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=%2F&type=xhttp&sni=bimeh.com&sid=c5a5b0#%3E%3E%40configV2rayForFree%3A%3ASE
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=&type=tcp#%3E%3E%40ShadowsocksM%3A%3ASE
