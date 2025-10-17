@@ -1,1 +1,0 @@
-hysteria2://NxiqWfMY5A@193.108.112.6:50163?security=tls&obfs=salamander&obfs-password=Parsashonam&insecure=1#%3E%3E%40configV2rayNG%3A%3AAL
