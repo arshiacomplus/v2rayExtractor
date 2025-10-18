@@ -1,5 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%3E%3E%40FreakConfig%3A%3AFI
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AFI
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3AFI
-vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%3E%3E%40v2ray1_ng%3A%3AFI
-vless://2afab733-b5b6-465b-a604-4f28db291d46@37.27.220.239:443?path=%2Flinkws%3Fed%3D2560&security=none&encryption=none&host=37.27.220.239&type=ws#%3E%3E%40v2ray1_ng%3A%3AFI
