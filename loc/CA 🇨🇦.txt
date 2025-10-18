@@ -1,7 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%3E%3E%40free4allVPN%3A%3ACA
-vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?type=ws&encryption=none&security=&host=51.79.103.225&path=/linkws?ed=2560&sni=#%3E%3E%40DailyV2RY%3A%3ACA
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@81.19.140.131:443?security=reality&encryption=none&pbk=18otPJIOnisNtfhP_PxpdJgPYqFbkYQAM-pecy90xwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=5ec229f9#%3E%3E%40configV2rayNG%3A%3ACA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%3E%3E%40ShadowsocksM%3A%3ACA
-vmess://eyJhZGQiOiI1MS43OS42OS4yMDMiLCJhaWQiOiIwIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZjRkYzc5OS1mYTBkLTQ3YTAtOTQ2Yi04YWQwZWY1NjIwOTUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiPj5ARGFpbHlWMlJZOjpDQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoidGNwIiwidiI6IjIifQ
-vless://89b4b3b1-f8f3-45e8-b320-813890725a63@146.19.106.108:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=RLnn_xv-bEz-EyKftk39W7X9dcCPUKQVHesIib6JxDo&sid=7f82332c5128e55f&type=tcp&flow=xtls-rprx-vision#%3E%3E%40DailyV2RY%3A%3ACA
-vless://89b4b3b1-f8f3-45e8-b320-813890725a63@146.19.106.108:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=RLnn_xv-bEz-EyKftk39W7X9dcCPUKQVHesIib6JxDo&sid=7f82332c5128e55f&type=grpc&serviceName=5eee08e1346edbbd0750c731#%3E%3E%40DailyV2RY%3A%3ACA
