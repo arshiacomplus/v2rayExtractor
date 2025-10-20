@@ -1,0 +1,1 @@
+vless://4b6f32e4-aa7d-11f0-b753-9fc72f0a48cd@181.215.205.227:10004?path=%2Fvpnjantit&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3AAE
