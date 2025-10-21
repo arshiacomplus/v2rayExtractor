@@ -1,1 +1,0 @@
-vless://fe27c0c7-6602-4b20-a8e4-d8eff275dbee@94.131.13.14:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#%3E%3E%40FreakConfig%3A%3ALT
