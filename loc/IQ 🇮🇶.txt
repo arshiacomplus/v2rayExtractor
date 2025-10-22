@@ -1,1 +1,0 @@
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#%3E%3E%40configV2rayNG%3A%3AIQ
