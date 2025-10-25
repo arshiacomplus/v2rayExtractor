@@ -1,2 +1,0 @@
-hy2://fde82f41-08af-4f06-ac8f-a40e9cfbbd20@jp01.xn--9kq85xcu6b.com:65534/?insecure=1&sni=www.yahoo.co.jp#%3E%3E%40oneclickvpnkeys%3A%3AJP
-vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#%3E%3E%40oneclickvpnkeys%3A%3AJP
