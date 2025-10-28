@@ -1,0 +1,2 @@
+vless://f5d4ff78-a4b8-479d-acef-e8187734e89e@45.139.27.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=russia26.clearorbitllc.com&fp=firefox&security=reality&pbk=QL4Ls4ekZBizQ1KW0Eyvdp0D4TP0oGARgWdF2qx-nX8&sid=d119#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%3E%3E%40oneclickvpnkeys%3A%3ARU
