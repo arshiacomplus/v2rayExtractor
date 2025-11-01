@@ -9,9 +9,14 @@ import pytz
 import telebot
 from telebot import types
 import os
-GITHUB_REPO_URL = "https://github.com/arshiacomplus/V2rayExtractor"
-MAIN_CHANNEL_URL = "https://t.me/arshia_mod_fun"
-CONFIG_CHANNEL_URL = "https://t.me/v2ray_Extractor"
+GITHUB_REPOSITORY = os.getenv('GITHUB_REPOSITORY', 'arshiacomplus/V2rayExtractor')
+GITHUB_REPO_URL = f"https://github.com/{GITHUB_REPOSITORY}"
+
+MAIN_CHANNEL_ID = os.getenv('TELEGRAM_CHAT_ID', '@arshia_mod_fun')
+MAIN_CHANNEL_URL = f"https://t.me/{MAIN_CHANNEL_ID.lstrip('@')}"
+
+CONFIG_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID', '@v2ray_Extractor')
+CONFIG_CHANNEL_URL = f"https://t.me/{CONFIG_CHANNEL_ID.lstrip('@')}"
 MARKUP = types.InlineKeyboardMarkup(row_width=2)
 btn1 = types.InlineKeyboardButton("Github", url="https://github.com/arshiacomplus")
 btn2 = types.InlineKeyboardButton("Author", url="https://t.me/arshiacomplus")
