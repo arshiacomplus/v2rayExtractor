@@ -1,0 +1,65 @@
+name: V2Ray Config Extractor & Checker
+
+on:
+  schedule:
+   - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Repository
+        uses: actions/checkout@v4
+
+      - name: Checkout Sub-Checker Repository
+        uses: actions/checkout@v4
+        with:
+          repository: arshiacomplus/sub-checker
+          path: sub-checker
+
+      - name: Move Pre-packaged Binaries to Vendor Directory
+        run: |
+          echo "Moving binaries from the sub-checker repo to its vendor directory..."
+          mkdir -p sub-checker/vendor
+          mv sub-checker/xray/xray sub-checker/vendor/xray_linux
+          mv sub-checker/hy2/hysteria sub-checker/vendor/hysteria_linux
+          chmod +x sub-checker/vendor/xray_linux
+          chmod +x sub-checker/vendor/hysteria_linux
+          echo "Binaries are now in their correct location:"
+          ls -l sub-checker/vendor
+          rm -rf sub-checker/xray sub-checker/hy2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          echo "Installing Python packages..."
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+          if [ -f sub-checker/requirements.txt ]; then
+            pip install -r sub-checker/requirements.txt
+          fi
+
+      - name: Run Main Extractor Script
+        run: python scripts/main.py
+
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A .
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "📊 Update V2Ray configs"
+            git push
+          fi
