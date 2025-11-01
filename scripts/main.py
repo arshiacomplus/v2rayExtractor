@@ -13,6 +13,7 @@ import pycountry
 import requests
 from bs4 import BeautifulSoup
 import shutil
+import telegram_sender
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -47,7 +48,10 @@ TELEGRAM_URLS = [
     "https://t.me/s/v2nodes", "https://t.me/s/shadowproxy66", "https://t.me/s/free_nettm"
 ]
 
-
+SEND_TO_TELEGRAM = os.getenv('SEND_TO_TELEGRAM', 'false').lower() == 'true'
+TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
+TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
 
 
@@ -95,7 +99,7 @@ def run_sub_checker(input_configs: List[str]) -> List[str]:
             cwd=SUB_CHECKER_DIR,
             capture_output=True,
             text=True,
-            timeout=1800
+            timeout=7200
         )
         logging.info("Sub-checker stdout:\n" + process.stdout)
         if process.stderr:
@@ -242,6 +246,28 @@ def main():
     logging.info("Step 5: Processing and saving the final results...")
     process_and_save_results(checked_configs)
 
+    protocol_counts = process_and_save_results(checked_configs)
+    if SEND_TO_TELEGRAM:
+        logging.info("Flag 'sendToTelegram' is true. Proceeding with Telegram notifications.")
+
+        if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID or not TELEGRAM_CHANNEL_ID:
+            logging.warning("Telegram notifications are enabled, but bot token or chat/channel ID is missing in secrets. Skipping.")
+        else:
+            try:
+                bot = telegram_sender.init_bot(TELEGRAM_BOT_TOKEN)
+                if bot:
+                    logging.info(f"Sending summary to main channel: {TELEGRAM_CHAT_ID}")
+                    telegram_sender.send_summary_message(bot, TELEGRAM_CHAT_ID, protocol_counts)
+
+                    logging.info(f"Sending grouped configs to channel: {TELEGRAM_CHANNEL_ID}")
+                    grouped_configs = telegram_sender.regroup_configs_by_source(checked_configs)
+                    telegram_sender.send_all_grouped_configs(bot, TELEGRAM_CHANNEL_ID, grouped_configs)
+
+                    logging.info("Successfully sent all Telegram notifications.")
+            except Exception as e:
+                logging.error(f"An error occurred during Telegram operations: {e}")
+    else:
+        logging.info("Flag 'sendToTelegram' is false. Skipping Telegram notifications.")
     logging.info("--- V2Ray Extractor finished successfully! ---")
 if __name__ == "__main__":
     main()
