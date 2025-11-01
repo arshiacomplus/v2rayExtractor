@@ -1,4 +1,1 @@
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40free4allVPN%3A%3ATR
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#%3E%3E%40oneclickvpnkeys%3A%3ATR
-vless://9a52e085-f787-4d8e-a7c2-1b10ad74a93a@2.56.127.135:443?security=reality&encryption=none&pbk=alfMZuUiFqBnlvSlvN3mbQH4c0Ibsxe2_pU9hbYVxHQ&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=turkey14.clearorbitllc.com&sid=2167#%3E%3E%40FreakConfig%3A%3ATR
-vless://b9dc54b4-d474-4087-96d0-81de47f4578d@203.202.232.252:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#Channel id: @ShadowProxy66 🇹🇷::TR
