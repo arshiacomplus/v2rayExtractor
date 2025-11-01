@@ -200,26 +200,48 @@ def process_and_save_results(checked_configs: List[str]):
 def main():
     logging.info("--- Starting V2Ray Extractor ---")
 
+    logging.info("Step 1: Scraping new configs from Telegram channels...")
     all_raw_configs = []
     with ThreadPoolExecutor(max_workers=20) as executor:
         future_to_url = {executor.submit(scrape_configs_from_url, url): url for url in TELEGRAM_URLS}
         for future in future_to_url:
             all_raw_configs.extend(future.result())
 
-    unique_raw_configs = sorted(list(set(all_raw_configs)))
-    logging.info(f"Collected a total of {len(unique_raw_configs)} unique raw configs.")
+    unique_new_configs = sorted(list(set(all_raw_configs)))
+    logging.info(f"Collected {len(unique_new_configs)} unique new configs from Telegram.")
 
-    if not unique_raw_configs:
-        logging.warning("No configs were collected. Exiting.")
+    logging.info("Step 2: Reading previously checked configs from 'mix/sub.html'...")
+    previous_configs = []
+    previous_mix_file = Path("mix/sub.html")
+    if previous_mix_file.is_file():
+        try:
+            previous_configs = previous_mix_file.read_text(encoding="utf-8").splitlines()
+            previous_configs = [line.strip() for line in previous_configs if '://' in line]
+            logging.info(f"Successfully read {len(previous_configs)} previously checked configs.")
+        except Exception as e:
+            logging.error(f"Could not read or process '{previous_mix_file}': {e}")
+    else:
+        logging.info("No previous 'mix/sub.html' file found. Proceeding with new configs only.")
+
+
+    logging.info("Step 3: Merging new and previous configs...")
+    combined_configs = unique_new_configs + previous_configs
+
+    unique_combined_configs = sorted(list(set(combined_configs)))
+    logging.info(f"Total unique configs to be tested: {len(unique_combined_configs)}")
+
+    if not unique_combined_configs:
+        logging.warning("No configs to check after merging. Exiting.")
         return
 
-    checked_configs = run_sub_checker(unique_raw_configs)
+    logging.info("Step 4: Running the sub-checker...")
+    checked_configs = run_sub_checker(unique_combined_configs)
 
     logging.info(f"Sub-checker returned {len(checked_configs)} valid configs.")
 
+    logging.info("Step 5: Processing and saving the final results...")
     process_and_save_results(checked_configs)
 
     logging.info("--- V2Ray Extractor finished successfully! ---")
-
 if __name__ == "__main__":
     main()
