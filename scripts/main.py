@@ -55,22 +55,22 @@ TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
 
 def scrape_configs_from_url(url: str) -> List[str]:
-    """
-    کانال تلگرام را اسکرپ کرده و با افزودن تگ منبع به هر کانفیگ، آن‌ها را برمی‌گرداند.
-    این نسخه حاوی اصلاحیه برای عبارت باقاعده است تا کل کانفیگ استخراج شود.
-    """
+
     configs = []
     try:
         response = requests.get(url, timeout=20)
         response.raise_for_status()
 
-        channel_name = "@" + url.split("/s/")
+        try:
+            channel_name = "@" + url.split("/s/")[1]
+        except IndexError:
+            logging.warning(f"Could not determine channel name from URL: {url}. Using default.")
+            channel_name = "@unknown_channel"
 
         soup = BeautifulSoup(response.content, 'html.parser')
         all_text_content = "\n".join(tag.get_text('\n') for tag in soup.find_all(['div', 'code']))
 
         pattern = r'((?:vmess|vless|ss|hy2|trojan|hysteria2)://[^\s<>"\'`]+)'
-
         found_configs = re.findall(pattern, all_text_content)
 
         for config in found_configs:
