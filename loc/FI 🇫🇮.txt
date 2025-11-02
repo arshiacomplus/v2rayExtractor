@@ -1,2 +1,2 @@
-vless://1901d9da-a3ca-44b2-9033-752aa449cc50@f1.robotklass.space:8443?security=reality&encryption=none&pbk=pUD3mOlIKBEtDyFWK0LsGkY7j__7vblFPXnEVoY9oVQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=22f040ed1037da8f#>>@DailyV2RY::FI
+vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?type=tcp&encryption=none&security=none#@V2rayNG3::FI
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443/?type=ws&encryption=none&flow=&host=157.180.123.25&path=%2Flinkws%3Fed%3D2560#>>@oneclickvpnkeys::FI
