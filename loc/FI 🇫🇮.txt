@@ -1,2 +1,5 @@
-vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?type=tcp&encryption=none&security=none#@V2rayNG3::FI
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&sid=#>>@oneclickvpnkeys::FI
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=LthJBtl69pQPsGvMQNNe100a9YyqaTXdaIY8gzOF2HU&sid=#>>@oneclickvpnkeys::FI
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.88.13.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=Tv-cNH4ADnhrcIc_JIHdTCz2PJ3b4jkmLNAJ4OVKuzY&sid=#>>@oneclickvpnkeys::FI
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.7:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&sid=#>>@oneclickvpnkeys::FI
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443/?type=ws&encryption=none&flow=&host=157.180.123.25&path=%2Flinkws%3Fed%3D2560#>>@oneclickvpnkeys::FI

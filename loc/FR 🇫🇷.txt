@@ -1,4 +1,4 @@
-vless://0addeafe-4637-486f-8ff7-19254fc7fbcf@us.farshalinezhad.xyz:2893?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2ray1_Ng::FR
-vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&encryption=none&headerType=none&type=tcp&sni=vpn-srv-2.circlevpn.net#🏀70@ConfigV2RayNG::FR
-vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2RAY_VMESS_free::FR
-vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&flow=&host=Join---ShadowProxy66&path=%2Fvless%2F#Channel id: @ShadowProxy66 🇫🇷::FR
+vless://0addeafe-4637-486f-8ff7-19254fc7fbcf@us.farshalinezhad.xyz:2893?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#>>@v2ray1_ng::FR
+vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&fp=chrome&type=ws#>>@V2RAY_VMESS_free::FR
+vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#>>@V2RAY_VMESS_free::FR
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&flow=&host=Join---ShadowProxy66&path=%2Fvless%2F#>>@ShadowsocksM::FR
