@@ -117,7 +117,6 @@ def send_with_rate_limit_handling(bot_instance, *args, **kwargs):
 
 def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_configs: Dict[str, List[str]]):
 
-
     for source in sorted(grouped_configs.keys()):
         configs = grouped_configs[source]
         if not configs:
@@ -127,16 +126,16 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
 
         for i in range(0, len(configs), 15):
             batch = configs[i:i + 15]
-
             message_text = "```\n" + "\n\n".join(batch) + "\n```"
 
             iran_tz = pytz.timezone("Asia/Tehran")
             time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M:%S")
             from_link = f"https://t.me/{source[1:]}" if source.startswith('@') else "منبع نامشخص"
 
+
             safe_source = source.replace('__', '\\_\\_')
-            safe_main_channel_id = f"@{MAIN_CHANNEL_ID_RAW.replace('__', '\\_\\_')}"
-            safe_config_channel_id = f"@{CONFIG_CHANNEL_ID_RAW.replace('__', '\\_\\_')}"
+            safe_main_channel_id = ("@" + MAIN_CHANNEL_ID_RAW).replace('__', '\\_\\_')
+            safe_config_channel_id = ("@" + CONFIG_CHANNEL_ID_RAW).replace('__', '\\_\\_')
 
             caption = (
                 f"{message_text}\n\n"
