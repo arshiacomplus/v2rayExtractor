@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#Untitled::PL
-vless://ddab5550-3938-4aba-943c-f23a08d07dc5@alhilal.com:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg#🇮🇩@FreakConfig::PL
 vless://e1dcc2f8-0ce5-42d5-964b-c9deea0a066e@193.200.17.251:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=iaDh3yELcXvgVQxS2-ULCBi339vROALja6c7ScIqom0&sid=#>>@oneclickvpnkeys::PL

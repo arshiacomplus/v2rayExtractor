@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🇨🇦CA-142.4.216.225-0354::CA
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#>>@FreakConfig::CA
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#telegram::CA
 vless://d36f457f-17a9-4891-a113-322ec6792917@m15a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2RAY_VMESS_free::CA
 vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80/?type=ws&encryption=none&flow=&host=---%40ShadowProxy66---%40ShadowProxy66---&path=%2Fvless%2F#Channel id: @ShadowProxy66::CA
