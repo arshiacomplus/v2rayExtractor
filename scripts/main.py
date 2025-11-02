@@ -56,24 +56,44 @@ SUB_CHECKER_DIR = Path("sub-checker")
 
 
 def scrape_configs_from_url(url: str) -> List[str]:
-
+    configs = []
     try:
         response = requests.get(url, timeout=20)
         response.raise_for_status()
-        soup = BeautifulSoup(response.content, 'html.parser')
 
+        channel_name = "@" + url.split("/s/")[1]
+
+        soup = BeautifulSoup(response.content, 'html.parser')
         content_tags = soup.find_all(['div', 'code'], class_=['tgme_widget_message_text', 'js-message_text'])
 
-        configs = []
-
-        pattern = r'(?:vmess|vless|ss|hy2|trojan|hysteria2)://[^\s<>"\'`]+'
-
+        pattern = r'(vmess|vless|ss|hy2|trojan|hysteria2)://[^\s<>"\'`]+'
         full_text = "\n".join(tag.get_text('\n') for tag in content_tags)
 
         found_configs = re.findall(pattern, full_text)
-        configs.extend(found_configs)
 
-        logging.info(f"Found {len(configs)} configs in {url}")
+        for config in found_configs:
+            if config.startswith("vmess://"):
+                try:
+                    encoded_part = config.split("://")[1]
+                    decoded_json = base64.b64decode(encoded_part).decode("utf-8")
+                    vmess_data = json.loads(decoded_json)
+
+                    vmess_data["ps"] = f"{vmess_data.get('ps', '')} >>{channel_name}"
+
+                    updated_json_str = json.dumps(vmess_data, separators=(',', ':'))
+                    updated_b64_encoded = base64.b64encode(updated_json_str.encode('utf-8')).decode('utf-8')
+                    configs.append("vmess://" + updated_b64_encoded)
+                except Exception:
+                    configs.append(f"{config}#>>{channel_name}")
+            else:
+                if '#' in config:
+                    base, old_tag = config.split('#', 1)
+                    new_tag = f"{old_tag} >>{channel_name}"
+                    configs.append(f"{base}#{new_tag}")
+                else:
+                    configs.append(f"{config}#>>{channel_name}")
+
+        logging.info(f"Found and tagged {len(configs)} configs in {url}")
         return configs
     except requests.RequestException as e:
         logging.error(f"Could not fetch or parse {url}: {e}")
