@@ -61,10 +61,7 @@ def scrape_configs_from_url(url: str) -> List[str]:
         response = requests.get(url, timeout=20)
         response.raise_for_status()
 
-        try:
-            channel_name = "@" + url.split("/s/")[1]
-        except IndexError:
-            channel_name = "@unknown_channel"
+        channel_name = "@" + url.split("/s/")[1]
 
         soup = BeautifulSoup(response.content, 'html.parser')
         all_text_content = "\n".join(tag.get_text('\n') for tag in soup.find_all(['div', 'code']))
@@ -78,37 +75,38 @@ def scrape_configs_from_url(url: str) -> List[str]:
                     parts = config.split('#', 1)
                     base_part = parts[0]
 
-                    encoded_part = base_part.replace("vmess://", "")
-                    encoded_part += '=' * (-len(encoded_part) % 4)
+                    encoded_json = base_part.replace("vmess://", "")
+                    encoded_json += '=' * (-len(encoded_json) % 4)
 
-                    decoded_json = base64.b64decode(encoded_part).decode("utf-8")
+                    decoded_json = base64.b64decode(encoded_json).decode("utf-8")
                     vmess_data = json.loads(decoded_json)
 
+                    original_external_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
                     original_ps = vmess_data.get("ps", "")
-                    vmess_data["ps"] = f"{original_ps} >>{channel_name}"
 
-                    updated_json_str = json.dumps(vmess_data, separators=(',', ':'))
-                    updated_b64_encoded = base64.b64encode(updated_json_str.encode('utf-8')).decode('utf-8').rstrip('=')
 
-                    configs.append("vmess://" + updated_b64_encoded)
+                    combined_tag = f"{original_ps} {original_external_tag}".strip()
+                    vmess_data["ps"] = f"{combined_tag} >>{channel_name}"
 
-                except Exception as e:
-                    logging.warning(f"Failed to process vmess config, adding tag externally: {e}")
-                    if '#' in config:
-                        configs.append(f"{config} >>{channel_name}")
-                    else:
-                        configs.append(f"{config}#>>{channel_name}")
-            else:
-                if '#' in config:
-                    base, old_tag = config.split('#', 1)
-                    new_tag = f"{old_tag} >>{channel_name}"
-                    configs.append(f"{base}#{urllib.parse.quote(new_tag)}")
-                else:
+
+                    updated_json = json.dumps(vmess_data, separators=(',', ':'))
+                    updated_b64 = base64.b64encode(updated_json.encode('utf-8')).decode('utf-8').rstrip('=')
+                    configs.append("vmess://" + updated_b64)
+                except Exception:
+
                     configs.append(f"{config}#>>{channel_name}")
+            else:
+                parts = config.split('#', 1)
+                base_uri = parts[0]
+
+                original_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+
+                new_tag = f"{original_tag} >>{channel_name}".strip()
+                configs.append(f"{base_uri}#{urllib.parse.quote(new_tag)}")
 
         logging.info(f"Found and tagged {len(configs)} configs in {url}")
         return configs
-    except requests.RequestException as e:
+    except Exception as e:
         logging.error(f"Could not fetch or parse {url}: {e}")
         return []
 

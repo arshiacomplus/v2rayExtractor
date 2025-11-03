@@ -68,30 +68,27 @@ def clean_config_for_telegram(config: str) -> str:
     return re.sub(r'(#.*?)::[A-Z]{2}$', r'\1', config)
 
 def regroup_configs_by_source(checked_configs: List[str]) -> Dict[str, List[str]]:
+
     regrouped = {}
     for config in checked_configs:
         source_channel = "unknown_source"
 
-        if config.startswith("vmess://"):
-            try:
-                encoded_part = config.split("://")[1].split("#")[0]
+        try:
+            full_tag = ""
+            if config.startswith("vmess://"):
+                encoded_part = config.split("://")[1]
+                encoded_part += '=' * (-len(encoded_part) % 4)
                 decoded_json = base64.b64decode(encoded_part).decode("utf-8")
                 vmess_data = json.loads(decoded_json)
-                ps = vmess_data.get("ps", "")
-                match = re.search(r'>>\s*@([\w\d_]+)', ps)
-                if match:
-                    source_channel = f"@{match.group(1)}"
-            except Exception:
-                pass
+                full_tag = vmess_data.get("ps", "")
+            elif '#' in config:
+                full_tag = urllib.parse.unquote(config.split('#', 1)[1])
 
-        if source_channel == "unknown_source" and '#' in config:
-            try:
-                tag_part = urllib.parse.unquote(config.split('#', 1)[1])
-                match = re.search(r'>>\s*@([\w\d_]+)', tag_part)
-                if match:
-                    source_channel = f"@{match.group(1)}"
-            except Exception:
-                pass
+            match = re.search(r'>>\s*@([\w\d_]+)', full_tag)
+            if match:
+                source_channel = f"@{match.group(1)}"
+        except Exception as e:
+            logging.warning(f"Could not parse tag for source detection in '{config[:50]}...': {e}")
 
         if source_channel not in regrouped:
             regrouped[source_channel] = []
