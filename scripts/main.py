@@ -64,7 +64,6 @@ def scrape_configs_from_url(url: str) -> List[str]:
         try:
             channel_name = "@" + url.split("/s/")[1]
         except IndexError:
-            logging.warning(f"Could not determine channel name from URL: {url}. Using default.")
             channel_name = "@unknown_channel"
 
         soup = BeautifulSoup(response.content, 'html.parser')
@@ -74,24 +73,38 @@ def scrape_configs_from_url(url: str) -> List[str]:
         found_configs = re.findall(pattern, all_text_content)
 
         for config in found_configs:
-            base_config = config.split('#')[0]
-
             if config.startswith("vmess://"):
                 try:
-                    encoded_part = base_config.replace("vmess://", "")
+                    parts = config.split('#', 1)
+                    base_part = parts[0]
+
+                    encoded_part = base_part.replace("vmess://", "")
                     encoded_part += '=' * (-len(encoded_part) % 4)
+
                     decoded_json = base64.b64decode(encoded_part).decode("utf-8")
                     vmess_data = json.loads(decoded_json)
 
-                    vmess_data["ps"] = f">> {channel_name}"
+                    original_ps = vmess_data.get("ps", "")
+                    vmess_data["ps"] = f"{original_ps} >>{channel_name}"
 
                     updated_json_str = json.dumps(vmess_data, separators=(',', ':'))
                     updated_b64_encoded = base64.b64encode(updated_json_str.encode('utf-8')).decode('utf-8').rstrip('=')
+
                     configs.append("vmess://" + updated_b64_encoded)
-                except Exception:
-                    configs.append(f"{base_config}#>>{channel_name}")
+
+                except Exception as e:
+                    logging.warning(f"Failed to process vmess config, adding tag externally: {e}")
+                    if '#' in config:
+                        configs.append(f"{config} >>{channel_name}")
+                    else:
+                        configs.append(f"{config}#>>{channel_name}")
             else:
-                configs.append(f"{base_config}#>>{channel_name}")
+                if '#' in config:
+                    base, old_tag = config.split('#', 1)
+                    new_tag = f"{old_tag} >>{channel_name}"
+                    configs.append(f"{base}#{urllib.parse.quote(new_tag)}")
+                else:
+                    configs.append(f"{config}#>>{channel_name}")
 
         logging.info(f"Found and tagged {len(configs)} configs in {url}")
         return configs
@@ -280,8 +293,8 @@ def main():
                 try:
                     bot = telegram_sender.init_bot(TELEGRAM_BOT_TOKEN)
                     if bot:
-                        logging.info(f"Sending summary to main channel: {TELEGRAM_CHAT_ID}")
-                        telegram_sender.send_summary_message(bot, TELEGRAM_CHAT_ID, protocol_counts)
+                        logging.info(f"Sending summary to main channel: {TELEGRAM_CHANNEL_ID}")
+                        telegram_sender.send_summary_message(bot, TELEGRAM_CHANNEL_ID, protocol_counts)
 
                         logging.info(f"Sending grouped configs to channel: {TELEGRAM_CHANNEL_ID}")
                         grouped_configs = telegram_sender.regroup_configs_by_source(checked_configs)
