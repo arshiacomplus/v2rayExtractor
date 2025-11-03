@@ -1,1 +1,1 @@
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2line%3A%3AAM
+vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?encryption=none&security=none&type=tcp&headerType=none#%253E%253E%2540v2line%253A%253AAM%3A%3AAM

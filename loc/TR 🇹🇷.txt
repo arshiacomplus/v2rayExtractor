@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@promo16v.bystrivpn.ru:443#%2525F0%25259F%25258D%25258258%252540oneclickvpnkeys%2520%253E%253E%2540oneclickvpnkeys%3A%3ATR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#%3E%3E%40shadowproxy66%3A%3ATR
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948/?encryption=none&flow=&host=divarcdn.com&type=tcp&headerType=http#%2525F0%25259F%25258D%25258255%252540oneclickvpnkeys%2520%253E%253E%2540oneclickvpnkeys%3A%3ATR
-vless://e8cdcc21-ecee-41d5-bb6a-012a73edb10c@185.123.101.95:44178?security=none&encryption=none&headerType=none&type=tcp#%2520%253E%253E%2540v2nodes%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#%253E%253E%2540shadowproxy66%253A%253ATR%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@promo16v.bystrivpn.ru:443#%252525F0%2525259F%2525258D%2525258258%25252540oneclickvpnkeys%252520%25253E%25253E%252540oneclickvpnkeys%253A%253ATR%3A%3ATR
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948/?encryption=none&flow=&host=divarcdn.com&type=tcp&headerType=http#%252525F0%2525259F%2525258D%2525258255%25252540oneclickvpnkeys%252520%25253E%25253E%252540oneclickvpnkeys%253A%253ATR%3A%3ATR
+vless://e8cdcc21-ecee-41d5-bb6a-012a73edb10c@185.123.101.95:44178?security=none&encryption=none&headerType=none&type=tcp#%252520%25253E%25253E%252540v2nodes%253A%253ATR%3A%3ATR

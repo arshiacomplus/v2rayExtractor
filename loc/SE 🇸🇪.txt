@@ -1,1 +1,1 @@
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASE
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%253A%253ASE%3A%3ASE
