@@ -50,27 +50,15 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
     }
 
     if total_configs > 0:
-        message += f"MIX (ALL):\n"
-        message += f"\n{links_map['mix']}\n\n"
+        message += f"**MIX (ALL):**\n"
+        message += f"```\n{links_map['mix']}\n```\n"
 
-    for protocol, count in counts.items():
-        if count > 0:
-            message += f"{protocol.upper()}:\n"
-            message += f"\n{links_map.get(protocol, '')}\n\n"
-
-    iran_tz = pytz.timezone("Asia/Tehran")
-    time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M")
-    message += f"\n*آخرین بروزرسانی: {time_ir}*"
-
-    try:
-        bot.send_message(chat_id, message, parse_mode='Markdown', disable_web_page_preview=True)
-    except Exception as e:
-        logging.error(f"Failed to send summary message to {chat_id}: {e}")
 
     for protocol, count in counts.items():
         message += f"**{protocol.upper()}:**\n"
         message += f"```\n{links_map.get(protocol, '')}\n```\n"
 
+
     iran_tz = pytz.timezone("Asia/Tehran")
     time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M")
     message += f"\n*آخرین بروزرسانی: {time_ir}*"
@@ -79,6 +67,7 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
         bot.send_message(chat_id, message, parse_mode='Markdown', disable_web_page_preview=True)
     except Exception as e:
         logging.error(f"Failed to send summary message to {chat_id}: {e}")
+
 
 def clean_config_for_telegram(config: str) -> str:
 
@@ -166,6 +155,7 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
                 parse_mode='Markdown',
                 disable_web_page_preview=True
             )
+
 
 
 
