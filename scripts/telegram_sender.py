@@ -39,15 +39,37 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
 
     base_raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPOSITORY}/main"
 
-    message = "📊 **خلاصه ساب‌لینک‌های V2rayExtractor** 📊\n\n"
+    message = "📊 خلاصه ساب‌لینک‌های V2rayExtractor 📊\n\n"
     total_configs = sum(counts.values())
-    message += f"تعداد کل کانفیگ‌های سالم: **{total_configs}**\n\n"
+    message += f"تعداد کل کانفیگ‌های سالم: {total_configs}\n\n"
 
     links_map = {
         "mix": f"{base_raw_url}/mix/sub.html", "vless": f"{base_raw_url}/vless.html",
         "vmess": f"{base_raw_url}/vmess.html", "ss": f"{base_raw_url}/ss.html",
         "trojan": f"{base_raw_url}/trojan.html", "hy2": f"{base_raw_url}/hy2.html",
     }
+
+    if total_configs > 0:
+        message += f"MIX (ALL):\n"
+        message += f"
+\n{links_map['mix']}\n
+\n"
+
+    for protocol, count in counts.items():
+        if count > 0:
+            message += f"{protocol.upper()}:\n"
+            message += f"
+\n{links_map.get(protocol, '')}\n
+\n"
+
+    iran_tz = pytz.timezone("Asia/Tehran")
+    time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M")
+    message += f"\n*آخرین بروزرسانی: {time_ir}*"
+
+    try:
+        bot.send_message(chat_id, message, parse_mode='Markdown', disable_web_page_preview=True)
+    except Exception as e:
+        logging.error(f"Failed to send summary message to {chat_id}: {e}")
 
     for protocol, count in counts.items():
         message += f"**{protocol.upper()}:**\n"
@@ -148,5 +170,6 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
                 parse_mode='Markdown',
                 disable_web_page_preview=True
             )
+
 
 
