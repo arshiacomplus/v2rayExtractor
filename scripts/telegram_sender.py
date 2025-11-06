@@ -51,16 +51,12 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
 
     if total_configs > 0:
         message += f"MIX (ALL):\n"
-        message += f"
-\n{links_map['mix']}\n
-\n"
+        message += f"\n{links_map['mix']}\n\n"
 
     for protocol, count in counts.items():
         if count > 0:
             message += f"{protocol.upper()}:\n"
-            message += f"
-\n{links_map.get(protocol, '')}\n
-\n"
+            message += f"\n{links_map.get(protocol, '')}\n\n"
 
     iran_tz = pytz.timezone("Asia/Tehran")
     time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M")
@@ -170,6 +166,7 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
                 parse_mode='Markdown',
                 disable_web_page_preview=True
             )
+
 
 
 
