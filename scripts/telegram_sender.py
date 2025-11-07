@@ -68,7 +68,6 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
     except Exception as e:
         logging.error(f"Failed to send summary message to {chat_id}: {e}")
 
-
 def clean_config_for_telegram(config: str) -> str:
 
     return re.sub(r'(#.*?)::[A-Z]{2}$', r'\1', config)
@@ -156,6 +155,7 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
                 parse_mode='Markdown',
                 disable_web_page_preview=True
             )
+
 
 
 
