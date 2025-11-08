@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#%2525F0%25259F%252592%25258D5%252540oneclickvpnkeys%252520%25253E%25253E%252540ShadowsocksM%253A%253AUA%3A%3AUA
-vless://26d7f2c4-ba48-11f0-b7eb-23203725ad6a@82.118.18.101:10004?path=/vpnjantit&security=none&encryption=none&type=ws#%25253E%25253E%252540v2nodes%253A%253AUA%3A%3AUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#%252525F0%2525259F%25252592%2525258D5%25252540oneclickvpnkeys%25252520%2525253E%2525253E%25252540ShadowsocksM%25253A%25253AUA%253A%253AUA%3A%3AUA
+vless://26d7f2c4-ba48-11f0-b7eb-23203725ad6a@82.118.18.101:10004?path=%2Fvpnjantit%3Fed%3D2048Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&security=&encryption=none&type=ws#%25F0%259F%2587%25A6%25F0%259F%2587%25AA%2540FreakConfig%2520%253E%253E%2540FreakConfig%3A%3AUA
