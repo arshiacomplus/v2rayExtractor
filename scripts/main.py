@@ -55,13 +55,13 @@ TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
 
 def scrape_configs_from_url(url: str) -> List[str]:
-
     configs = []
     try:
         response = requests.get(url, timeout=20)
         response.raise_for_status()
 
         channel_name = "@" + url.split("/s/")[1]
+        channel_tag = f">>{channel_name}"
 
         soup = BeautifulSoup(response.content, 'html.parser')
         all_text_content = "\n".join(tag.get_text('\n') for tag in soup.find_all(['div', 'code']))
@@ -84,24 +84,40 @@ def scrape_configs_from_url(url: str) -> List[str]:
                     original_external_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
                     original_ps = vmess_data.get("ps", "")
 
-
                     combined_tag = f"{original_ps} {original_external_tag}".strip()
-                    vmess_data["ps"] = f"{combined_tag} >>{channel_name}"
 
+                    if channel_tag not in combined_tag:
+                        final_tag = f"{combined_tag} {channel_tag}".strip()
+                    else:
+                        final_tag = combined_tag
+
+
+                    vmess_data["ps"] = final_tag
 
                     updated_json = json.dumps(vmess_data, separators=(',', ':'))
                     updated_b64 = base64.b64encode(updated_json.encode('utf-8')).decode('utf-8').rstrip('=')
                     configs.append("vmess://" + updated_b64)
                 except Exception:
 
-                    configs.append(f"{config}#>>{channel_name}")
+                    parts = config.split('#', 1)
+                    base_uri = parts[0]
+                    original_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+                    if channel_tag not in original_tag:
+                        new_tag = f"{original_tag} {channel_tag}".strip()
+                    else:
+                        new_tag = original_tag
+                    configs.append(f"{base_uri}#{urllib.parse.quote(new_tag)}")
             else:
                 parts = config.split('#', 1)
                 base_uri = parts[0]
 
                 original_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
 
-                new_tag = f"{original_tag} >>{channel_name}".strip()
+                if channel_tag not in original_tag:
+                    new_tag = f"{original_tag} {channel_tag}".strip()
+                else:
+                    new_tag = original_tag
+
                 configs.append(f"{base_uri}#{urllib.parse.quote(new_tag)}")
 
         logging.info(f"Found and tagged {len(configs)} configs in {url}")
