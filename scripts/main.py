@@ -53,7 +53,6 @@ TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
-
 def scrape_configs_from_url(url: str) -> List[str]:
     configs = []
     try:
@@ -75,22 +74,20 @@ def scrape_configs_from_url(url: str) -> List[str]:
                     parts = config.split('#', 1)
                     base_part = parts[0]
 
+                    existing_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+
                     encoded_json = base_part.replace("vmess://", "")
                     encoded_json += '=' * (-len(encoded_json) % 4)
-
                     decoded_json = base64.b64decode(encoded_json).decode("utf-8")
                     vmess_data = json.loads(decoded_json)
 
-                    original_external_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
                     original_ps = vmess_data.get("ps", "")
 
-                    combined_tag = f"{original_ps} {original_external_tag}".strip()
-
+                    combined_tag = f"{original_ps} {existing_tag}".strip()
                     if channel_tag not in combined_tag:
                         final_tag = f"{combined_tag} {channel_tag}".strip()
                     else:
                         final_tag = combined_tag
-
 
                     vmess_data["ps"] = final_tag
 
@@ -98,9 +95,9 @@ def scrape_configs_from_url(url: str) -> List[str]:
                     updated_b64 = base64.b64encode(updated_json.encode('utf-8')).decode('utf-8').rstrip('=')
                     configs.append("vmess://" + updated_b64)
                 except Exception:
-
                     parts = config.split('#', 1)
                     base_uri = parts[0]
+
                     original_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
                     if channel_tag not in original_tag:
                         new_tag = f"{original_tag} {channel_tag}".strip()
@@ -112,12 +109,10 @@ def scrape_configs_from_url(url: str) -> List[str]:
                 base_uri = parts[0]
 
                 original_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
-
                 if channel_tag not in original_tag:
                     new_tag = f"{original_tag} {channel_tag}".strip()
                 else:
                     new_tag = original_tag
-
                 configs.append(f"{base_uri}#{urllib.parse.quote(new_tag)}")
 
         logging.info(f"Found and tagged {len(configs)} configs in {url}")
@@ -125,7 +120,6 @@ def scrape_configs_from_url(url: str) -> List[str]:
     except Exception as e:
         logging.error(f"Could not fetch or parse {url}: {e}")
         return []
-
 def run_sub_checker(input_configs: List[str]) -> List[str]:
 
     if not SUB_CHECKER_DIR.is_dir():
