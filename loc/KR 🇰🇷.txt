@@ -1,2 +1,0 @@
-vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&sid=#%2525F0%25259F%25258C%25259F14%252540oneclickvpnkeys%252520%25253E%25253E%252540oneclickvpnkeys%253A%253AKR%3A%3AKR
-hy2://937f8940-ad8a-409f-93c3-4d6249af628f@kr1.oomz.ru:30000/?insecure=1&sni=bing.com#%2525F0%25259F%25258C%25259F49%252540oneclickvpnkeys%252520%25253E%25253E%252540oneclickvpnkeys%253A%253AKR%3A%3AKR

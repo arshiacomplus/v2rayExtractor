@@ -1,2 +1,0 @@
-hy2://937f8940-ad8a-409f-93c3-4d6249af628f@tw.oomz.ru:30000/?insecure=1&sni=bing.com#%2525F0%25259F%25258C%25259F51%252540oneclickvpnkeys%252520%25253E%25253E%252540oneclickvpnkeys%253A%253ATW%3A%3ATW
-hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@tw.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#%2525F0%25259F%25258C%25259F51%252540ConfigV2RayNG%252520%25253E%25253E%252540configV2rayNG%253A%253ATW%3A%3ATW
