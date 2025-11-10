@@ -60,7 +60,7 @@ def scrape_configs_from_url(url: str) -> List[str]:
         response.raise_for_status()
 
         channel_name = "@" + url.split("/s/")[1]
-        channel_tag = f">>{channel_name}"
+        new_tag = f">>{channel_name}"
 
         soup = BeautifulSoup(response.content, 'html.parser')
         all_text_content = "\n".join(tag.get_text('\n') for tag in soup.find_all(['div', 'code']))
@@ -71,51 +71,27 @@ def scrape_configs_from_url(url: str) -> List[str]:
         for config in found_configs:
             if config.startswith("vmess://"):
                 try:
-                    parts = config.split('#', 1)
-                    base_part = parts[0]
-
-                    existing_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+                    base_part = config.split('#', 1)[0]
 
                     encoded_json = base_part.replace("vmess://", "")
                     encoded_json += '=' * (-len(encoded_json) % 4)
+
                     decoded_json = base64.b64decode(encoded_json).decode("utf-8")
                     vmess_data = json.loads(decoded_json)
 
-                    original_ps = vmess_data.get("ps", "")
-
-                    combined_tag = f"{original_ps} {existing_tag}".strip()
-                    if channel_tag not in combined_tag:
-                        final_tag = f"{combined_tag} {channel_tag}".strip()
-                    else:
-                        final_tag = combined_tag
-
-                    vmess_data["ps"] = final_tag
-
+                    vmess_data["ps"] = new_tag
                     updated_json = json.dumps(vmess_data, separators=(',', ':'))
                     updated_b64 = base64.b64encode(updated_json.encode('utf-8')).decode('utf-8').rstrip('=')
                     configs.append("vmess://" + updated_b64)
-                except Exception:
-                    parts = config.split('#', 1)
-                    base_uri = parts[0]
+                except Exception as e:
 
-                    original_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
-                    if channel_tag not in original_tag:
-                        new_tag = f"{original_tag} {channel_tag}".strip()
-                    else:
-                        new_tag = original_tag
-                    configs.append(f"{base_uri}#{urllib.parse.quote(new_tag)}")
+                    logging.warning(f"Could not parse vmess config, skipping: {config[:50]}... Error: {e}")
             else:
-                parts = config.split('#', 1)
-                base_uri = parts[0]
 
-                original_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
-                if channel_tag not in original_tag:
-                    new_tag = f"{original_tag} {channel_tag}".strip()
-                else:
-                    new_tag = original_tag
+                base_uri = config.split('#', 1)[0]
                 configs.append(f"{base_uri}#{urllib.parse.quote(new_tag)}")
 
-        logging.info(f"Found and tagged {len(configs)} configs in {url}")
+        logging.info(f"Found and re-tagged {len(configs)} configs in {url}")
         return configs
     except Exception as e:
         logging.error(f"Could not fetch or parse {url}: {e}")
