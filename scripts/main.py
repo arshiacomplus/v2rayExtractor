@@ -72,22 +72,26 @@ def scrape_configs_from_url(url: str) -> List[str]:
             if config.startswith("vmess://"):
                 try:
                     base_part = config.split('#', 1)[0]
-
                     encoded_json = base_part.replace("vmess://", "")
                     encoded_json += '=' * (-len(encoded_json) % 4)
 
-                    decoded_json = base64.b64decode(encoded_json).decode("utf-8")
-                    vmess_data = json.loads(decoded_json)
+                    decoded_bytes = base64.b64decode(encoded_json)
 
+                    try:
+                        decoded_json = decoded_bytes.decode("utf-8")
+                    except UnicodeDecodeError:
+                        logging.debug(f"UTF-8 decode failed for a vmess config, trying latin-1.")
+                        decoded_json = decoded_bytes.decode("latin-1")
+
+                    vmess_data = json.loads(decoded_json)
                     vmess_data["ps"] = new_tag
+
                     updated_json = json.dumps(vmess_data, separators=(',', ':'))
                     updated_b64 = base64.b64encode(updated_json.encode('utf-8')).decode('utf-8').rstrip('=')
                     configs.append("vmess://" + updated_b64)
                 except Exception as e:
-
                     logging.warning(f"Could not parse vmess config, skipping: {config[:50]}... Error: {e}")
             else:
-
                 base_uri = config.split('#', 1)[0]
                 configs.append(f"{base_uri}#{urllib.parse.quote(new_tag)}")
 
