@@ -39,9 +39,9 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
 
     base_raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPOSITORY}/main"
 
-    message = "📊 خلاصه ساب‌لینک‌های V2rayExtractor 📊\n\n"
+    message = "📊 **خلاصه ساب‌لینک‌های V2rayExtractor** 📊\n\n"
     total_configs = sum(counts.values())
-    message += f"تعداد کل کانفیگ‌های سالم: {total_configs}\n\n"
+    message += f"تعداد کل کانفیگ‌های سالم: **{total_configs}**\n\n"
 
     links_map = {
         "mix": f"{base_raw_url}/mix/sub.html", "vless": f"{base_raw_url}/vless.html",
@@ -49,15 +49,10 @@ def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, i
         "trojan": f"{base_raw_url}/trojan.html", "hy2": f"{base_raw_url}/hy2.html",
     }
 
-    if total_configs > 0:
-        message += f"**MIX (ALL):**\n"
-        message += f"```\n{links_map['mix']}\n```\n"
-
-
     for protocol, count in counts.items():
-        message += f"**{protocol.upper()}:**\n"
-        message += f"```\n{links_map.get(protocol, '')}\n```\n"
-
+        if count > 0:
+            message += f"**{protocol.upper()}:**\n"
+            message += f"```\n{links_map.get(protocol, '')}\n```\n"
 
     iran_tz = pytz.timezone("Asia/Tehran")
     time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M")
@@ -77,17 +72,27 @@ def regroup_configs_by_source(checked_configs: List[str]) -> Dict[str, List[str]
     regrouped = {}
     for config in checked_configs:
         source_channel = "unknown_source"
+        full_tag = ""
 
         try:
-            full_tag = ""
             if config.startswith("vmess://"):
-                encoded_part = config.split("://")[1]
-                encoded_part += '=' * (-len(encoded_part) % 4)
-                decoded_json = base64.b64decode(encoded_part).decode("utf-8")
-                vmess_data = json.loads(decoded_json)
-                full_tag = vmess_data.get("ps", "")
+                try:
+                    encoded_part = config.split("://")[1].split('#', 1)[0]
+                    encoded_part += '=' * (-len(encoded_part) % 4)
+                    decoded_json = base64.b64decode(encoded_part).decode("utf-8")
+                    vmess_data = json.loads(decoded_json)
+                    raw_tag = vmess_data.get("ps", "")
+                    full_tag = urllib.parse.unquote(raw_tag)
+                except Exception:
+                    if '#' in config:
+                        full_tag = urllib.parse.unquote(config.split('#', 1)[1])
+
             elif '#' in config:
-                full_tag = urllib.parse.unquote(config.split('#', 1)[1])
+                tag_part = config.split('#', 1)[1]
+                full_tag = urllib.parse.unquote(tag_part)
+
+            if full_tag and '>>' not in full_tag and '%' in full_tag:
+                full_tag = urllib.parse.unquote(full_tag)
 
             match = re.search(r'>>\s*@([\w\d_]+)', full_tag)
             if match:
@@ -155,7 +160,3 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
                 parse_mode='Markdown',
                 disable_web_page_preview=True
             )
-
-
-
-
