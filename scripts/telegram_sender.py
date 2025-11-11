@@ -34,7 +34,16 @@ def init_bot(token: str) -> telebot.TeleBot | None:
     except Exception as e:
         logging.error(f"Failed to initialize Telegram bot: {e}")
         return None
+def full_unquote(s: str) -> str:
 
+    if '%' not in s:
+        return s
+
+    prev_s = ""
+    while s != prev_s:
+        prev_s = s
+        s = urllib.parse.unquote(s)
+    return s
 def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, int]):
 
     base_raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPOSITORY}/main"
@@ -82,17 +91,17 @@ def regroup_configs_by_source(checked_configs: List[str]) -> Dict[str, List[str]
                     decoded_json = base64.b64decode(encoded_part).decode("utf-8")
                     vmess_data = json.loads(decoded_json)
                     raw_tag = vmess_data.get("ps", "")
-                    full_tag = urllib.parse.unquote(raw_tag)
+                    full_tag = full_unquote(raw_tag)
                 except Exception:
                     if '#' in config:
-                        full_tag = urllib.parse.unquote(config.split('#', 1)[1])
+                        full_tag = full_unquote(config.split('#', 1)[1])
 
             elif '#' in config:
                 tag_part = config.split('#', 1)[1]
-                full_tag = urllib.parse.unquote(tag_part)
+                full_tag = full_unquote(tag_part)
 
             if full_tag and '>>' not in full_tag and '%' in full_tag:
-                full_tag = urllib.parse.unquote(full_tag)
+                full_tag = full_unquote(full_tag)
 
             match = re.search(r'>>\s*@([\w\d_]+)', full_tag)
             if match:

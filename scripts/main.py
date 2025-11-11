@@ -54,14 +54,27 @@ TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
 
-def clean_previous_configs(configs: List[str]) -> List[str]:
+def full_unquote(s: str) -> str:
 
+    if '%' not in s:
+        return s
+
+    prev_s = ""
+    while s != prev_s:
+        prev_s = s
+        s = urllib.parse.unquote(s)
+    return s
+
+def clean_previous_configs(configs: List[str]) -> List[str]:
     cleaned_configs = []
     for config in configs:
         try:
             if '#' in config:
                 base_uri, tag = config.split('#', 1)
-                decoded_tag = urllib.parse.unquote(tag)
+
+
+                decoded_tag = full_unquote(tag)
+
                 cleaned_tag = re.sub(r'::[A-Z]{2}$', '', decoded_tag).strip()
 
                 if cleaned_tag:
@@ -76,7 +89,6 @@ def clean_previous_configs(configs: List[str]) -> List[str]:
             logging.warning(f"Could not clean config, adding original: {config[:50]}... Error: {e}")
             cleaned_configs.append(config)
     return cleaned_configs
-
 def scrape_configs_from_url(url: str) -> List[str]:
     configs = []
     try:
