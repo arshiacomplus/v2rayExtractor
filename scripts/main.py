@@ -99,7 +99,7 @@ def scrape_configs_from_url(url: str) -> List[str]:
         new_tag = f">>{channel_name}"
 
         soup = BeautifulSoup(response.content, 'html.parser')
-        all_text_content = "\n".join(tag.get_text('\n') for tag in soup.find_all(['div', 'code']))
+        all_text_content = "\n".join(tag.get_text('\n') for tag in soup.find_all(['div', 'code', 'blockquote', 'pre']))
 
         pattern = r'((?:vmess|vless|ss|hy2|trojan|hysteria2)://[^\s<>"\'`]+)'
         found_configs = re.findall(pattern, all_text_content)
