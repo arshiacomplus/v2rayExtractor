@@ -1,2 +1,1 @@
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=none&encryption=none&fp=chrome&type=ws#%25253E%25253E%252540V2RAY_VMESS_free%253A%253ALV%3A%3ALV
-vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992/?type=tcp&encryption=none&flow=#%25253E%25253E%252540oneclickvpnkeys%253A%253ALV%3A%3ALV
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=none&encryption=none&fp=chrome&type=ws#%3E%3E%40V2RAY_VMESS_free%3A%3ALV

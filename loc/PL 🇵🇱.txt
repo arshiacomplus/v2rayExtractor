@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTHBBSGNOU29sRVo5QWpkRU40bWlB@77.83.246.227:39830#%253E%253E%2540OutlineVpnOfficial%3A%3APL
-vless://4605f8c1-4818-4fd9-9bcd-ec1fc5c47abd@172.67.136.244:8443/?type=ws&encryption=none&flow=&host=hint.app-browser.org&path=%2FB9aKBZK1R8OBYWBZ&ed=9777&eh=Sec-WebSocket-Protocol&security=tls&sni=hint.app-browser.org&allowInsecure=1#%25253E%25253E%252540oneclickvpnkeys%253A%253APL%3A%3APL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTHBBSGNOU29sRVo5QWpkRU40bWlB@77.83.246.227:39830#%3E%3E%40OutlineVpnOfficial%3A%3APL
+vless://4605f8c1-4818-4fd9-9bcd-ec1fc5c47abd@172.67.136.244:8443/?type=ws&encryption=none&flow=&host=hint.app-browser.org&path=%2FB9aKBZK1R8OBYWBZ&ed=9777&eh=Sec-WebSocket-Protocol&security=tls&sni=hint.app-browser.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL

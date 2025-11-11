@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptaXhxUjlhWmt0MmVBWmpQa2xnTzVD@78.129.140.11:443#%25253E%25253E%252540ShadowsocksM%253A%253AGB%3A%3AGB
-vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%25253E%25253E%252540DailyV2RY%253A%253AGB%3A%3AGB
-vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&headerType=http&type=tcp#%25253E%25253E%252540prrofile_purple%253A%253AGB%3A%3AGB
-vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%25253E%25253E%252540outline_vpn%253A%253AGB%3A%3AGB
+vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%3E%3E%40DailyV2RY%3A%3AGB
+vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&headerType=http&type=tcp#%3E%3E%40prrofile_purple%3A%3AGB

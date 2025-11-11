@@ -1,1 +1,1 @@
-vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443/?type=ws&encryption=none&flow=&host=private.besttotaldns.com&path=%2FJ5aKLOY1R7ONXYCM&ed=2747&eh=Sec-WebSocket-Protocol&security=tls&sni=private.besttotaldns.com&allowInsecure=1#%25253E%25253E%252540oneclickvpnkeys%253A%253AFI%3A%3AFI
+vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443/?type=ws&encryption=none&flow=&host=private.besttotaldns.com&path=%2FJ5aKLOY1R7ONXYCM&ed=2747&eh=Sec-WebSocket-Protocol&security=tls&sni=private.besttotaldns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
