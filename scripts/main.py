@@ -53,6 +53,30 @@ TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
+
+def clean_previous_configs(configs: List[str]) -> List[str]:
+
+    cleaned_configs = []
+    for config in configs:
+        try:
+            if '#' in config:
+                base_uri, tag = config.split('#', 1)
+                decoded_tag = urllib.parse.unquote(tag)
+                cleaned_tag = re.sub(r'::[A-Z]{2}$', '', decoded_tag).strip()
+
+                if cleaned_tag:
+                    final_config = f"{base_uri}#{urllib.parse.quote(cleaned_tag)}"
+                else:
+                    final_config = base_uri
+
+                cleaned_configs.append(final_config)
+            else:
+                cleaned_configs.append(config)
+        except Exception as e:
+            logging.warning(f"Could not clean config, adding original: {config[:50]}... Error: {e}")
+            cleaned_configs.append(config)
+    return cleaned_configs
+
 def scrape_configs_from_url(url: str) -> List[str]:
     configs = []
     try:
@@ -245,6 +269,7 @@ def main():
         try:
             previous_configs = previous_mix_file.read_text(encoding="utf-8").splitlines()
             previous_configs = [line.strip() for line in previous_configs if '://' in line]
+            previous_configs = clean_previous_configs(previous_configs)
             logging.info(f"Successfully read {len(previous_configs)} previously checked configs.")
         except Exception as e:
             logging.error(f"Could not read or process '{previous_mix_file}': {e}")
