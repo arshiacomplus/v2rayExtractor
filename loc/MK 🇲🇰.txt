@@ -1,1 +1,1 @@
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AMK
+vless://3937359b-f304-44f7-b957-4c6f1a53a7f9@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540v2rayNG_Matsuri%3A%3AMK
