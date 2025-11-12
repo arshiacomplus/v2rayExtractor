@@ -21,17 +21,6 @@ jobs:
           repository: arshiacomplus/sub-checker
           path: sub-checker
 
-      - name: Move Pre-packaged Binaries to Vendor Directory
-        run: |
-          echo "Moving binaries from the sub-checker repo to its vendor directory..."
-          mkdir -p sub-checker/vendor
-          mv sub-checker/xray/xray sub-checker/vendor/xray_linux
-          mv sub-checker/hy2/hysteria sub-checker/vendor/hysteria_linux
-          chmod +x sub-checker/vendor/xray_linux
-          chmod +x sub-checker/vendor/hysteria_linux
-          echo "Binaries are now in their correct location:"
-          ls -l sub-checker/vendor
-          rm -rf sub-checker/xray sub-checker/hy2
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -67,4 +56,5 @@ jobs:
           else
             git commit -m "📊 Update V2Ray configs"
             git push
+
           fi
