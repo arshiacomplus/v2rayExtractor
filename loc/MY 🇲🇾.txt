@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#%253E%253E%2540OutlineVpnOfficial%3A%3AMY
+vless://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
 vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
+vless://f3db918d-4ced-4468-a716-a66c7d47e334@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%253E%253E%2540DailyV2RY%3A%3AMY
