@@ -1,2 +1,2 @@
-vless://19328733-05e7-449d-bdbb-f1b831ab58a5@148.113.139.85:443?type=ws&encryption=none&security=&host=148.113.139.85&path=/linkws?ed=2560&sni=#%253E%253E%2540DailyV2RY%3A%3ACA
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102/?insecure=1&sni=du.wish.ml#%253E%253E%2540oneclickvpnkeys%3A%3ACA
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?security=tls&insecure=1&sni=du.wish.ml#%253E%253E%2540ShadowsocksM%3A%3ACA
