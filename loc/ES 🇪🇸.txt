@@ -1,1 +1,1 @@
-vless://270b10d7-0954-43d5-8db1-c01854061634@208.85.23.97:80?path=%2FwMGfuws&security=none&encryption=none&type=ws#%253E%253E%2540DailyV2RY%3A%3AES
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYnlUanJaRUNFV3RCM0lSdFdyMzVt@194.87.45.189:443#%253E%253E%2540shadowproxy66%3A%3AES

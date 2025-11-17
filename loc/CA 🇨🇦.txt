@@ -1,4 +1,4 @@
+vless://1a99075a-0ac0-40ec-bb86-3cc1b6fe211f@51.79.102.230:443?type=ws&encryption=none&security=&host=51.79.102.230&path=/linkws?ed=2560&sni=#%253E%253E%2540DailyV2RY%3A%3ACA
 vless://2e6037b9-87b2-4442-91f9-71c41a586a55@51.79.103.117:443/?type=ws&encryption=none&flow=&host=51.79.103.117&path=%2Flinkws%3Fed%3D2560#%253E%253E%2540oneclickvpnkeys%3A%3ACA
-vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@162.159.38.111:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&fp=chrome&type=ws&sni=2.294294.xyz#%253E%253E%2540V2RAY_VMESS_free%3A%3ACA
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102/?insecure=1&sni=du.wish.ml#%253E%253E%2540oneclickvpnkeys%3A%3ACA
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?security=tls&insecure=1&sni=du.wish.ml#%253E%253E%2540ShadowsocksM%3A%3ACA

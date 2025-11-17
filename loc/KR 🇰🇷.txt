@@ -1,2 +1,2 @@
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?security=tls&insecure=1#%253E%253E%2540ShadowsocksM%3A%3AKR
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?security=tls&insecure=1#%253E%253E%2540configV2rayNG%3A%3AKR
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?security=tls&insecure=1#%253E%253E%2540ShadowsocksM%3A%3AKR
