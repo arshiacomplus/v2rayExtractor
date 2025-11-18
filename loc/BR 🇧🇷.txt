@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#%253E%253E%2540OutlineVpnOfficial%3A%3ABR
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102/?insecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ABR
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102/?insecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ABR
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?security=tls&insecure=1#%253E%253E%2540configV2rayNG%3A%3ABR
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?security=tls&insecure=1#%253E%253E%2540ShadowsocksM%3A%3ABR
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.187.105:30102?security=tls&insecure=1#%253E%253E%2540configV2rayNG%3A%3ABR

@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg%3D%3D@167.150.100.115:443#%253E%253E%2540DailyV2RY%3A%3ASG
 vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053/?type=ws&encryption=none&flow=&host=name.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=name.api-music-fa.com&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ASG
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3ASG

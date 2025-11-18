@@ -1,2 +1,3 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA%3D%3D@45.15.126.19:443#%253E%253E%2540DailyV2RY%3A%3APL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#%253E%253E%2540shadowproxy66%3A%3APL
 vless://4605f8c1-4818-4fd9-9bcd-ec1fc5c47abd@172.67.136.244:8443/?type=ws&encryption=none&flow=&host=hint.app-browser.org&path=%2FB9aKBZK1R8OBYWBZ&ed=9777&eh=Sec-WebSocket-Protocol&security=tls&sni=hint.app-browser.org&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3APL

@@ -1,1 +1,0 @@
-vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#%253E%253E%2540v2ray1_ng%3A%3ATR

@@ -1,7 +1,7 @@
 vless://193a692b-83ae-4586-979f-fe7e3fa74cbf@vpn-srv-2.circlevpn.net:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%253E%253E%2540DailyV2RY%3A%3AFR
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@www.speedtest.net:2087?encryption=none&security=tls&sni=DdDFRgGf.FeRIdO.InFo&type=ws&alpn=h2http/1.1&host=DdDFRgGf.FeRIdO.InFo&path=/#%253E%253E%2540DailyV2RY%3A%3AFR
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@fr1-raiv2mmr-free.koyeb.app:443?mode=packet-up&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=xhttp#%253E%253E%2540FreakConfig%3A%3AFR
 vless://9ebd1ced-0644-43ab-86be-1f130f32f5ef@vpn-srv-2.circlevpn.net:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%253E%253E%2540DailyV2RY%3A%3AFR
 vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443?security=reality&encryption=none&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#%253E%253E%2540outline_vpn%3A%3AFR
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%253E%253E%2540flyv2ray%3A%3AFR
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%253E%253E%2540ShadowsocksM%3A%3AFR
+hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%253E%253E%2540V2rayNG3%3A%3AFR
