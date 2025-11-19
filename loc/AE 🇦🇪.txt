@@ -1,2 +1,3 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6U3VjaEVGa01hY3FZOVc0YjdEazc1@89.36.162.181:8443#%253E%253E%2540prrofile_purple%3A%3AAE
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102/?insecure=1&sni=du.wish.ml#%253E%253E%2540oneclickvpnkeys%3A%3AAE
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?security=tls&insecure=1&sni=du.wish.ml#%253E%253E%2540configV2rayNG%3A%3AAE
