@@ -1,3 +1,5 @@
+trojan://F6xOQXz%3Drp7yeiNV@134.195.197.69:19579/?type=tcp&security=tls&sni=goodmorning.dancingbrick.click#%253E%253E%2540oneclickvpnkeys%3A%3ACA
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@40.233.76.38:30102/?insecure=1&sni=du.wish.ml#%253E%253E%2540oneclickvpnkeys%3A%3ACA
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102/?insecure=1&sni=du.wish.ml#%253E%253E%2540oneclickvpnkeys%3A%3ACA
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@40.233.76.38:30102?security=tls&insecure=1&sni=du.wish.ml#%253E%253E%2540configV2rayNG%3A%3ACA
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?security=tls&insecure=1&sni=du.wish.ml#%253E%253E%2540ShadowsocksM%3A%3ACA

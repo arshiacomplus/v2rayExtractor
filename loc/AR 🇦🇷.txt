@@ -1,0 +1,1 @@
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me%2Fv2Line#%253E%253E%2540v2line%3A%3AAR

@@ -1,1 +1,2 @@
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096/?type=ws&encryption=none&flow=&host=frAgteSt.JaHANGiRKh.eU.orG&path=%2F&security=tls&sni=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3ASE
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3ASE

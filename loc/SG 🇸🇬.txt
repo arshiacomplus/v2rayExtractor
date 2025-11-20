@@ -1,1 +1,4 @@
+trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#%253E%253E%2540oneclickvpnkeys%3A%3ASG
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%253E%253E%2540VmessProtocol%3A%3ASG
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3ASG
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#%253E%253E%2540oneclickvpnkeys%3A%3ASG

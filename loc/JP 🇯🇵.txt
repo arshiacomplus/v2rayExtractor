@@ -1,2 +1,1 @@
-trojan://fg20mtCFHy@jpcaw.southbyte.xyz:5705/?type=tcp&security=tls#%253E%253E%2540oneclickvpnkeys%3A%3AJP
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&security=reality&pqv=&type=tcp&sni=mensura.cdn-apple.com&fp=chrome&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%253E%253E%2540DailyV2RY%3A%3AJP

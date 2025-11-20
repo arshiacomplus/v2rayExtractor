@@ -1,0 +1,1 @@
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?path=%2Frfvtgws&security=none&encryption=none&type=ws#%253E%253E%2540DailyV2RY%3A%3AES
