@@ -1,0 +1,1 @@
+vless://598277a9-a7aa-4397-affd-e1ea12e8300f@193.111.76.140:6060?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=shop.ftmsoft.com#%253E%253E%2540DailyV2RY%3A%3ABE
