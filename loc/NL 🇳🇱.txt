@@ -1,11 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cW5ZclRIU3hMaXZ6cEFRd1ZwWmg1@194.87.216.218:52571#%253E%253E%2540v2rayngvpn%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%253E%253E%2540ShadowsocksM%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#%253E%253E%2540DailyV2RY%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%253E%253E%2540ShadowsocksM%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%253E%253E%2540oneclickvpnkeys%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.233:8080#%253E%253E%2540ShadowsocksM%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%253E%253E%2540oneclickvpnkeys%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#%253E%253E%2540v2nodes%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%253E%253E%2540ShadowsocksM%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%253E%253E%2540ShadowsocksM%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%253E%253E%2540ShadowsocksM%3A%3ANL
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.4:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#%253E%253E%2540v2nodes%3A%3ANL
-vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.utexas.edu#%253E%253E%2540FreakConfig%3A%3ANL
+vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.utexas.edu&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#%253E%253E%2540oneclickvpnkeys%3A%3ANL

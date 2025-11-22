@@ -1,2 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%253E%253E%2540v2rayNG_Matsuri%3A%3ACA
 vless://63d650dc-f6cd-48bc-9303-dec2f8af4cc6@51.79.102.243:443/?type=ws&encryption=none&flow=&host=51.79.102.243&path=%2Flinkws%3Fed%3D2560#%253E%253E%2540oneclickvpnkeys%3A%3ACA
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@149.248.58.105:80?path=%2Frfvtgws&security=none&encryption=none&type=ws#%253E%253E%2540DailyV2RY%3A%3ACA
