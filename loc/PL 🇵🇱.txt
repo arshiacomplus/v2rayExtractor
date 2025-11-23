@@ -1,1 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#%253E%253E%2540shadowproxy66%3A%3APL
+trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#%253E%253E%2540VmessProtocol%3A%3APL
+trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&sni=joss.gpj1.web.id#%253E%253E%2540oneclickvpnkeys%3A%3APL
+vless://35bf2ca8-69dd-488a-b13d-1ad84d92a1c3@45.144.49.61:4655?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540v2rayNG_Matsuri%3A%3APL
