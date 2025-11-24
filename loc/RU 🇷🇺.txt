@@ -1,8 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#%253E%253E%2540DailyV2RY%3A%3ARU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%253E%253E%2540ShadowsocksM%3A%3ARU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#%253E%253E%2540oneclickvpnkeys%3A%3ARU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQzFCREVYT2RZbmM3N2NIMGl1UUFP@81.90.31.219:443#%253E%253E%2540shadowproxy66%3A%3ARU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%253E%253E%2540DailyV2RY%3A%3ARU
 vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443/?type=ws&encryption=none&flow=&host=zcreat.ethervpn.fun&path=%2Fwebsocketpl%3Fed%3D2047&security=tls&sni=zcreat.ethervpn.fun&alpn=h2%2Chttp%2F1.1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3ARU
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94#%253E%253E%2540v2line%3A%3ARU
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ARU
