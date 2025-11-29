@@ -1,0 +1,1 @@
+vless://59bbd62b-be29-48aa-9221-7cc29283b98a@85.206.171.91:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msn.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%253E%253E%2540oneclickvpnkeys%3A%3ALT

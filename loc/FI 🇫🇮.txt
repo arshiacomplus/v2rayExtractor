@@ -1,6 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc%3D@64.137.109.212:44884#%253E%253E%2540v2ray1_ng%3A%3AFI
 vless://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%253E%253E%2540DailyV2RY%3A%3AFI
-vless://346a072d-36d8-427f-912c-8756c1c53e1b@m86a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%253E%253E%2540DailyV2RY%3A%3AFI
 vless://4c8659ab-e49f-4db6-9a87-d0247e98f5ec@m61a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%253E%253E%2540DailyV2RY%3A%3AFI
-vless://b4f1bba8-2207-44b4-8f6f-8e4452850bfa@37.27.220.218:10138/?type=ws&encryption=none&flow=&path=%2F%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL#%253E%253E%2540oneclickvpnkeys%3A%3AFI
-vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#%253E%253E%2540FreakConfig%3A%3AFI

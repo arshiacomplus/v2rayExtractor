@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUjlFV2ZQa2pnQndpOEtNaFhrNlha@77.83.246.74:443#%253E%253E%2540OutlineVpnOfficial%3A%3APL
+vless://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540FreakConfig%3A%3APL
