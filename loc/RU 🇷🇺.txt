@@ -5,5 +5,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@ru2.ultima.foundation:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@ru-cdn.ultima.foundation:1443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=io.ozone.ru&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ARU
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#%253E%253E%2540flyv2ray%3A%3ARU
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 hy2://SNItest@37.18.14.169:443/?insecure=1&sni=megafon.ru#%253E%253E%2540oneclickvpnkeys%3A%3ARU
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#%253E%253E%2540EliV2ray%3A%3ARU

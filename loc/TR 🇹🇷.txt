@@ -1,3 +1,2 @@
-trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443/?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F83.217.9.110%3D24443&security=tls&sni=joss.gpj.web.id&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ATR
 hy2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@tr.xn--gmq00sc0nuve.shop:21105/#%253E%253E%2540oneclickvpnkeys%3A%3ATR
 hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@tr.xn--gmq00sc0nuve.shop:21105?security=tls&insecure=0#%253E%253E%2540configV2rayNG%3A%3ATR
