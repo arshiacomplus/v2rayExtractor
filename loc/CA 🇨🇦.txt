@@ -1,6 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%253E%253E%2540oneclickvpnkeys%3A%3ACA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ%3D%3D@193.203.203.66:443#%253E%253E%2540DailyV2RY%3A%3ACA
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%253E%253E%2540V2RAY_VMESS_free%3A%3ACA
-vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#%253E%253E%2540V2rayNG3%3A%3ACA
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#%253E%253E%2540FreakConfig%3A%3ACA
-vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052/?type=ws&encryption=none&flow=&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ACA
+vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070/?type=tcp&encryption=none&flow=&security=tls&sni=src.smnsoft.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ACA

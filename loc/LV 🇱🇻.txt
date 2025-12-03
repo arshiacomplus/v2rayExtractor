@@ -1,4 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ%3D%3D@94.131.104.147:443#%253E%253E%2540DailyV2RY%3A%3ALV
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@lv5.ultima.foundation:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lv2.ultima.foundation&fp=qq&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=#%253E%253E%2540oneclickvpnkeys%3A%3ALV
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@lv2.ultima.foundation:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lv2.ultima.foundation&fp=qq&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=#%253E%253E%2540oneclickvpnkeys%3A%3ALV
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@ru-cdn-cloud-2.ultima.foundation:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#%253E%253E%2540oneclickvpnkeys%3A%3ALV
