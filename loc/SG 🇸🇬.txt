@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#%253E%253E%2540OutlineVpnOfficial%3A%3ASG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg@167.150.100.115:443#%253E%253E%2540oneclickvpnkeys%3A%3ASG
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3ASG
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.141.64.192:36619?path=%2Ftelegram%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Ded%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#%253E%253E%2540V2RAY_VMESS_free%3A%3ASG
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?path=%2Ffreecodes%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#%253E%253E%2540V2RAY_VMESS_free%3A%3ASG
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@91.192.81.154:2053?path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%20%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#%253E%253E%2540V2RAY_VMESS_free%3A%3ASG
