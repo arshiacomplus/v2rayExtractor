@@ -72,13 +72,11 @@ def clean_previous_configs(configs: List[str]) -> List[str]:
             if '#' in config:
                 base_uri, tag = config.split('#', 1)
 
-
                 decoded_tag = full_unquote(tag)
-
                 cleaned_tag = re.sub(r'::[A-Z]{2}$', '', decoded_tag).strip()
 
                 if cleaned_tag:
-                    final_config = f"{base_uri}#{urllib.parse.quote(cleaned_tag)}"
+                    final_config = f"{base_uri}#{cleaned_tag}"
                 else:
                     final_config = base_uri
 
@@ -89,7 +87,10 @@ def clean_previous_configs(configs: List[str]) -> List[str]:
             logging.warning(f"Could not clean config, adding original: {config[:50]}... Error: {e}")
             cleaned_configs.append(config)
     return cleaned_configs
+
+
 def scrape_configs_from_url(url: str) -> List[str]:
+
     configs = []
     try:
         response = requests.get(url, timeout=20)
@@ -129,13 +130,14 @@ def scrape_configs_from_url(url: str) -> List[str]:
                     logging.warning(f"Could not parse vmess config, skipping: {config[:50]}... Error: {e}")
             else:
                 base_uri = config.split('#', 1)[0]
-                configs.append(f"{base_uri}#{urllib.parse.quote(new_tag)}")
+                configs.append(f"{base_uri}#{new_tag}")
 
         logging.info(f"Found and re-tagged {len(configs)} configs in {url}")
         return configs
     except Exception as e:
         logging.error(f"Could not fetch or parse {url}: {e}")
         return []
+
 def run_sub_checker(input_configs: List[str]) -> List[str]:
 
     if not SUB_CHECKER_DIR.is_dir():
