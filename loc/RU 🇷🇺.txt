@@ -1,9 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#%253E%253E%2540DailyV2RY%3A%3ARU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%253E%253E%2540DailyV2RY%3A%3ARU
-vless://669be00c-67b4-4b87-b08f-311c45abced2@77.110.113.76:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#%253E%253E%2540FreakConfig%3A%3ARU
-vless://669be00c-67b4-4b87-b08f-311c45abced2@ru.atlanta-internet.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=chrome&security=reality&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#%253E%253E%2540oneclickvpnkeys%3A%3ARU
-vless://669be00c-67b4-4b87-b08f-311c45abced2@95.215.108.205:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#%253E%253E%2540v2nodes%3A%3ARU
 vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3ARU
+hy2://15d8d4f4-a050-4034-bb08-3a262dba2c2d@194.87.196.112:11000/?insecure=1&sni=www.bing.com#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 hy2://SNItest@37.18.14.169:443/?insecure=1&sni=megafon.ru#%253E%253E%2540oneclickvpnkeys%3A%3ARU
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#%253E%253E%2540EliV2ray%3A%3ARU
