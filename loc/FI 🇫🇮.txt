@@ -1,8 +1,9 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRG84M3BvMXBUSmZxY2JiblV4bE04@78.153.139.98:1792?note=@freeOnlineVPN#%3E%3E%40v2nodes%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348#%3E%3E%40oneclickvpnkeys%3A%3AFI
-ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ@185.103.110.67:18282#%3E%3E%40v2rayngvpn%3A%3AFI
-vless://270b7522-bda3-4381-bffb-6156076e271e@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639004042094803957.legacy-amsit.info&type=ws&host=639004042094803957.legacy-amsit.info&path=/amglzgws#%3E%3E%40DailyV2RY%3A%3AFI
+vless://15ac9083-177e-4852-9acf-a9ccf24e6b35@notifications.platform.dash.cloudflare.com:2052?encryption=none&security=none&type=ws&host=udbdushs-28727272-idbsisbsha-iwiwiw.poshakhowdy.ir&path=%2F#%3E%3E%40v2ray_configs_pool%3A%3AFI
 vless://270b7522-bda3-4381-bffb-6156076e271e@172.64.33.91:443?path=%2Famglzgws&security=tls&encryption=none&host=639004042094803957.legacy-amsit.info&type=ws&sni=639004042094803957.legacy-amsit.info#%3E%3E%40v2rayngvpn%3A%3AFI
+vless://270b7522-bda3-4381-bffb-6156076e271e@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639004042094803957.legacy-amsit.info&type=ws&host=639004042094803957.legacy-amsit.info&path=/amglzgws#%3E%3E%40DailyV2RY%3A%3AFI
 vless://504f4add-e233-454c-a45d-daffaeaa6081@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003600953613625.insight-amsit.info&type=ws&host=639003600953613625.insight-amsit.info&path=/fxywhnws#%3E%3E%40DailyV2RY%3A%3AFI
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://86104262-50ee-43ab-938a-67df2c1ae87f@axe.soyet2j.ir:443?encryption=none&security=tls&sni=menu.gejeh683bm.ir&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0#%3E%3E%40v2ray_configs_pool%3A%3AFI
 vless://d350b8d9-e7cb-4e81-a189-73b15ee487a3@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456253078972.defender-amsis.info&type=ws&host=639003456253078972.defender-amsis.info&path=/oypliwws#%3E%3E%40DailyV2RY%3A%3AFI
