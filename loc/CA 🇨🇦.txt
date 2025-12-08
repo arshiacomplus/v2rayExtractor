@@ -1,1 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%3E%3E%40v2rayNG_Matsuri%3A%3ACA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ%3D%3D@193.203.203.66:443#%3E%3E%40DailyV2RY%3A%3ACA
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@151.101.195.6:443?mode=auto&security=tls&alpn=h3&encryption=none&host=adsmiatm1764454498.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=hls-amt.itunes.apple.com#%3E%3E%40DailyV2RY%3A%3ACA
