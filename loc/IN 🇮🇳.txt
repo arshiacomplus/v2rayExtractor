@@ -1,2 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.97.203.227:990#%3E%3E%40v2rayNG_Matsuri%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%3E%3E%40ShadowsocksM%3A%3AIN
+vless://e21a049b-3c52-445c-8463-bda32e6c2a93@ind.hackkcah.xyz:1443?mode=stream-one&path=%2Fvless-xhttp%2F&security=none&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=ind.hackkcah.xyz&type=xhttp#%3E%3E%40v2rayngvpn%3A%3AIN
