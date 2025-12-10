@@ -1,10 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ%3D%3D@45.15.127.49:443#%3E%3E%40DailyV2RY%3A%3AFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://0945839b-113a-4272-a67c-1852b990abf5@m80a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%3E%3E%40DailyV2RY%3A%3AFI
-vless://15ac9083-177e-4852-9acf-a9ccf24e6b35@notifications.platform.dash.cloudflare.com:2052?encryption=none&security=none&type=ws&host=udbdushs-28727272-idbsisbsha-iwiwiw.poshakhowdy.ir&path=%2F#%3E%3E%40v2ray_configs_pool%3A%3AFI
-vless://270b7522-bda3-4381-bffb-6156076e271e@172.64.33.91:443?path=%2Famglzgws&security=tls&encryption=none&host=639004042094803957.legacy-amsit.info&type=ws&sni=639004042094803957.legacy-amsit.info#%3E%3E%40v2rayngvpn%3A%3AFI
-vless://270b7522-bda3-4381-bffb-6156076e271e@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639004042094803957.legacy-amsit.info&type=ws&host=639004042094803957.legacy-amsit.info&path=/amglzgws#%3E%3E%40DailyV2RY%3A%3AFI
-vless://55ac52fd-4937-4e15-a37b-7d6ed383d2a1@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=639005817910603942.renegade-amsit.info&type=ws&host=639005817910603942.renegade-amsit.info&path=/emrqyfws#%3E%3E%40DailyV2RY%3A%3AFI
 vless://5fd98b1c-ffcc-4493-b507-6fdcccd5f474@65.109.231.154:20400?type=ws&encryption=none&path=%2F&host=&security=none#%3E%3E%40V2rayNG3%3A%3AFI
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://9980305e-536a-4db4-92e9-3ec43fb05318@m88a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%3E%3E%40DailyV2RY%3A%3AFI

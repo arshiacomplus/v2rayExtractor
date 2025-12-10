@@ -1,6 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%3E%3E%40ShadowsocksM%3A%3ARU
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ARU
 hy2://SNItest@46.243.235.119:443/?insecure=1&sni=gazprombank.ru#%3E%3E%40oneclickvpnkeys%3A%3ARU
-hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#%3E%3E%40EliV2ray%3A%3ARU
 hysteria2://SNItest@46.243.235.119:443?security=tls&insecure=1&sni=gazprombank.ru#%3E%3E%40configV2rayNG%3A%3ARU
