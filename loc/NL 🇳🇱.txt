@@ -2,7 +2,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA%3D%3D@178.23.190.238:443#%3E%3E%40DailyV2RY%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUNTS29DRjNRYXpXOFlsdkRCV0E0@109.71.246.210:56689#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#%3E%3E%40OutlineVpnOfficial%3A%3ANL
-vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80/?type=ws&encryption=none&flow=&path=%2FgetWorkerUpdates#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://397cca10-b921-44ee-baf5-5ffa58ae03ba@clyde.ns.cloudflare.com:443?path=%2Fltyhduws&security=tls&encryption=none&host=639009270246638675.golf-amsiy.info&type=ws&sni=639009270246638675.golf-amsiy.info#%3E%3E%40v2rayngvpn%3A%3ANL
 vless://48a8cab5-ce75-4c8a-90f5-dcd020c89b4b@31.44.0.63:58349/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#%3E%3E%40FreakConfig%3A%3ANL
 vless://62b0e46b-d2a5-423d-8457-95bde707fc19@152.53.60.157:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#%3E%3E%40v2ray1_ng%3A%3ANL
+vless://62b0e46b-d2a5-423d-8457-95bde707fc19@194.36.37.254:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&fp=random&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3ANL

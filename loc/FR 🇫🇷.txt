@@ -1,6 +1,5 @@
-vless://355648ef-e752-4e8a-be99-e003d1327a3d@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
-vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40V2RAY_VMESS_free%3A%3AFR
-hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://1347acec-0c12-46c0-9436-19603093d9ab@69.84.182.13:443/?type=ws&encryption=none&flow=&host=fr-1-fr-1.aiopen.sbs&path=%2Fkbjc%2Ffr1&security=tls&sni=fr-1-fr-1.aiopen.sbs&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://8d3bd623-1b3c-4aeb-98c4-d42326ee13b2@141.227.132.7:21429?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%3E%3E%40v2nodes%3A%3AFR
 hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#%3E%3E%40V2rayNG3%3A%3AFR

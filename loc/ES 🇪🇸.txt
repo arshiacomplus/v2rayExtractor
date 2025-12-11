@@ -1,0 +1,1 @@
+vless://7fb9813a-e15d-4c40-a78b-882ff80d1efb@brenna.ns.cloudflare.com:443?path=%2Fztznofws&security=tls&encryption=none&host=639009462851028680.passat-amsiy.info&type=ws&sni=639009462851028680.passat-amsiy.info#%3E%3E%40v2rayngvpn%3A%3AES
