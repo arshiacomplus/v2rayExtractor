@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg==@31.13.208.3:1234#%3E%3E%40v2rayngvpn%3A%3AFI
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?path=%2Fvless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#%3E%3E%40v2nodes%3A%3AFI
