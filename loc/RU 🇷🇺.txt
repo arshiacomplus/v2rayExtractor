@@ -1,1 +1,1 @@
-vless://c42e4667-ca09-4769-b544-89a8da730daf@ru2.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&security=reality&pbk=51TT1F2DugIjuNuGgaeEoW_BWhEKg3mNyNkjNGd_2RM&sid=#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://ffaab2f1-8d78-441a-b910-e8127dd3edb2@51.250.28.71:443?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3ARU
