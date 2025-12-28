@@ -1,1 +1,2 @@
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
+vless://23d94ce7-81fe-4a37-935d-0fa980485c51@fi1.jugploer.icu:443?security=reality&encryption=none&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1.jugploer.icu#%3E%3E%40v2rayngvpn%3A%3AFI
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=&encryption=none&host=cloudflare.com&type=ws#%3E%3E%40FreakConfig%3A%3AFI
