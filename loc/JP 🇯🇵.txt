@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Z29Pc3l5QnYyWW40dzBoU3Fqc05xZjVJR2JJRVRaNg@5.253.41.46:443#%3E%3E%40oneclickvpnkeys%3A%3AJP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#%3E%3E%40DailyV2RY%3A%3AJP
-trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%3E%3E%40oneclickvpnkeys%3A%3AJP
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%3E%3E%40oneclickvpnkeys%3A%3AJP
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435/?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%3E%3E%40oneclickvpnkeys%3A%3AJP
 vless://b52fac66-fd92-47ae-b1f6-332aa1c353d9@57.180.50.81:37390?path=%2Fxxhjphome&security=tls&encryption=none&insecure=0&host=xxh.ipipip.im&fp=chrome&type=ws&allowInsecure=0&sni=xxh.ipipip.im#%3E%3E%40V2RAY_VMESS_free%3A%3AJP
