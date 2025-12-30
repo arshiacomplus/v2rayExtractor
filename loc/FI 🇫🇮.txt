@@ -1,3 +1,6 @@
-vless://23d94ce7-81fe-4a37-935d-0fa980485c51@fi1.jugploer.icu:443?security=reality&encryption=none&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1.jugploer.icu#%3E%3E%40v2rayngvpn%3A%3AFI
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=&encryption=none&host=cloudflare.com&type=ws#%3E%3E%40FreakConfig%3A%3AFI
+vless://23d94ce7-81fe-4a37-935d-0fa980485c51@144.31.232.48:443?security=reality&encryption=none&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1.jugploer.icu#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
+vless://23d94ce7-81fe-4a37-935d-0fa980485c51@fi1.jugploer.icu:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi1.jugploer.icu&security=reality&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://23d94ce7-81fe-4a37-935d-0fa980485c51@144.31.119.246:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi1.jugploer.icu&security=reality&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://47867494-9509-4c32-a90a-e9253b033279@65.109.217.108:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#%3E%3E%40flyv2ray%3A%3AFI
