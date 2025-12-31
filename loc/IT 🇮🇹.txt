@@ -1,2 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#%3E%3E%40OutlineVpnOfficial%3A%3AIT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#%3E%3E%40OutlineVpnOfficial%3A%3AIT
+vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AIT
