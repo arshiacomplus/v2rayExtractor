@@ -1,0 +1,1 @@
+vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.8:1488?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ASE
