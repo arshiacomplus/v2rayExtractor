@@ -1,0 +1,1 @@
+vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@kz.skytunnel.pw:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#%3E%3E%40configV2rayNG%3A%3AKZ

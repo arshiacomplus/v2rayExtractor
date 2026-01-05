@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%3E%3E%40OutlineVpnOfficial%3A%3ACZ
+vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%3E%3E%40FreakConfig%3A%3ACZ
