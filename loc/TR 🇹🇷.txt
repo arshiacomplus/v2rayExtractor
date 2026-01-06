@@ -1,1 +1,1 @@
-vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#%3E%3E%40oneclickvpnkeys%3A%3ATR
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%3E%3E%40V2raNG_DA%3A%3ATR
