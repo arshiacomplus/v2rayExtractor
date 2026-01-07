@@ -1,0 +1,1 @@
+vless://dfd30304-9c58-4ff4-8ba0-b70af154fbc9@151.236.93.44:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AKZ

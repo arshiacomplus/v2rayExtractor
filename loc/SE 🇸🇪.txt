@@ -1,0 +1,1 @@
+vless://08c7f096-d057-4d53-82fd-c739d372887b@104.16.53.11:8880?security=none&encryption=none&host=sweeden.mastermarly.ir&type=ws#%3E%3E%40configV2rayNG%3A%3ASE

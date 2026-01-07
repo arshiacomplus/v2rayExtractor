@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#%3E%3E%40OutlineVpnOfficial%3A%3AAU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#%3E%3E%40OutlineVpnOfficial%3A%3AAU
+hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@158.179.18.251:443/?mport=35000-39000&insecure=1&sni=api.push.apple.com#%3E%3E%40oneclickvpnkeys%3A%3AAU
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@158.179.18.251:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#%3E%3E%40configV2rayNG%3A%3AAU

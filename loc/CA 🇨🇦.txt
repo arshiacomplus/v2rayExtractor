@@ -1,5 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#%3E%3E%40v2rayNG_Matsuri%3A%3ACA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%3E%3E%40OutlineVpnOfficial%3A%3ACA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%3E%3E%40v2rayNG_Matsuri%3A%3ACA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#%3E%3E%40FreakConfig%3A%3ACA
-vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=1403.stopt7307.workers.dev&sni=1403.stopt7307.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3ACA
