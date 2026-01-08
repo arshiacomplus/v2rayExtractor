@@ -1,2 +1,1 @@
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.67.95.183:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#%3E%3E%40configV2rayNG%3A%3ACH
-hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.67.95.183:443/?mport=35000-39000&insecure=1&sni=www.apple.com#%3E%3E%40oneclickvpnkeys%3A%3ACH
+vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@prosshprossh.ajorpare.ir:8880?path=%2F&security=none&encryption=none&host=servepross.ajorpare.ir&type=ws#%3E%3E%40v2rayngvpn%3A%3ACH

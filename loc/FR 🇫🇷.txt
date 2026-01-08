@@ -1,6 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTc0NTczYmViM2YzMGQ0@57.128.30.201:11201#%3E%3E%40ShadowsocksM%3A%3AFR
+trojan://vwhoUdVRNtFBKstJd1gpuA@137.74.41.156:7494?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
 vless://0a49a5cb-526c-471d-b08e-1a52d52ee635@france.streamvault-premium.site:80/?type=ws&encryption=none&flow=&host=france.streamvault-premium.site&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%3E%3E%40outline_vpn%3A%3AFR
 vless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Fblock&security=tls&sni=vds.rahedarro.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Frahh&security=tls&sni=vds.rahedarro.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv16.outlinekeys.com:8443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&pbk=zJ2Zy8TDKJU0usrZ061Jbjn1jpatD-uAqkUdbtCVMlQ&fp=chrome&type=xhttp&sni=01.img.avito.st#%3E%3E%40v2rayng_fast%3A%3AFR

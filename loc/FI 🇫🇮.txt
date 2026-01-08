@@ -1,3 +1,3 @@
-vless://08c7f096-d057-4d53-82fd-c739d372887b@104.16.53.11:2052?security=none&encryption=none&host=fin.mastermarly.ir&type=ws#%3E%3E%40configV2rayNG%3A%3AFI
-vless://8cf4d179-a921-49e5-934c-dcacd276c620@f2.ev2ma.ir:80?path=%2Fma%3Fed%3D2560&security=none&encryption=none&host=amiromaghia.global.ssl.fastly.net&type=ws#%3E%3E%40v2rayngvpn%3A%3AFI
+vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@ficdn16.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn16.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net&security=reality&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#%3E%3E%40flyv2ray%3A%3AFI
