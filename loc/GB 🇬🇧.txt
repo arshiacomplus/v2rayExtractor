@@ -1,4 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#%3E%3E%40FreakConfig%3A%3AGB
-trojan://vwhoUdVRNtFBKstJd1gpuA@209.97.191.29:7392?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%3E%3E%40freev2rayssr%3A%3AGB
+trojan://zL7CpPYxhvFtYqm2yAbHrw@209.97.191.29:7392?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
 vless://0c24b522-06b9-4767-f67e-59a34c5aeeb7@aqua-aria.company:2096/?type=ws&encryption=none&flow=&host=deguo2.shuiwudengli.dpdns.org&path=%2F&security=tls&sni=deguo2.shuiwudengli.dpdns.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://9d329f7a-b0a9-4e55-d113-e744c4d4fd79@cloudflare-dl.byoip.top:2096/?type=ws&encryption=none&flow=&host=deguo1.shuiwudengli.dpdns.org&path=%2F&security=tls&sni=deguo1.shuiwudengli.dpdns.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
