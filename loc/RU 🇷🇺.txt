@@ -1,5 +1,2 @@
-vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557/?encryption=none&flow=&host=dns.google.com&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://84b24517-2989-4f23-b6df-a12effc3c432@51.250.106.64:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://84b24517-2989-4f23-b6df-a12effc3c432@51.250.28.151:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://84b24517-2989-4f23-b6df-a12effc3c432@51.250.26.96:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://84b24517-2989-4f23-b6df-a12effc3c432@51.250.28.39:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3ARU
+ss://YWVzLTI1Ni1nY206ZDk4OWZmM2Q0NmE2M2Y2Mw==@45.147.200.79:10081#%3E%3E%40v2nodes%3A%3ARU
+vless://08c7f096-d057-4d53-82fd-c739d372887b@203.189.233.201:1140/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ARU
