@@ -1,0 +1,1 @@
+vless://a0f8bf0f-4cf0-4848-aa0c-032a1a47012e@kz.skytunnel.pw:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bunny.net&fp=chrome&security=reality&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&sid=#%3E%3E%40oneclickvpnkeys%3A%3AKZ
