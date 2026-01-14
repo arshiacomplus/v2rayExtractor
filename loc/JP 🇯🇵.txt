@@ -1,3 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#%3E%3E%40DailyV2RY%3A%3AJP
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudcircus.jp&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&sid&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AJP
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#%3E%3E%40configV2rayNG%3A%3AJP
