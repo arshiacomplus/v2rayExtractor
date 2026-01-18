@@ -1,0 +1,1 @@
+vless://4a4bc24c-616a-4384-8a8f-b3e197fc1af2@91.218.212.223:443/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F91.218.212.223%3D443&security=tls&sni=joss.gvpn2.web.id&allowInsecure=1&fp=randomized#%3E%3E%40oneclickvpnkeys%3A%3AUA

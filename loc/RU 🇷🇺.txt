@@ -1,2 +1,1 @@
-vless://5b74303c-748f-4e6b-b525-9f37218205e6@ru.invisevps.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.invisevps.ru&fp=chrome&security=reality&pbk=MFOi9VpBg-LVIkVKKZxkS3s6gqAW_nNwKOSGecvl-yo&sid=#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#%3E%3E%40v2nodes%3A%3ARU
+vless://a2afaf73-dc35-45a0-95e1-ba754d710c8d@89.169.188.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=qq&security=reality&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&sid=#%3E%3E%40oneclickvpnkeys%3A%3ARU
