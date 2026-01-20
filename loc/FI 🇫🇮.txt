@@ -1,0 +1,1 @@
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn19.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
