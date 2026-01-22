@@ -1,4 +1,0 @@
-vless://b891e5c3-2797-48d1-8301-cbed50988c92@104.18.32.47:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=pn.rezaedvr.shop&alpn=h2,http/1.1#%3E%3E%40vmessorg%3A%3ACH
-vless://b891e5c3-2797-48d1-8301-cbed50988c92@chatgpt.com:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=pn.rezaedvr.shop&alpn=h2,http/1.1#%3E%3E%40vmessorg%3A%3ACH
-vless://b891e5c3-2797-48d1-8301-cbed50988c92@openai.com:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=pn.rezaedvr.shop&alpn=h2,http/1.1#%3E%3E%40vmessorg%3A%3ACH
-vless://b891e5c3-2797-48d1-8301-cbed50988c92@divar.rezaedvr.shop:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=pn.rezaedvr.shop&alpn=h2,http/1.1#%3E%3E%40vmessorg%3A%3ACH
