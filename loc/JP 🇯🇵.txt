@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#%3E%3E%40DailyV2RY%3A%3AJP
-vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@150.230.4.210:40721/?type=tcp&encryption=none&flow=&sni=www.icloud.com&fp=chrome&security=reality&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&sid=c588#%3E%3E%40oneclickvpnkeys%3A%3AJP
-vless://e258977b-e413-4718-a3af-02d75492c349@141.147.144.109:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
-vless://e258977b-e413-4718-a3af-02d75492c349@198.13.62.34:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
+vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sid=#%3E%3E%40oneclickvpnkeys%3A%3AJP

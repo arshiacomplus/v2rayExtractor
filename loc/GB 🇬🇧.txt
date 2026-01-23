@@ -1,1 +1,2 @@
 vless://e258977b-e413-4718-a3af-02d75492c349@57.128.179.254:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&sid=#%3E%3E%40oneclickvpnkeys%3A%3AGB

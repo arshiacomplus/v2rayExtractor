@@ -1,1 +1,2 @@
-vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%3E%3E%40v2nodes%3A%3ASG
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%3E%3E%40oneclickvpnkeys%3A%3ASG
