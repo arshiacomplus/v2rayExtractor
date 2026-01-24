@@ -1,4 +1,2 @@
-trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443/?type=tcp&security=tls&sni=fi2.nnvpn.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn10.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn2.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://f0693080-e004-4baf-a1e9-258025a134a7@8.6.112.0:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=rb11.fasst11.shop&fp=chrome&allowinsecure=0&type=ws&sni=rb11.fasst11.shop#%3E%3E%40vpn_proxy_custom%3A%3AFI
+vless://c68a1a4c-7dbd-4a19-bf2e-e00e131373bf@216.24.57.1:443?path=%2FWS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ceo.nexun.ir&fp=chrome&type=ws&allowInsecure=0&sni=ceo.nexun.ir#%3E%3E%40FreakConfig%3A%3AFI
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%3E%3E%40prrofile_purple%3A%3AFI

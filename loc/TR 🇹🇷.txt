@@ -1,1 +1,1 @@
-vless://0c06cea4-5d42-4697-9be0-b92d45be3c3f@tr.nicren.com:5678?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#%3E%3E%40v2nodes%3A%3ATR
+trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%3E%3E%40v2rayNG_Matsuri%3A%3ATR

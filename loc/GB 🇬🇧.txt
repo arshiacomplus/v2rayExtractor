@@ -1,2 +1,3 @@
-vless://e258977b-e413-4718-a3af-02d75492c349@57.128.179.254:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://92028bf3-6ca2-4bdd-a570-eacfbc851657@57.129.137.222:443/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&sni=joss.gvpn2.web.id&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://a5e872dd-8d1d-4d89-83ac-ac1e13d38912@8.208.27.141:443?flow=xtls-rprx-vision&fp=firefox&pbk=HerZfkes2tFtduXTu7Ybx2aBjxVm_xoiDU4E-kMWpxw&security=reality&sid=&sni=static.cloud.coveo.com&type=tcp#%3E%3E%40v2nodes%3A%3AGB
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&sid=#%3E%3E%40oneclickvpnkeys%3A%3AGB
