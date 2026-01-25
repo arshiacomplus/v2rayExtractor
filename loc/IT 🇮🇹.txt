@@ -1,1 +1,2 @@
 vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#%3E%3E%40prrofile_purple%3A%3AIT
+vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%3E%3E%40v2nodes%3A%3AIT

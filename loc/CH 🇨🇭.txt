@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%3E%3E%40v2nodes%3A%3ACH
+vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&encryption=none&headerType=http&type=tcp#%3E%3E%40ultrasurf_12%3A%3ACH

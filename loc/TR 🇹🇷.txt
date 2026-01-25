@@ -1,1 +1,2 @@
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%3E%3E%40v2rayNG_Matsuri%3A%3ATR
+vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@Gody.xrayshop.store:54230?security=none&encryption=none&host=tamin.ir&headerType=http&type=tcp#%3E%3E%40prrofile_purple%3A%3ATR
