@@ -1,1 +1,2 @@
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%3E%3E%40prrofile_purple%3A%3AFI
+vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#%3E%3E%40ultrasurf_12%3A%3AFI
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#%3E%3E%40v2nodes%3A%3AFI
