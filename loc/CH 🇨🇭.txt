@@ -1,4 +1,2 @@
-vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&type=tcp&headerType=http&host=iranserver.com&security=none#%3E%3E%40v2nodes%3A%3ACH
+vless://123d4832-db2b-4376-be63-f60858cc328e@ch-1.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=samsung.com&sid=6ba85179e30d4fc2#%3E%3E%40v2nodes%3A%3ACH
 vless://431dfd3c-728c-41f2-9c8f-cf0d3a75a008@03030.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%3E%3E%40v2nodes%3A%3ACH
-vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&encryption=none&headerType=http&type=tcp#%3E%3E%40ultrasurf_12%3A%3ACH
-vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@185.228.236.237:80?path=%2Fpreply&security=&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#%3E%3E%40configV2rayNG%3A%3ACH

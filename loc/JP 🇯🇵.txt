@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#%3E%3E%40OutlineVpnOfficial%3A%3AJP
-vless://e258977b-e413-4718-a3af-02d75492c349@13.112.81.223:443/?type=ws&encryption=none&flow=&host=tw-f0n.pages.dev&path=%2F%3Fed%3D2095&security=tls&sni=tw-f0n.pages.dev&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AJP
-vless://e258977b-e413-4718-a3af-02d75492c349@144.48.4.248:443/?type=ws&encryption=none&flow=&host=tw-f0n.pages.dev&path=%2F%3Fed%3D2095&security=tls&sni=tw-f0n.pages.dev&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AJP
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
