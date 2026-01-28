@@ -1,2 +1,2 @@
-vless://123d4832-db2b-4376-be63-f60858cc328e@ch-1.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=samsung.com&sid=6ba85179e30d4fc2#%3E%3E%40v2nodes%3A%3ACH
 vless://431dfd3c-728c-41f2-9c8f-cf0d3a75a008@03030.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%3E%3E%40v2nodes%3A%3ACH
+vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40vmessorg%3A%3ACH

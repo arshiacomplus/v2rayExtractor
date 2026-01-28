@@ -1,2 +1,0 @@
-vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@sv20.farsdataco.top:7426?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%3E%3E%40FreakConfig%3A%3AES
-vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AES
