@@ -1,2 +1,2 @@
-vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@172.64.152.23:443?path=%2F130.162.193.183%3A15401&security=tls&encryption=none&alpn=http/1.1&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#%3E%3E%40ShadowSocks_s%3A%3AFI
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#%3E%3E%40v2nodes%3A%3AFI
+vless://2b7a1667-345e-4fdf-b1a7-4957435be682@cf3.xuiprospeed.ir:2053?security=tls&type=ws&headerType=&path=%2Flove&host=finlo.xuiprospeed.ir&sni=finlo.xuiprospeed.ir&fp=#%3E%3E%40vip_vpn_2022%3A%3AFI
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
