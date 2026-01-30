@@ -1,2 +1,3 @@
-vless://2b7a1667-345e-4fdf-b1a7-4957435be682@cf3.xuiprospeed.ir:2053?security=tls&type=ws&headerType=&path=%2Flove&host=finlo.xuiprospeed.ir&sni=finlo.xuiprospeed.ir&fp=#%3E%3E%40vip_vpn_2022%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%3E%3E%40V2rayNG3%3A%3AFI
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@fn.love-speed.sbs:2022?security=none&type=tcp&headerType=http&path=%2F&host=#%3E%3E%40vip_vpn_2022%3A%3AFI
