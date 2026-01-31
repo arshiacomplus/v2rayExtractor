@@ -1,1 +1,0 @@
-vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@ipo.mastermarly.ir:8443?encryption=none&security=tls&sni=sweeden-fr.mastermarly.ir&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=sweeden-fr.mastermarly.ir&path=%2Fpath#%3E%3E%40DailyV2RY%3A%3ACZ

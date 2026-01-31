@@ -1,0 +1,1 @@
+vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AIT

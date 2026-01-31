@@ -1,3 +1,5 @@
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083/?type=tcp&security=tls&sni=node-tr-1.v2sv.top&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@Gody.xrayshop.store:54230?security=none&encryption=none&host=tamin.ir&headerType=http&type=tcp#%3E%3E%40prrofile_purple%3A%3ATR
 vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230/?encryption=none&flow=&host=tamin.ir&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3ATR
+vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3ATR
+vless://cb9dc2fd-023c-4559-b383-22e1bfcb7a52@Cf.xuiprospeed.ir:2096?path=%2F&security=tls&encryption=none&insecure=1&host=majid-tor.hhgksdghfggg.sbs&type=ws&allowInsecure=1&sni=majid-tor.hhgksdghfggg.sbs#%3E%3E%40prrofile_purple%3A%3ATR
