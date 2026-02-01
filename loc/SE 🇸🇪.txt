@@ -1,1 +1,1 @@
-vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@nsop.mastermarly.ir:2096?path=%2Fpath&security=tls&encryption=none&insecure=0&host=francoo.mastermarly.ir&fp=safari&type=ws&allowInsecure=0&sni=francoo.mastermarly.ir#%3E%3E%40prrofile_purple%3A%3ASE
+vless://1bc0b294-bbc8-471f-9d44-b3d4d270bed2@144.31.221.8:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&sid=#%3E%3E%40oneclickvpnkeys%3A%3ASE

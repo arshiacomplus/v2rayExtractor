@@ -1,1 +1,1 @@
-vless://96863176-edbb-47dd-9b56-1d4582a6f9c0@vip3.kaixincloud.top:8443/?type=ws&encryption=none&flow=&host=ir.irannet.shop&path=%2FhshsHhdsgj54645sgsSdc&security=tls&sni=ir.irannet.shop&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ACH
+vless://5fc41f2c-8e78-4c7d-a572-cae85cb9b063@freeus.pishipishi.pro:1313?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40V2rayNg_madam%3A%3ACH

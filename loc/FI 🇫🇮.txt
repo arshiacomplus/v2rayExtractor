@@ -1,4 +1,14 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc=@media.mothyleela.cfd:40521#%3E%3E%40ip_cf%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%3E%3E%40V2rayNG3%3A%3AFI
+ss://YWVzLTI1Ni1nY206YTBkMGRlZTEtZGQ1Zi00MDNjLThlODktNmFhMzY5MTcyZjYx@38.244.209.215:443#%3E%3E%40configshub2%3A%3AFI
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://4e5c6735-d657-4f9c-931d-52504f31aae8@fox3.wizard2shop.org:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=finii.wizard2shop.com&fp=360&type=ws&allowInsecure=0&sni=finii.wizard2shop.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
+vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@144.31.128.36:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn19.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.94:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn3.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.68:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn13.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.118:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn15.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn3.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn3.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn15.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn15.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn13.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn13.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn4.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn4.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn9.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn9.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
