@@ -1,1 +1,0 @@
-vless://1bc0b294-bbc8-471f-9d44-b3d4d270bed2@144.31.221.8:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&sid=#%3E%3E%40oneclickvpnkeys%3A%3ASE

@@ -1,1 +1,1 @@
-vless://5fc41f2c-8e78-4c7d-a572-cae85cb9b063@freeus.pishipishi.pro:1313?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40V2rayNg_madam%3A%3ACH
+vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=%3Fed%3D2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=firefox&type=ws&allowInsecure=0&sni=pandura.lat#%3E%3E%40prrofile_purple%3A%3ACH
