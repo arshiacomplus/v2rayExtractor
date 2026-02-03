@@ -1,11 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.129.98:990#%3E%3E%40v2nodes%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.129.98:990#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc=@media.mothyleela.cfd:40521#%3E%3E%40ip_cf%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%3E%3E%40V2rayNG3%3A%3AFI
-vless://1eba8f10-8e16-484b-be7a-613327727d4d@37.27.240.154:42538?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2nodes%3A%3AFI
-vless://24497ec6-9244-4781-869d-3b48dbb13361@157.180.79.18:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=XhVQYDFxZdYohty3YEqn7fuvJMJmq4e79477s81vWHc&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://7449519c-e462-46e4-a143-519996d16d9b@python.org:80?encryption=none&security=none&type=xhttp&host=waslima.openwrld.tk&path=%2F%3Fed%3D2052&mode=auto#%3E%3E%40DailyV2RY%3A%3AFI
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@144.31.128.36:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn19.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@ficdn2.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://c805b05e-339d-40e0-8787-432d97a27345@FASTLY.COM:80?path=%2F&security=&encryption=none&host=mihan-germar2.global.ssl.fastly.net&type=ws#%3E%3E%40configV2rayNG%3A%3AFI
-vless://d836ab9c-abfe-4a48-8120-ea87cf4799a1@p1.hp7517hp.shop:52796/?encryption=none&flow=&host=fast.com&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.gologiah-shop.ir:3488?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#%3E%3E%40DailyV2RY%3A%3AFI

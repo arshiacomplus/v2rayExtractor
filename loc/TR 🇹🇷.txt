@@ -1,2 +1,1 @@
-vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@Gody.xrayshop.store:54230?security=none&encryption=none&host=tamin.ir&headerType=http&type=tcp#%3E%3E%40prrofile_purple%3A%3ATR
-vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230/?encryption=none&flow=&host=tamin.ir&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
