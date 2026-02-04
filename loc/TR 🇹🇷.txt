@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?encryption=none&flow=&headerType=http&host=uptvs.com&type=tcp#%3E%3E%40v2nodes%3A%3ATR
