@@ -1,2 +1,0 @@
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.105.192:1933?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AJP
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?allowInsecure=1&sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AJP

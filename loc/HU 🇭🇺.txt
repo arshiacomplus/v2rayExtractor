@@ -1,1 +1,0 @@
-vless://2e27ac27-c360-489a-86ea-8b9659de6763@cdnjs.com:443?path=%2Fjztpmbws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=639057258094935446.corolla-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639057258094935446.corolla-perma.info#%3E%3E%40vmess_iran%3A%3AHU
