@@ -1,6 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%3E%3E%40shadowproxy66%3A%3APL
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40FreakConfig%3A%3APL
-trojan://humanity@208.103.161.110:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
-trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40v2ray1_ng%3A%3APL
-trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40prrofile_purple%3A%3APL
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@plcdn11.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn11.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@144.31.1.125:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn11.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@plcdn11.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn11.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://ca911bd2-e08f-42d8-aefb-3117494d3367@srv25.outlinekeys.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=srv25.outlinekeys.com&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#%3E%3E%40oneclickvpnkeys%3A%3APL

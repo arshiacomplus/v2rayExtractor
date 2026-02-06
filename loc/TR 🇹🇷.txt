@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
-vless://7e12ed8c-07cd-4f7b-806e-6562470dedf6@france4.karevpn.xyz:33503?path=%2F&security=&encryption=none&host=speedtest.net&type=ws#%3E%3E%40v2nodes%3A%3ATR
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#%3E%3E%40oneclickvpnkeys%3A%3ATR

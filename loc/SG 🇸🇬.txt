@@ -1,1 +1,0 @@
-trojan://a9570330-769d-11ef-90dc-1577c1651679@v1.dabache.top:443?allowInsecure=1&host=sg-trojan.andfree.my.id&path=%2Fwelcome&sni=sg-trojan.andfree.my.id&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASG

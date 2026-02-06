@@ -1,0 +1,1 @@
+vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ARU
