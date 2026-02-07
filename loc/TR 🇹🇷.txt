@@ -1,1 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#%3E%3E%40FreakConfig%3A%3ATR
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#%3E%3E%40oneclickvpnkeys%3A%3ATR

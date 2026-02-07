@@ -1,3 +1,2 @@
 vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&headerType=http&host=iranserver.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACH
-vless://9c42819a-67a6-4742-9c6d-64900ba62160@199.68.196.108:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3ACH
-vless://e332b0eb-c2c6-4b6c-aeab-f02df5a8b2b8@37.156.46.10:2025?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&type=tcp&headerType=none#%3E%3E%40configshub2%3A%3ACH
+vless://66bf09dc-d86e-4c2b-9fc8-b98ca7126318@n3.byp.cx:1235?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ACH
