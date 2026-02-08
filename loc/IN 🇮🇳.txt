@@ -1,1 +1,2 @@
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%3E%3E%40v2nodes%3A%3AIN

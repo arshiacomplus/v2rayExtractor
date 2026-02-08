@@ -1,1 +1,0 @@
-vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@dublin.pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#%3E%3E%40oneclickvpnkeys%3A%3AIE

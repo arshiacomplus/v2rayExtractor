@@ -1,4 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%3E%3E%40shadowproxy66%3A%3APL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#%3E%3E%40FreakConfig%3A%3APL
-vless://71f8368d-e50e-4595-acf2-59843639804d@poland.pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://b25ae9bd-a6ad-4cf1-854d-bcd77134659d@212.22.76.8:443?mode=packet-up&path=%2Fmuhasv&security=tls&alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=www.muhasv.online&fp=chrome&type=xhttp&allowInsecure=0&sni=www.muhasv.online#%3E%3E%40configV2rayNG%3A%3APL

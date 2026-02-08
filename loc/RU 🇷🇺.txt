@@ -1,2 +1,2 @@
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%3E%3E%40configV2rayNG%3A%3ARU
-vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ARU
