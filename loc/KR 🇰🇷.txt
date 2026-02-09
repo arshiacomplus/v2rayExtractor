@@ -1,0 +1,1 @@
+vless://69872d60-7cc2-c421-47ea-e2733c39bab0@3.34.45.78:12345?encryption=none&security=tls&sni=afa61101.soos.bbroot.com&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=afa61101.soos.bbroot.com&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#%3E%3E%40v2rayng_fast%3A%3AKR

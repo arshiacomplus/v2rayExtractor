@@ -1,0 +1,1 @@
+vless://e6ec1d89-17fc-4de7-af89-81cd51022526@ua.griffon-guard.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sid=#%3E%3E%40oneclickvpnkeys%3A%3AUA

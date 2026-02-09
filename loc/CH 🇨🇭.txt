@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%3E%3E%40v2nodes%3A%3ACH
-vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&headerType=http&host=iranserver.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACH
-vless://66bf09dc-d86e-4c2b-9fc8-b98ca7126318@n3.byp.cx:1235?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ACH
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3ACH
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@nytimes.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Spebeg.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3ACH
