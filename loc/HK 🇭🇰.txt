@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.82.252.109:990#%3E%3E%40OutlineVpnOfficial%3A%3AHK
-vless://193c75c1-1af1-484a-84ec-14de4828d209@hk.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%3E%3E%40flyv2ray%3A%3AHK
+vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?type=ws&encryption=none&path=%2F&host=&security=none#%3E%3E%40v2rayng_fast%3A%3AHK
