@@ -1,2 +1,3 @@
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?allowInsecure=1&encryption=none&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&type=ws#%3E%3E%40configshub2%3A%3AGB
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--@NetifyVPN--#%3E%3E%40v2nodes%3A%3AGB
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443/?type=ws&encryption=none&flow=&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3AGB
