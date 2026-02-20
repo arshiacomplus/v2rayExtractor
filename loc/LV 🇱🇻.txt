@@ -1,1 +1,2 @@
 vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=wikimedia.org&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#%3E%3E%40v2nodes%3A%3ALV
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@lvcdn4.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn4.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ALV
