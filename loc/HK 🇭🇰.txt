@@ -1,5 +1,6 @@
-vless://003ef206-46b6-3701-ab77-b03debe7511f@104.18.185.26:443?path=%2Fdb1024143bf11354&security=tls&alpn=h3%2Ch2&encryption=none&insecure=1&host=dabaihk.webn.cc&fp=chrome&type=ws&allowInsecure=1&sni=dabaihk.webn.cc#%3E%3E%40configV2rayNG%3A%3AHK
+trojan://bef1e608-83df-4935-8169-8a345f5643e9@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com#%3E%3E%40configshub2%3A%3AHK
 vless://003ef206-46b6-3701-ab77-b03debe7511f@104.17.25.173:443?path=%2Fdb1024143bf11354&security=tls&alpn=h3%2Ch2&encryption=none&insecure=1&host=dabaihk.webn.cc&fp=chrome&type=ws&allowInsecure=1&sni=dabaihk.webn.cc#%3E%3E%40configV2rayNG%3A%3AHK
+vless://003ef206-46b6-3701-ab77-b03debe7511f@104.18.185.26:443?path=%2Fdb1024143bf11354&security=tls&alpn=h3%2Ch2&encryption=none&insecure=1&host=dabaihk.webn.cc&fp=chrome&type=ws&allowInsecure=1&sni=dabaihk.webn.cc#%3E%3E%40configV2rayNG%3A%3AHK
 vless://1e823993-86ac-3ead-89b5-227e73825fdb@v3.dabache.top:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
 vless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@104.16.249.46:443/?type=ws&encryption=none&flow=&host=dabaihk.webn.cc&path=%2Fdb1024a105975707&security=tls&sni=dabaihk.webn.cc&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
 vless://9523a24b-f6bf-339e-9950-32829162ffc2@v1.dabache.top:443/?type=ws&encryption=none&flow=&host=dabaihk.webn.cc&path=%2Fdb1024532f9883c8&security=tls&sni=dabaihk.webn.cc&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
