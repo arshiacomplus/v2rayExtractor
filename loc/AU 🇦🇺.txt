@@ -1,1 +1,1 @@
-vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AAU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTBkNjNkYzdhNjIwM2Fm@46.250.241.55:45720#%3E%3E%40OutlineVpnOfficial%3A%3AAU
