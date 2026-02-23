@@ -1,12 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%3E%3E%40V2rayNG3%3A%3AFI
-vless://472b07d2-31e4-41ab-ae47-48914d9b7900@chatgpt.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Net3rffgrpc&allowInsecure=0&sni=fi.unoix.io#%3E%3E%40configV2rayNG%3A%3AFI
 vless://472b07d2-31e4-41ab-ae47-48914d9b7900@45.130.125.160:443?path=%2FNet3rffws&security=tls&encryption=none&insecure=0&host=fi.unoix.io&fp=chrome&type=ws&allowInsecure=0&sni=fi.unoix.io#%3E%3E%40configV2rayNG%3A%3AFI
+vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@104.21.9.88:8443/?type=ws&encryption=none&flow=&host=bouquetberlin.org&path=%2Fvlessws&security=tls&sni=bouquetberlin.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:8443/?type=ws&encryption=none&flow=&host=bouquetberlin.org&path=%2Fvlessws&security=tls&sni=bouquetberlin.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@172.67.159.168:8443/?type=ws&encryption=none&flow=&host=bouquetberlin.org&path=%2Fvlessws&security=tls&sni=bouquetberlin.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@104.21.9.88:8443/?type=ws&encryption=none&flow=&host=bouquetberlin.org&path=%2Fvlessws&security=tls&sni=bouquetberlin.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://8101e743-fab1-4c81-906c-f62eef26b07b@77.91.85.109:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn12.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn13.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.69:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn14.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@nlcdn13.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn13.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@nlcdn14.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn14.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
