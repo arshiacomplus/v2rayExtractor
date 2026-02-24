@@ -1,13 +1,9 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%3E%3E%40FreakConfig%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%3E%3E%40FreakConfig%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.250.133:443#%3E%3E%40ShadowSocks_s%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKNGlFR1FDc2ZEVU12S1NJOEpMNnBCNmFUNG5lWkVzSXdtY1d0MQ%3D%3D@91.216.155.20:41348#%3E%3E%40ShadowSocks_s%3A%3AGB
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--@NetifyVPN--#%3E%3E%40v2nodes%3A%3AGB
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2line%3A%3AGB
 vless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#%3E%3E%40configV2rayNG%3A%3AGB
 vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=t.me%2Fv2Line#%3E%3E%40v2line%3A%3AGB
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@57.129.133.88:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AGB
-vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@51.38.64.226:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AGB
+vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB

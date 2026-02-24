@@ -1,3 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#%3E%3E%40ShadowSocks_s%3A%3ARU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg%3D%3D@45.9.75.37:8000#%3E%3E%40ShadowSocks_s%3A%3ARU
+vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@193.233.231.221:443/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ARU

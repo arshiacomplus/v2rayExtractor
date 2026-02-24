@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%3E%3E%40V2rayNG3%3A%3AFI
-vless://472b07d2-31e4-41ab-ae47-48914d9b7900@45.130.125.160:443?path=%2FNet3rffws&security=tls&encryption=none&insecure=0&host=fi.unoix.io&fp=chrome&type=ws&allowInsecure=0&sni=fi.unoix.io#%3E%3E%40configV2rayNG%3A%3AFI
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@104.21.9.88:8443/?type=ws&encryption=none&flow=&host=bouquetberlin.org&path=%2Fvlessws&security=tls&sni=bouquetberlin.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:8443/?type=ws&encryption=none&flow=&host=bouquetberlin.org&path=%2Fvlessws&security=tls&sni=bouquetberlin.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@172.67.159.168:8443/?type=ws&encryption=none&flow=&host=bouquetberlin.org&path=%2Fvlessws&security=tls&sni=bouquetberlin.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@83.147.255.191:448/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI

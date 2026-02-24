@@ -1,0 +1,1 @@
+vless://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.59.197:4320?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=apple.com#%3E%3E%40v2ray_configs_pool%3A%3ACH
