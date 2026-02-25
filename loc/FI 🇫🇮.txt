@@ -1,1 +1,0 @@
-vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@83.147.255.191:448/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFI

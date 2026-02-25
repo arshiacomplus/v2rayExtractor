@@ -1,1 +1,0 @@
-vless://1d6705da-0790-49bf-bf47-b166d2e945cf@38.180.27.102:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&sid=#%3E%3E%40oneclickvpnkeys%3A%3AAE

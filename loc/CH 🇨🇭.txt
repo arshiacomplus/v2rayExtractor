@@ -1,1 +1,1 @@
-vless://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.59.197:4320?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=apple.com#%3E%3E%40v2ray_configs_pool%3A%3ACH
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%3E%3E%40FreakConfig%3A%3ACH
