@@ -1,4 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg%3D%3D@45.9.75.37:8000#%3E%3E%40ShadowSocks_s%3A%3ARU
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443/?type=ws&encryption=none&flow=&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@185.39.206.22:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.jobinvest.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ARU

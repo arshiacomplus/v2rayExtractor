@@ -1,0 +1,1 @@
+vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80/?type=ws&encryption=none&flow=&host=www.ptnk.sry-vpn.com&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ATH

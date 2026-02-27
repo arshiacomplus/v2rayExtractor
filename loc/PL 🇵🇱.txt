@@ -1,3 +1,5 @@
 vless://128a854c-13ab-472e-b418-139869e82df6@telegram.vpnazadie.store:80/?type=ws&encryption=none&flow=&host=vpnazadie.store&path=%2Fvless-ntls#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#%3E%3E%40FreakConfig%3A%3APL
+vless://4658bc5b-f644-466d-8a90-b8a3fa0faa78@162.159.134.61:80/?type=ws&encryption=none&flow=&host=vpnazadie.store&path=%2Fvless-ntls#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&fp=edge&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#%3E%3E%40oneclickvpnkeys%3A%3APL
