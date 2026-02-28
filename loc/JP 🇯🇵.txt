@@ -1,2 +1,0 @@
-vless://00000000-0000-4000-8000-000000000000@8.209.220.50:21273/?type=ws&encryption=none&flow=&host=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&path=%2F%40Marisa_kristi&security=tls&sni=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
-vless://00000000-0000-4000-8000-000000000000@202.84.53.85:20755/?type=ws&encryption=none&flow=&host=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&path=%2F%40Marisa_kristi&security=tls&sni=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
