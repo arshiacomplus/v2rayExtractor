@@ -1,2 +1,1 @@
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c27.prodnsspeed10.ir:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=black-tr.gozarcloud.ir&fp=chrome&mode=auto#%3E%3E%40vmess_iran%3A%3ATR
-hy2://5046SHWqk6@91.132.51.160:844/#%3E%3E%40oneclickvpnkeys%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#%3E%3E%40vmess_iran%3A%3ATR
