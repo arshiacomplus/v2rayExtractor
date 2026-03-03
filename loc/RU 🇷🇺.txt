@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg%3D%3D@45.9.75.37:8000#%3E%3E%40ShadowSocks_s%3A%3ARU
 vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.157.118:443?type=ws&security=tls&sni=lk-cdn.deploy-assure.ru&host=lk-cdn.deploy-assure.ru&path=%2F%2F&fp=chrome#%3E%3E%40configshub2%3A%3ARU
 vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@46.235.186.203:443?path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&allowInsecure=0&sni=lk-cdn.deploy-assure.ru#%3E%3E%40v2rayng_fast%3A%3ARU
-vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443/?type=ws&encryption=none&flow=&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ARU
