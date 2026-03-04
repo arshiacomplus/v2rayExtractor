@@ -1,1 +1,2 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#%3E%3E%40FreakConfig%3A%3ACH
 vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?encryption=none&host=GitHub.com&path=%2F%2Fconnect&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACH

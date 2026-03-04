@@ -5,4 +5,3 @@ vless://65e542e0-0690-4787-b7e3-a4706013097d@vps.jentago.web.id:80/?type=ws&encr
 vless://684e779f-03cf-4a12-ad4d-e923cce20131@ai.darkvpn.site:443/?type=ws&encryption=none&flow=&host=ai.darkvpn.site&path=%2Fvless&security=tls&sni=ai.darkvpn.site&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://82e457f4-43ff-4f83-9345-407da3da57f4@209.17.118.131:12639/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80/?type=ws&encryption=none&flow=&host=vps.zakir.web.id&path=vless#%3E%3E%40oneclickvpnkeys%3A%3ASG
-vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.xbox.com&fp=chrome&security=reality&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&sid=#%3E%3E%40oneclickvpnkeys%3A%3ASG
