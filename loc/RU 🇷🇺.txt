@@ -1,3 +1,1 @@
-vless://36d63b0e-af50-4989-adf0-5a0787948237@217.16.27.208:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=sbU_YZa-qqOoo3MY3lyLdAYFn1ZQVXKR4ewqwVRBB1E&sid=00&spx=%2F&allowInsecure=1&type=tcp&headerType=none#%3E%3E%40v2line%3A%3ARU
-vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.157.118:443?type=ws&security=tls&sni=lk-cdn.deploy-assure.ru&host=lk-cdn.deploy-assure.ru&path=%2F%2F&fp=chrome#%3E%3E%40configshub2%3A%3ARU
-vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@46.235.186.203:443?path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&allowInsecure=0&sni=lk-cdn.deploy-assure.ru#%3E%3E%40v2rayng_fast%3A%3ARU
+vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?allowInsecure=1&encryption=none&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
