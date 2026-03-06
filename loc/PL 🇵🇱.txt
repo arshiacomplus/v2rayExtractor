@@ -1,2 +1,1 @@
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%3E%3E%40vmess_vless_v2rayng%3A%3APL
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
