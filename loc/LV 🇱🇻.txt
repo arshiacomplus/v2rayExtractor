@@ -1,3 +1,2 @@
-vless://14818654-7689-453a-9a1f-4c72f89782d5@riga-node.genadata.online:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#%3E%3E%40oneclickvpnkeys%3A%3ALV
 vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.229:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#%3E%3E%40oneclickvpnkeys%3A%3ALV
 vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.225:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#%3E%3E%40oneclickvpnkeys%3A%3ALV
