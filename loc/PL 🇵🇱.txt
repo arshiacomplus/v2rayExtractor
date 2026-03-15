@@ -1,1 +1,1 @@
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn17.suio.me:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=plcdn17.suio.me#%3E%3E%40prrofile_purple%3A%3APL
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?allowInsecure=1&encryption=none&security=tls&sni=alcdn1.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL

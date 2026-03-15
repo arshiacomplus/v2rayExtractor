@@ -1,1 +1,0 @@
-vless://65e542e0-0690-4787-b7e3-a4706013097d@vps.jentago.web.id:80/?type=ws&encryption=none&flow=&host=vps.jentago.web.id&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
