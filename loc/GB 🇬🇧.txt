@@ -2,4 +2,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://00000000-0000-4000-8000-000000000000@143.47.227.42:15805?allowInsecure=1&encryption=none&host=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://00000000-0000-4000-8000-000000000000@8.208.10.113:17817?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&security=tls&sni=sub.mot.ip-ddns.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=s2.nakosgol.com&type=xhttp#%3E%3E%40configV2rayNG%3A%3AGB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%3E%3E%40vmess_iran%3A%3AGB
