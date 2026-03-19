@@ -1,3 +1,5 @@
+trojan://ZY07256934@delicate-buck.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://ZY07256934@free-duckling.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@199.241.138.38:25631?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=ylnhh.cc.cd&type=ws&allowInsecure=0&sni=ylnhh.cc.cd#%3E%3E%40vmess_iran%3A%3ASG
 vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?encryption=none&host=vps.zakir.web.id&path=vless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://ebb58926-84cf-460a-b6ce-b69656fcfcce@sg1.tangnin.top:1443?&security=tls&sni=sg1.tangnin.top&type=ws&headerType=none&host=sg1.tangnin.top&path=%2F#%3E%3E%40v2nodes%3A%3ASG
