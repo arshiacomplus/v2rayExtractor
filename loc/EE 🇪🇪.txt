@@ -1,1 +1,0 @@
-vless://bea7a5db-bb02-4bcd-bece-62832eb1bc94@144.31.129.196:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AEE
