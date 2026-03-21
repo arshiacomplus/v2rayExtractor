@@ -1,1 +1,0 @@
-vless://0509acee-63e3-4364-95cc-21c601f059be@82.41.30.190:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&security=reality&sni=booking.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AKZ
