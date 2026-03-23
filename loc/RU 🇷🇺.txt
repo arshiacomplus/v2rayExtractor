@@ -1,1 +1,0 @@
-vless://f3e5644e-5937-4909-af88-cc7da1792cda@85.239.34.120:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=barclays.co.uk&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
