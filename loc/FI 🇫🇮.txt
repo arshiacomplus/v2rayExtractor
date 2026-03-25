@@ -1,3 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://576993a0-3b23-4c65-8c6d-2165b098826b@85.192.48.132:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn6.dramatorg.net&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.66.163.194:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI

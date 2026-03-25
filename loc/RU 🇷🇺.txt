@@ -1,1 +1,0 @@
-vless://a22f6494-f371-07d0-bad0-8df9594b8e45@109.120.188.160:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=anti-vpn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
