@@ -1,1 +1,1 @@
-vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243791121.camry-perma.info&path=%2Fnjvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHU
+vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=639073677243791121.camry-perma.info&path=%2Fnjvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHU
