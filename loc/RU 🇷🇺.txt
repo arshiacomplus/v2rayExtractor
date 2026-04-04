@@ -1,6 +1,1 @@
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@103.88.241.10:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@109.68.212.216:49169?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@185.178.47.163:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@188.225.34.41:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@217.25.94.11:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://801ddf0d-5b03-4a1d-a7b0-211458015187@5.23.54.3:49169?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@45.152.113.189:4440?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=files.moscownews24.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
