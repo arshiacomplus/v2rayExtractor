@@ -2,4 +2,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:
 vless://c4f2dee2-14e3-4c02-91e9-31c7917e239c@185.93.105.107:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://c4f2dee2-14e3-4c02-91e9-31c7917e239c@185.93.105.118:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://cdcd0159-bb13-4994-bdbb-982d854a72a6@whtk.mooo.com:15521?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
