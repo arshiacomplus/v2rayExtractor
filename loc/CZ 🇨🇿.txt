@@ -1,3 +1,2 @@
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACZ
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACZ
-vless://d0436b64-3355-11f1-a772-ee3d4fb45757@45.12.109.68:8443?encryption=none&fp=chrome&pbk=ptB0MNa4af00sliOI07Lvz2yqw_jjay67tDgiDXzcg8&security=reality&sni=dropbox.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACZ

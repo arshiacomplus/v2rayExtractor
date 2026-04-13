@@ -1,1 +1,1 @@
-vless://2491c11c-b958-4553-96f7-1aaa7cad8320@153.80.249.101:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T9-LNstrlOx3Bme7jREFDfDcvgYt3YGUpkTH4Uhwlws&security=reality&sid=4da040bb05be9f47&sni=dl.google.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.246.110.66:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
