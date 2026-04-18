@@ -1,0 +1,1 @@
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#%3E%3E%40v2ray_configs_pool%3A%3AJP
