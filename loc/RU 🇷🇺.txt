@@ -1,6 +1,1 @@
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.215.38:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
