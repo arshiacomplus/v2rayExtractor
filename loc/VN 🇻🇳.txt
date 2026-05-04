@@ -1,2 +1,1 @@
-vless://a3b3d7dc-3b98-4d54-8b11-6c6dc7f6a4f6@another-cf.dnsyes.kawaii520.icu:443?&security=tls&fp=chrome&sni=sd5488ghf26dfsae.another-appleid.ccwu.cc&type=ws&headerType=none&host=sd5488ghf26dfsae.another-appleid.ccwu.cc&path=%2F#%3E%3E%40v2nodes%3A%3AVN
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443/?insecure=1&sni=vpn-vn-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AVN
