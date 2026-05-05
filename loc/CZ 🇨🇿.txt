@@ -1,1 +1,3 @@
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACZ
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@45.151.183.111:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=czu.ksnodes.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACZ
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=czu.ksnodes.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACZ

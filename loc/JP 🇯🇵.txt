@@ -1,6 +1,4 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%3E%3E%40v2ray_configs_pool%3A%3AJP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%3E%3E%40configshub2%3A%3AJP
-ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.110:30312#%3E%3E%40v2nodes%3A%3AJP
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#%3E%3E%40v2ray_configs_pool%3A%3AJP
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%3E%3E%40configshub2%3A%3AJP
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#%3E%3E%40v2nodes%3A%3AJP
