@@ -1,3 +1,4 @@
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.70:50401?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3APL
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@82.40.62.106:2052?#%3E%3E%40v2nodes%3A%3APL
