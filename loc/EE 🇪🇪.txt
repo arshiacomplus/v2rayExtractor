@@ -1,1 +1,2 @@
-vless://a3798125-5413-0002-a8eb-267708c85be8@spb.connectv.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&security=reality&sni=spb.connectv.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AEE
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#%3E%3E%40oneclickvpnkeys%3A%3AEE
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AEE
