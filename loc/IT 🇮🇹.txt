@@ -1,0 +1,2 @@
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
+vless://b0f88da8-4c4b-5030-b273-4f11af95cced@muihzxwtdd-19523160218-direct.irgame.co:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=muihzxwtdd-19523160218-direct.irgame.co&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
