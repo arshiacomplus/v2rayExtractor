@@ -1,3 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#%3E%3E%40configV2rayNG%3A%3ATR
-vless://0519589c-306e-4678-aa6b-b60f58f5352f@cdn.trakin.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=cdn.trakin.ir&path=%2F&security=tls&sni=cdn.trakin.ir&type=ws#%3E%3E%40v2rayng_fast%3A%3ATR
 vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#%3E%3E%40shadowproxy66%3A%3ATR
