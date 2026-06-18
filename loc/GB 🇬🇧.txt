@@ -1,8 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%3E%3E%40shadowproxy66%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%3E%3E%40FreakConfig%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%3E%3E%40free_nettm%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%3E%3E%40ISVvpn%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%3E%3E%40FreakConfig%3A%3AGB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3E%40free4allVPN%3A%3AGB
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#%3E%3E%40configV2rayNG%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%3E%3E%40FreakConfig%3A%3AGB
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443#%3E%3E%40oneclickvpnkeys%3A%3AGB
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
