@@ -1,1 +1,1 @@
-vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=bulghari.appleseraj.ir#%3E%3E%40configshub2%3A%3ABG
+vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&sni=bulghari.appleseraj.ir#%3E%3E%40v2rayng_fast%3A%3ABG
