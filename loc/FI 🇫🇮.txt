@@ -1,6 +1,4 @@
-vless://3805c64a-ac60-49ad-883c-43e6309b68d0@65.21.109.91:80?path=%2Fnotbin&security=none&encryption=none&host=speedtest.com&type=ws#%3E%3E%40configshub2%3A%3AFI
-vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AFI
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=random&insecure=1&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#%3E%3E%40v2rayngvpn%3A%3AFI
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#%3E%3E%40configV2rayForFree%3A%3AFI
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AFI
-vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI

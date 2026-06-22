@@ -1,1 +1,7 @@
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=none&fp=firefox&type=tcp#%3E%3E%40configV2rayNG%3A%3ALV
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?path=%2F&security=&encryption=none&type=httpupgrade#%3E%3E%40configV2rayNG%3A%3ALV
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:29551?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ALV
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:45012?path=%2F&security=&encryption=none&type=httpupgrade#%3E%3E%40configV2rayNG%3A%3ALV
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ALV
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:15482?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ALV
+vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:29551?path=%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ALV

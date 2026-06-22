@@ -1,5 +1,4 @@
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AIT
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
-vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?security=reality&encryption=none&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%3E%3E%40ShadowsocksM%3A%3AIT
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=tls&sni=ov-italy1.09vpn.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
