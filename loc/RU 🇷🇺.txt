@@ -1,1 +1,4 @@
-vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecure=0&sni=assets.trorays.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ARU
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.246.77:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#%3E%3E%40FreakConfig%3A%3ARU
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#%3E%3E%40configV2rayNG%3A%3ARU
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
