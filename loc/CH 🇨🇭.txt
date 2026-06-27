@@ -1,2 +1,0 @@
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#%3E%3E%40configV2rayForFree%3A%3ACH
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACH
