@@ -1,6 +1,7 @@
 trojan://Mitivpn@151.101.242.172:80?path=%2Fed%3Dmitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#%3E%3E%40shadowproxy66%3A%3AIT
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AIT
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
+vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443/?type=ws&encryption=none&flow=&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=tls&sni=ov-italy1.09vpn.com#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h2.garletshopino.com:2096?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&mode=auto&path=%2Fclud%3Fed%3D2048&security=tls&sni=italix.dtvialon.com&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AIT
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AIT
