@@ -1,1 +1,0 @@
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AAM
