@@ -1,6 +1,5 @@
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@144.126.239.205:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%3E%3E%40ip_cf%3A%3AGB
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=www.yahoo.com&headerType=none&fp=chrome&type=tcp&sni=play.google.com#%3E%3E%40ip_cf%3A%3AGB
-vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?alpn=h2&encryption=none&fp=firefox&security=tls&serviceName=mobile.api.Event&sni=gb7.univesalsrv.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gbw40.moyvpns.com:443?alpn=h2&encryption=none&fp=firefox&security=tls&serviceName=grpc-api&sni=gbw40.moyvpns.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?encryption=none&fp=chrome&security=tls&serviceName=grpc-api&sni=gbos2.osvp.online&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
