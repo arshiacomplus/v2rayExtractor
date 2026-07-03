@@ -1,7 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDFuVnBxSlZwNW9xMlc0RDBMank0@109.107.182.229:51544#%3E%3E%40oneclickvpnkeys%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@157.180.71.202:10048?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://28acd046-f65e-402c-a25e-4a215af02796@89.124.118.227:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hLXvfh2eKV2aRlFGbWIc6pqlrhgX1uOaStQJTYfNDg0&security=reality&sni=tv.apple.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&security=reality&sni=dipvpn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://3b715892-8610-4fdc-9086-647b36af5443@ip2.iranphlox.ir:2086?mode=auto&path=%2F%3Fed%3D2082&security=none&encryption=none&host=J.cafearen.ir&type=xhttp#%3E%3E%40FreakConfig%3A%3AFI
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#%3E%3E%40configV2rayNG%3A%3AFI
-vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#%3E%3E%40configV2rayForFree%3A%3AFI
+vless://e08e7045-abd0-47aa-aa52-2820c4b869be@qow91.enterquality.online:2443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=qow91.enterquality.online&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#%3E%3E%40oneclickvpnkeys%3A%3AFI
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#%3E%3E%40oneclickvpnkeys%3A%3AFI

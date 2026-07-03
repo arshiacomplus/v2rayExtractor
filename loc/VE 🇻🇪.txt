@@ -1,0 +1,1 @@
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40shadowproxy66%3A%3AVE
