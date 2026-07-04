@@ -1,5 +1,7 @@
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@144.126.239.205:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.220:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?encryption=none&fp=chrome&security=tls&serviceName=grpc-api&sni=gbos2.osvp.online&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.120:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=npnl-2-two.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#%3E%3E%40FreakConfig%3A%3AGB
