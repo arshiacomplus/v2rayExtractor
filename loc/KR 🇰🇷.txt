@@ -1,2 +1,1 @@
-trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3AKR
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.232.91:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%3E%3E%40configV2rayNG%3A%3AKR
+trojan://PI36027154@ethical-raccoon.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AKR
