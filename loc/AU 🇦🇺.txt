@@ -1,3 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#%3E%3E%40oneclickvpnkeys%3A%3AAU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%3E%3E%40oneclickvpnkeys%3A%3AAU
-trojan://PI36027154@tight-possum.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AAU
+trojan://PI36027154@tight-possum.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AAU

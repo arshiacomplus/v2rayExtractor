@@ -1,10 +1,1 @@
-trojan://XG59623478@bright-cicada.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
-trojan://XG59623478@allowing-ram.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-trojan://XG59623478@complete-chipmunk.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-trojan://XG59623478@dashing-bedbug.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-trojan://XG59623478@funny-hen.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-trojan://XG59623478@immense-eagle.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-trojan://XG59623478@mature-lamprey.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
-trojan://XG59623478@rational-joey.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
-trojan://XG59623478@ruling-toucan.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-trojan://XG59623478@wise-rhino.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
+vless://e258977b-e413-4718-a3af-02d75492c349@84.247.152.29:8443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AJP
