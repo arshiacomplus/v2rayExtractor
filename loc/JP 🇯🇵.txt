@@ -1,4 +1,3 @@
-trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3AJP
 trojan://PI36027154@busy-lab.rooster465.autos:443?allowInsecure=0&sni=busy-lab.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://PI36027154@exciting-grizzly.rooster465.autos:443?allowInsecure=0&sni=exciting-grizzly.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://PI36027154@faithful-clam.rooster465.autos:443?allowInsecure=0&sni=faithful-clam.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
