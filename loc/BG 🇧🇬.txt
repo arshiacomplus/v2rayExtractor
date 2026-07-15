@@ -1,0 +1,1 @@
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3ABG
