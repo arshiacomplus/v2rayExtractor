@@ -1,12 +1,3 @@
+trojan://KV63147582@electric-sturgeon.rooster465.autos:443?allowInsecure=0&sni=electric-sturgeon.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
+trojan://CF68213490@well-marmot.rooster465.autos:443?allowInsecure=0&sni=well-marmot.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
 trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.206.22:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.174.3:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=JoinProxyVPN11.amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.211.140:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#%3E%3E%40v2nodes%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@172.64.32.75:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.19.134.235:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
