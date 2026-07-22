@@ -1,1 +1,2 @@
 vless://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&security=reality&sni=it-one.quiet-rogue.site&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT

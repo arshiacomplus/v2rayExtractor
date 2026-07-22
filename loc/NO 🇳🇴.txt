@@ -1,1 +1,1 @@
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?path=%2F&security=tls&encryption=none&insecure=0&host=norway.alfather.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=norway.alfather.ir#%3E%3E%40v2rayNG_Matsuri%3A%3ANO
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=norway.alfather.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=norway.alfather.ir#%3E%3E%40configV2rayNG%3A%3ANO
