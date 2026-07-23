@@ -1,5 +1,6 @@
 trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#%3E%3E%40v2nodes%3A%3ASG
+trojan://IQ68037294@giving-bird.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 trojan://IQ68037294@glowing-deer.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@happy-mutt.rooster465.autos:443?allowInsecure=0&sni=happy-mutt.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=0&sni=humane-hawk.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
@@ -7,9 +8,9 @@ trojan://IQ68037294@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=in
 trojan://IQ68037294@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-albacore.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@proud-escargot.rooster465.autos:443?allowInsecure=0&sni=proud-escargot.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@still-mastodon.rooster465.autos:443?allowInsecure=1&sni=still-mastodon.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%3E%3E%40configV2rayNG%3A%3ASG
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.195.117:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%3E%3E%40v2ray1_ng%3A%3ASG
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%3E%3E%40configV2rayNG%3A%3ASG
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%3E%3E%40configV2rayNG%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
