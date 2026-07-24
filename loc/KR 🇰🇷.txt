@@ -1,6 +1,7 @@
 trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://IQ68037294@adapted-quetzal.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
+trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
+trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://IQ68037294@growing-tuna.rooster465.autos:443?allowInsecure=1&sni=growing-tuna.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://IQ68037294@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=steady-lemming.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
