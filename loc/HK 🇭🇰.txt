@@ -1,4 +1,9 @@
 trojan://CF68213490@well-marmot.rooster465.autos:443?allowInsecure=0&sni=well-marmot.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
+trojan://IQ68037294@185.244.208.64:443?sni=desired-tahr.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://JA96378052@91.199.84.185:443?allowInsecure=1&sni=WangCai.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://KV63147582@electric-sturgeon.rooster465.autos:443?allowInsecure=0&sni=electric-sturgeon.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
+trojan://NQ26071394@wealthy-loon.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://ON38567014@genuine-grackle.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AHK
+trojan://WG39087154@normal-elk.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://XG59623478@194.99.79.214:443?sni=growing-oyster.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
