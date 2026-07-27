@@ -2,10 +2,10 @@ trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1#%3E%3E
 trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://IQ68037294@adapted-quetzal.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
 trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://IQ68037294@immortal-woodcock.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AKR
 trojan://IQ68037294@growing-tuna.rooster465.autos:443?allowInsecure=1&sni=growing-tuna.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://IQ68037294@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=steady-lemming.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://IQ68037294@immortal-woodcock.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AKR
 trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://IQ68037294@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=steady-lemming.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://JT80563429@mutual-puma.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AKR
 trojan://JT80563429@touching-pigeon.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
