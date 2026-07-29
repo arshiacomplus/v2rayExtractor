@@ -1,1 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDZxZHV5YTMzYnZsODYz@best.kovira2.ir:25026#%3E%3E%40shadowproxy66%3A%3ACH
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ACH
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ACH
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?path=%2F&security=&encryption=none&host=chatgpt.com&type=ws#%3E%3E%40configV2rayNG%3A%3ACH
+vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=chatgpt.com&type=xhttp#%3E%3E%40configV2rayNG%3A%3ACH
