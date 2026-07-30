@@ -1,1 +1,0 @@
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AES
