@@ -1,0 +1,2 @@
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443/?sni=taga5.api3-max.ru#%3E%3E%40oneclickvpnkeys%3A%3ATR
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443/?sni=taga9.api3-max.ru#%3E%3E%40oneclickvpnkeys%3A%3ATR
