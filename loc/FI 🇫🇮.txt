@@ -1,7 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
-vless://01d45b24-10c5-4d0b-83c2-8230c0290c38@s07.goharley.site:443?security=reality&encryption=none&pbk=lgYkxGzAAIIJJ6OmrtDyqJfcEKdWCqA7lmsxyVDgGWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.selectel.ru#%3E%3E%40configV2rayNG%3A%3AFI
-vless://497ea5af-1fd6-4f06-b909-6fe77995ee30@109.120.185.58:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ePsJg6vf5SHCTpVY0o-E7IXBhueFeCSAX8qR-7KnATw&security=reality&sid=985f8565714f1410&sni=www.apple.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&security=reality&sid=b08c5eb124a5877e&sni=site.rumedia-cdn.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://ba36ca25-5d46-49f2-8f03-fb22932e7607@pi.paydar.site:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AFI
-vless://ba36ca25-5d46-49f2-8f03-fb22932e7607@95.216.190.180:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AFI
+vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?allowInsecure=1&sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.neT&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3AFI
+vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3AFI
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3AFI
+vless://ddd9a320-9e93-437f-a5b6-6bf9647334a9@fin.sillyvpn.cc:31013?#%3E%3E%40v2nodes%3A%3AFI
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&sni=download.nvidia.com#%3E%3E%40mehrosaboran%3A%3AFI
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#%3E%3E%40oneclickvpnkeys%3A%3AFI
