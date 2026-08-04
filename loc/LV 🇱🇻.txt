@@ -1,2 +1,0 @@
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.81.129.167:443?encryption=none&fp=firefox&security=tls&sni=lv-ddc.astralweb.tech&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ALV
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?alpn=h2&encryption=none&fp=firefox&security=tls&sni=lv-ddc.astralweb.tech&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ALV
