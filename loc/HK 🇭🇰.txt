@@ -1,1 +1,1 @@
-vless://4cbefb4d-328c-411d-bf76-780df1082df8@31.77.144.45:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://ND91608427@ace-starling.rooster465.autos:443?allowInsecure=1&sni=ace-starling.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK

@@ -1,2 +1,1 @@
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#%3E%3E%40v2nodes%3A%3APL
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.137.43.147:30160?encryption=none&fp=&mode=auto&pbk=vqr3sFlSCpzBjw61NnufMWLDfevzkuT24qo1SaEhp1k&security=reality&sni=yandex.tr&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3APL

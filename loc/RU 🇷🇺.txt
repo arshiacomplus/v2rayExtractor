@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206MjAyN2U4MzAzOTlkOGQwOA@195.58.48.19:10910#%3E%3E%40configV2rayNG%3A%3ARU
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=&encryption=none&host=77.222.46.162&type=ws#%3E%3E%40configV2rayNG%3A%3ARU
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.151.101.197:30160?encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22800-1200%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=&host=yandex.tr&mode=auto&path=%2F&pbk=vqr3sFlSCpzBjw61NnufMWLDfevzkuT24qo1SaEhp1k&security=reality&sni=yandex.tr&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3ARU
