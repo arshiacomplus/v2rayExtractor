@@ -1,0 +1,1 @@
+vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@93.115.25.139:443?encryption=none&fp=firefox&security=tls&sni=ddc-chr2.astralweb.tech&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ALT

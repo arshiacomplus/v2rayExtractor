@@ -2,3 +2,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%3E%3E%40oneclickvpnkeys%
 trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&sni=definite-sturgeon.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#%3E%3E%40v2nodes%3A%3AJP
