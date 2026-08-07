@@ -1,4 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#%3E%3E%40prrofile_purple%3A%3AIE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#%3E%3E%40configV2rayNG%3A%3AIE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%3E%3E%40configV2rayNG%3A%3AIE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTlh0ZTI3ekJ5dU52VHNR@20.223.129.129:443#%3E%3E%40configV2rayNG%3A%3AIE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#%3E%3E%40configV2rayNG%3A%3AIE
 trojan://ND91608427@54.170.212.206:443?fp=chrome&sni=skilled-lioness.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://ND91608427@skilled-lioness.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://ND91608427@willing-beagle.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://UO36402987@54.216.124.178:443?fp=chrome&sni=warm-bass.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://UO36402987@definite-ladybird.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://UO36402987@warm-bass.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
