@@ -1,7 +1,10 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UXkwc2JrRWxINTRuKzdDekxZSzJreG1ZelhobFc1dWU1cEwvRWJpbkpycz06MlE0blNwT0JWSG5VbE5rWE5IWkJxN3JMZDhud0dsV2I0WGQ1WEYvSm9iND0@65.109.208.236:21871#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UXkwc2JrRWxINTRuKzdDekxZSzJreG1ZelhobFc1dWU1cEwvRWJpbkpycz06Nmtjcm8ySldSdllCb20xM0JKV25iODlSWVRyUXRHNzBLQmhFM2FyYjlUND0@65.109.208.236:21871#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#%3E%3E%40FreakConfig%3A%3AFI
-vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi1.hys.braidx.tech#%3E%3E%40configV2rayNG%3A%3AFI
-vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=fi1.hys.braidx.tech&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+trojan://6kcro2JWRvYBom13BJWnb89RYTrQtG70KBhE3arb9T4%3D@65.109.208.236:55109?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fi1.hys.braidx.tech&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fi1.hys.braidx.tech&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:26795?security=&encryption=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
+vless://eea1090b-71a9-42df-a617-c6c4ba5bc3d4@65.109.208.236:26795?security=&encryption=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#%3E%3E%40oneclickvpnkeys%3A%3AFI
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AFI
