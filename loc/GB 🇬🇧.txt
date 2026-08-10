@@ -1,7 +1,9 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#%3E%3E%40oneclickvpnkeys%3A%3AGB
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3E%40free4allVPN%3A%3AGB
+vless://2a12bb81-f3a3-0064-99ab-36febf676b4a@130.78.216.194:443?security=reality&encryption=none&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=calm-panther.cdn.cachefleet.com#%3E%3E%40configV2rayNG%3A%3AGB
+vless://2a12bb81-f3a3-0065-99ab-36febf676b4a@130.78.216.194:443?security=reality&encryption=none&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=quiet-bear.cdn.cachefleet.com#%3E%3E%40configV2rayNG%3A%3AGB
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.194:443?security=reality&encryption=none&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=calm-panther.cdn.cachefleet.com#%3E%3E%40configV2rayNG%3A%3AGB
 vless://3f03d985-b3a4-4e48-b317-edad1936f4f3@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#%3E%3E%40FreakConfig%3A%3AGB
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=qq&host=uk7.jailever.org&mode=auto&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&security=tls&sni=uk7.jailever.org&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://63dcf750-bda8-49e3-bbfd-e904a8e40458@188.166.146.41:18961?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://8f2a6194-1748-4ec7-9c5f-8ad504818aa3@167.233.225.59:443?encryption=none&mode=auto&path=%2F&security=tls&sni=uk-cf.aba-hum.store&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://ff454950-3922-4398-8cfe-7d53f5687901@139.59.172.53:34619?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://8f2a6194-1748-4ec7-9c5f-8ad504818aa3@167.233.225.59:443?encryption=none&fp=chrome&mode=auto&security=tls&sni=uk-cf.aba-hum.store&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://SoonTeam@191.215.37.90:443?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3AGB
