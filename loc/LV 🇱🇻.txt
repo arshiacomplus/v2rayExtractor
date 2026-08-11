@@ -1,1 +1,0 @@
-vless://Tel-NamedZadim@104.252.19.69:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3ALV
