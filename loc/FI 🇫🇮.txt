@@ -1,4 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@93.123.13.7:16460?#%3E%3E%40v2ray_configs_pool%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y211dnphOWd5ZXR4MHo4@93.123.13.7:25783?#%3E%3E%40v2ray_configs_pool%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#%3E%3E%40FreakConfig%3A%3AFI
-vless://28f8fff1-e7c4-4e56-879c-af01a9790c74@FI.Sav-savteAm.iR:2014?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3AFI
+vless://9f108161-c3cf-444b-989a-2d864b165435@93.123.13.7:40312?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AFI
+vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AFI
+vless://c8d2ebd5-d3cb-445e-923a-84f952a71917@93.123.13.7:10079?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AFI
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@213.176.17.215:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=helsink.vypnet.su&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://c863c8f0-cda1-429c-be76-cbefc8a418a1@93.123.13.7:15755?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AFI
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@helsink.vypnet.su:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=helsink.vypnet.su&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI

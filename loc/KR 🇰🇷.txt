@@ -2,12 +2,12 @@ trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=d
 trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AKR

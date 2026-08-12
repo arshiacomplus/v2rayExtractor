@@ -1,3 +1,2 @@
-vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&headerType=http&host=snapp.io&path=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?encryption=none&type=ws&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#%3E%3E%40freeland8%3A%3ATR
