@@ -1,12 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#%3E%3E%40oneclickvpnkeys%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%3E%3E%40configV2rayNG%3A%3AGB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3E%40free4allVPN%3A%3AGB
 vless://3f03d985-b3a4-4e48-b317-edad1936f4f3@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#%3E%3E%40FreakConfig%3A%3AGB
-vless://645710cd-317d-420b-bb07-db6620cc65d0@213.193.255.206:443?security=reality&encryption=none&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=uk.cdn.cachefleet.com#%3E%3E%40configV2rayNG%3A%3AGB
+vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=qq&host=uk7.jailever.org&mode=auto&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&security=tls&sni=uk7.jailever.org&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://8f2a6194-1748-4ec7-9c5f-8ad504818aa3@167.233.225.59:443?encryption=none&fp=chrome&mode=auto&security=tls&sni=uk-cf.aba-hum.store&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://SoonTeam@191.215.37.90:443?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3AGB
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@191.215.37.90:443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://f4dbc770-016d-0064-82f0-d83ee6f45da3@164.37.105.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sl.cdn.cachefleet.com&fp=random&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&type=tcp&headerType=none#%3E%3E%40v2ray_configs_pool%3A%3AGB
-vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.105.38:443?security=reality&encryption=none&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#%3E%3E%40freeland8%3A%3AGB
-vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.109.189:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&security=reality&sni=gb.cdn.cachefleet.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.109.190:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&security=reality&sni=uk.cdn.cachefleet.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%3E%3E%40V2rayNG3%3A%3AGB
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@one-for-all.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%3E%3E%40V2rayNG3%3A%3AGB
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?encryption=none&host=admin.jikebet.com&path=%2Fvless&security=tls&sni=admin.jikebet.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
