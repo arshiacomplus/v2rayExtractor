@@ -1,2 +1,0 @@
-vless://8f127368-8f47-4989-ec81-60c32953856f@185.126.236.181:8880?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#%3E%3E%40v2ray1_ng%3A%3AAT
-vless://eab81857-a729-4c61-c8e9-bd3b46608161@185.126.236.181:80?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3AAT
