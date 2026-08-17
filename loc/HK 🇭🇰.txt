@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1nY206SWpMamxIYk5DZ3cyRDRkVg@212.192.15.41:8388#%3E%3E%40v2rayNG_Matsuri%3A%3AHK
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%3E%3E%40configV2rayNG%3A%3AHK
 trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?sni=eminent-lamb.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
 trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
