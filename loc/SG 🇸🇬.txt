@@ -1,4 +1,10 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%3E%3E%40FreakConfig%3A%3ASG
 trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
+trojan://PQ05174892@13.212.91.165:443?allowInsecure=0&sni=composed-sheep.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://PQ05174892@13.212.174.21:443?allowInsecure=0&sni=fleet-pony.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://PQ05174892@54.169.228.116:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3ASG
+trojan://PQ05174892@welcome-monitor.rooster465.autos:443?allowInsecure=0&sni=welcome-monitor.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188#%3E%3E%40FreakConfig%3A%3ASG
 vless://edd5f4a0-19dd-4017-8d67-03482fd6472a@54.254.145.25:6768?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev#%3E%3E%40freeland8%3A%3ASG

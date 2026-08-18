@@ -1,6 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%3E%3E%40V2rayNG3%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@fr4.levikogjgfdd.ir:8388#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://3f03d985-b3a4-4e48-b317-edad1936f4f3@23.27.20.142:48537?encryption=none&fp=chrome&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://8f2a6194-1748-4ec7-9c5f-8ad504818aa3@167.233.225.59:443?encryption=none&fp=chrome&mode=auto&security=tls&sni=uk-cf.aba-hum.store&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?encryption=none&host=admin.jikebet.com&path=%2Fvless&security=tls&sni=admin.jikebet.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
