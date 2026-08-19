@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%3E%3E%40configV2rayNG%3A%3AIT
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@151.101.56.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=italyan.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AIT
