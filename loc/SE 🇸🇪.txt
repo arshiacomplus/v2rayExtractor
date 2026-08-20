@@ -1,1 +1,1 @@
-trojan://fg20mtCFHy@172.234.100.80:5612?allowInsecure=1&sni=yugdv.southbyte.xyz#%3E%3E%40v2nodes%3A%3ASE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.188.21.165:8390#%3E%3E%40v2rayNG_Matsuri%3A%3ASE

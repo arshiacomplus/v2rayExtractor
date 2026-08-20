@@ -1,2 +1,3 @@
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#%3E%3E%40oneclickvpnkeys%3A%3ARO
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#%3E%3E%40oneclickvpnkeys%3A%3ARO
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.166:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#%3E%3E%40oneclickvpnkeys%3A%3ARO
