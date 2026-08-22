@@ -1,8 +1,13 @@
+trojan://AE62539071@strong-haddock.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://AE62539071@modest-foal.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://AE62539071@magical-kodiak.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
-trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
+trojan://AE62539071@upright-bedbug.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://EQ30679154@kind-unicorn.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://EQ30679154@true-coral.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://FH72359861@modern-bedbug.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://FH72359861@natural-swan.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://ND91608427@185.244.208.210:443?fp=chrome&sni=upright-hamster.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://ND91608427@ace-starling.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%3E%3E%40oneclickvpnkeys%3A%3AHK
