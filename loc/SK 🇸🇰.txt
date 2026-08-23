@@ -1,1 +1,0 @@
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=none&fp=chrome&host=web-socket.tgdaosheng.ggff.net&path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome&security=tls&sni=web-socket.tgdaosheng.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASK

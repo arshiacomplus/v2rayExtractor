@@ -1,2 +1,4 @@
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
+trojan://FH72359861@52.195.225.156:443?fp=chrome&sni=many-pangolin.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AJP
 trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AJP
+trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AJP
