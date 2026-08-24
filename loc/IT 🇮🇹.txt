@@ -1,3 +1,2 @@
-vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=it2ws.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?encryption=none&path=%2F&security=tls&sni=it2ws.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
-vless://626c0789-16d1-4815-be8b-bd03959d7d12@185.207.66.243:443?mode=gun&security=reality&encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#%3E%3E%40prrofile_purple%3A%3AIT
+vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=it2ws.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
