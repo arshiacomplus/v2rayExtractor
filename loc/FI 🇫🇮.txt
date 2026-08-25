@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM@217.28.129.81:42982#%3E%3E%40oneclickvpnkeys%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM@autodiscover.fuzzyaytor.cyou:42982#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?encryption=none&host=81.177.214.150&path=%2F&security=tls&sni=fin4.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132-243-223-227.sslip.io:2101?encryption=none&fp=chrome&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&fp=firefox&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://63650025-84ff-4272-cfd4-61e7b9ee8834@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40FreakConfig%3A%3AFI
+vless://bbde90cd-b6a9-49ba-cab0-71ae12738502@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40mehrosaboran%3A%3AFI
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AFI

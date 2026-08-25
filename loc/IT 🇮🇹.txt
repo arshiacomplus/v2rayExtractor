@@ -1,2 +1,2 @@
-vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?encryption=none&path=%2F&security=tls&sni=it2ws.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=it2ws.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
+vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?encryption=none&path=%2F&security=tls&sni=it2ws.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT

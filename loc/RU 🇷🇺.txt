@@ -1,2 +1,4 @@
+vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%3E%3E%40prrofile_purple%3A%3ARU
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#%3E%3E%40FreakConfig%3A%3ARU
 vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox&type=grpc&serviceName=ns&sni=id.pervye.ru#%3E%3E%40FreakConfig%3A%3ARU
 vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%3E%3E%40prrofile_purple%3A%3ARU
