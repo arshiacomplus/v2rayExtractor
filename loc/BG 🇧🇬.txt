@@ -1,2 +1,1 @@
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&headerType=http&host=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ABG
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#%3E%3E%40V2rayNG3%3A%3ABG
