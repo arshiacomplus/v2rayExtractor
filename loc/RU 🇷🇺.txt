@@ -1,3 +1,1 @@
-vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.183:8443?sni=user-6a8d949a.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3ARU
-vless://d0471048-b677-48a4-94d1-50c0a4fb7191@212.67.10.55:445?#%3E%3E%40v2nodes%3A%3ARU
-vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%3E%3E%40prrofile_purple%3A%3ARU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#%3E%3E%40configV2rayNG%3A%3ARU

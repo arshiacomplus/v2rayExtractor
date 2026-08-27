@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%3E%3E%40V2rayNG3%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.145.91:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.145.91:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
