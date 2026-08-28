@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#%3E%3E%40configV2rayNG%3A%3ARU
+vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=user-6a8d949a.noooo.win&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#%3E%3E%40freeland8%3A%3ARU
