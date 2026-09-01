@@ -1,3 +1,3 @@
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@43.245.227.70:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nULEPKy53x8pz3C1grQxzZ9hcADidKOeyMhSipgODwI&security=reality&sni=2mdn-cn.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080/?insecure=1&sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080/?sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
