@@ -1,2 +1,4 @@
+vless://203d1d64-3313-11ed-bb74-f23c9164ca5d@13890bdf-tkyw00-trpvht-1ey07.hk3.hyhuawei.com:443?security=reality&encryption=none&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&headerType=none&fp=ios&type=tcp&sni=updates.cdn-apple.com#%3E%3E%40configV2rayNG%3A%3AHK
+vless://31676725-b0fd-fed2-c857-2da8ce5a6e4f@46b624e6-tkyw00-trnd2c-jjv2.hk3.hyhuawei.com:443?security=reality&encryption=none&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&headerType=none&fp=firefox&type=tcp&sni=updates.cdn-apple.com#%3E%3E%40configV2rayNG%3A%3AHK
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%3E%3E%40oneclickvpnkeys%3A%3AHK
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%3E%3E%40oneclickvpnkeys%3A%3AHK
